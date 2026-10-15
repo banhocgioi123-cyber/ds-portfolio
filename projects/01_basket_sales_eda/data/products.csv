@@ -1,0 +1,46 @@
+product_id,product_name,category,list_price,gross_margin
+P001,Mì gói tôm chua cay (thùng 30),Mì & đồ khô,115000,0.12
+P002,Gạo ST25 (túi 5kg),Mì & đồ khô,185000,0.12
+P003,Bún khô (gói 500g),Mì & đồ khô,22000,0.12
+P004,Phở khô (gói 500g),Mì & đồ khô,25000,0.12
+P006,Trứng gà (hộp 10),Trứng & sữa,35000,0.15
+P007,Sữa tươi không đường (lốc 4),Trứng & sữa,34000,0.15
+P008,Sữa đặc (lon 380g),Trứng & sữa,26000,0.15
+P009,Sữa chua (lốc 4),Trứng & sữa,28000,0.15
+P010,Phô mai (hộp 8 miếng),Trứng & sữa,42000,0.15
+P011,Nước suối (thùng 24),Đồ uống,95000,0.2
+P012,Nước ngọt có ga (lốc 6),Đồ uống,52000,0.2
+P013,Trà xanh đóng chai (lốc 6),Đồ uống,48000,0.2
+P014,Nước tăng lực (lốc 6),Đồ uống,60000,0.2
+P015,Bia lon (thùng 24),Bia,330000,0.12
+P016,Bia lon (lốc 6),Bia,88000,0.12
+P017,Snack khoai tây (gói lớn),Snack & bánh kẹo,32000,0.28
+P018,Đậu phộng rang (gói 200g),Snack & bánh kẹo,28000,0.28
+P019,Bánh quy bơ (hộp),Snack & bánh kẹo,65000,0.28
+P020,Kẹo dẻo (gói),Snack & bánh kẹo,20000,0.28
+P021,Bánh trung thu (hộp 4),Snack & bánh kẹo,320000,0.28
+P022,Nước mắm (chai 500ml),Gia vị,45000,0.22
+P023,Dầu ăn (chai 1L),Gia vị,52000,0.22
+P024,Hạt nêm (gói 400g),Gia vị,38000,0.22
+P025,Nước tương (chai 500ml),Gia vị,22000,0.22
+P026,Đường trắng (gói 1kg),Gia vị,25000,0.22
+P027,Bột giặt (túi 3kg),Giặt giũ & tẩy rửa,165000,0.25
+P028,Nước xả vải (túi 1.6L),Giặt giũ & tẩy rửa,120000,0.25
+P029,Nước rửa chén (chai 750ml),Giặt giũ & tẩy rửa,32000,0.25
+P030,Nước lau sàn (chai 1L),Giặt giũ & tẩy rửa,45000,0.25
+P031,Tã quần size L (gói 54),Mẹ & bé,330000,0.3
+P032,Khăn ướt (gói 100 tờ),Mẹ & bé,45000,0.3
+P033,Sữa bột trẻ em (lon 900g),Mẹ & bé,520000,0.3
+P034,Sữa tắm em bé (chai 500ml),Mẹ & bé,120000,0.3
+P035,Rau cải (bó 500g),Rau củ & trái cây,18000,0.3
+P036,Cà chua (kg),Rau củ & trái cây,30000,0.3
+P037,Hành tây (kg),Rau củ & trái cây,28000,0.3
+P038,Chuối (nải),Rau củ & trái cây,30000,0.3
+P039,Táo (kg),Rau củ & trái cây,75000,0.3
+P040,Thịt heo ba rọi (500g),Thịt cá,85000,0.18
+P041,Ức gà (500g),Thịt cá,55000,0.18
+P042,Cá basa phi lê (500g),Thịt cá,60000,0.18
+P043,Cà phê hoà tan (hộp 18 gói),Cà phê & trà,55000,0.25
+P044,Cà phê rang xay (gói 500g),Cà phê & trà,140000,0.25
+P045,Trà ô long (hộp 250g),Cà phê & trà,150000,0.25
+P060,Túi giữ nhiệt ShopNhanh (quà tặng),Quà tặng,0,0.0

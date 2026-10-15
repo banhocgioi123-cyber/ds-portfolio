@@ -1,0 +1,4002 @@
+customer_id,signup_date,city,segment
+C000001,2023-11-01,Hồ Chí Minh,gia_dinh
+C000002,2026-01-29,Hà Nội,sinh_vien
+C000003,2022-08-09,Hà Nội,van_phong
+C000004,2022-09-30,Hồ Chí Minh,van_phong
+C000005,2025-03-23,Hồ Chí Minh,gia_dinh_tre
+C000006,2025-06-26,Hồ Chí Minh,gia_dinh_tre
+C000007,2022-10-06,Hồ Chí Minh,gia_dinh_tre
+C000008,2026-01-03,Hồ Chí Minh,sinh_vien
+C000009,2024-03-26,Hà Nội,van_phong
+C000010,2022-10-03,Hồ Chí Minh,van_phong
+C000011,2024-10-01,Hồ Chí Minh,gia_dinh_tre
+C000012,2023-05-29,Hồ Chí Minh,sinh_vien
+C000013,2025-01-16,Hà Nội,sinh_vien
+C000014,2024-07-11,Hồ Chí Minh,gia_dinh_tre
+C000015,2023-10-04,Hà Nội,gia_dinh_tre
+C000016,2023-05-20,Hồ Chí Minh,gia_dinh_tre
+C000017,2023-08-13,Hà Nội,gia_dinh
+C000018,2024-02-11,Hà Nội,gia_dinh
+C000019,2025-06-18,Hồ Chí Minh,gia_dinh
+C000020,2024-01-10,Hồ Chí Minh,gia_dinh
+C000021,2023-11-06,Hồ Chí Minh,van_phong
+C000022,2025-06-13,Hồ Chí Minh,gia_dinh_tre
+C000023,2024-10-10,Hà Nội,gia_dinh
+C000024,2022-05-08,Hà Nội,gia_dinh
+C000025,2023-05-18,Hà Nội,gia_dinh
+C000026,2025-05-08,Hà Nội,van_phong
+C000027,2024-06-20,Hồ Chí Minh,gia_dinh_tre
+C000028,2023-06-27,Hồ Chí Minh,gia_dinh
+C000029,2026-03-06,Hà Nội,van_phong
+C000030,2023-05-07,Hồ Chí Minh,gia_dinh_tre
+C000031,2024-11-10,Hà Nội,van_phong
+C000032,2025-06-11,Hồ Chí Minh,
+C000033,2023-12-15,Hồ Chí Minh,gia_dinh_tre
+C000034,2024-03-01,Đà Nẵng,sinh_vien
+C000035,2023-02-20,Hồ Chí Minh,sinh_vien
+C000036,2022-05-28,Đà Nẵng,sinh_vien
+C000037,2024-08-27,Đà Nẵng,gia_dinh
+C000038,2022-01-29,Hà Nội,gia_dinh_tre
+C000039,2025-10-16,Hà Nội,van_phong
+C000040,2022-11-04,Hồ Chí Minh,gia_dinh
+C000041,2022-06-11,Hà Nội,gia_dinh_tre
+C000042,2024-05-18,Hồ Chí Minh,gia_dinh
+C000043,2024-05-01,Hồ Chí Minh,gia_dinh_tre
+C000044,2022-03-02,,sinh_vien
+C000045,2022-05-05,Hồ Chí Minh,gia_dinh
+C000046,2026-01-19,Hồ Chí Minh,van_phong
+C000047,2024-12-30,Hồ Chí Minh,gia_dinh
+C000048,2024-04-17,Hồ Chí Minh,gia_dinh
+C000049,2023-04-11,Hà Nội,gia_dinh
+C000050,2022-08-31,Hồ Chí Minh,gia_dinh_tre
+C000051,2026-02-22,Đà Nẵng,sinh_vien
+C000052,2025-05-29,Hà Nội,van_phong
+C000053,2023-04-18,Hà Nội,sinh_vien
+C000054,2024-08-16,Hồ Chí Minh,sinh_vien
+C000055,2023-06-17,Hà Nội,van_phong
+C000056,2023-05-09,,sinh_vien
+C000057,2024-06-17,Hà Nội,gia_dinh_tre
+C000058,2022-03-23,Hồ Chí Minh,gia_dinh_tre
+C000059,2024-05-05,,gia_dinh_tre
+C000060,2024-05-28,Đà Nẵng,gia_dinh
+C000061,2026-03-26,Hồ Chí Minh,gia_dinh
+C000062,2024-07-11,Hồ Chí Minh,gia_dinh
+C000063,2022-01-12,Hà Nội,
+C000064,2025-07-10,Hồ Chí Minh,gia_dinh
+C000065,2023-03-25,Hà Nội,gia_dinh
+C000066,2025-04-30,Hồ Chí Minh,gia_dinh
+C000067,2024-02-01,Hồ Chí Minh,gia_dinh_tre
+C000068,2025-02-11,Đà Nẵng,sinh_vien
+C000069,2022-01-26,Hà Nội,gia_dinh_tre
+C000070,2026-03-03,Hà Nội,sinh_vien
+C000071,2023-05-23,Hồ Chí Minh,van_phong
+C000072,2026-04-18,Hà Nội,
+C000073,2022-03-03,Hồ Chí Minh,gia_dinh_tre
+C000074,2022-08-17,Hà Nội,sinh_vien
+C000075,2023-08-30,Hà Nội,
+C000076,2024-11-24,Hồ Chí Minh,van_phong
+C000077,2026-01-19,Hồ Chí Minh,van_phong
+C000078,2026-05-31,Hồ Chí Minh,gia_dinh_tre
+C000079,2024-06-09,Hà Nội,gia_dinh
+C000080,2026-03-06,Hồ Chí Minh,gia_dinh_tre
+C000081,2024-01-31,Hà Nội,sinh_vien
+C000082,2023-08-18,Hồ Chí Minh,van_phong
+C000083,2024-11-14,Hà Nội,gia_dinh
+C000084,2026-05-12,Hà Nội,gia_dinh_tre
+C000085,2024-11-21,Hồ Chí Minh,gia_dinh
+C000086,2024-11-01,Hồ Chí Minh,gia_dinh
+C000087,2025-09-04,Hồ Chí Minh,van_phong
+C000088,2026-06-16,Hà Nội,van_phong
+C000089,2022-01-01,Hà Nội,sinh_vien
+C000090,2025-12-29,Hồ Chí Minh,gia_dinh
+C000091,2025-03-05,Hà Nội,gia_dinh_tre
+C000092,2025-05-04,Hồ Chí Minh,van_phong
+C000093,2022-05-13,Hồ Chí Minh,van_phong
+C000094,2022-03-27,Đà Nẵng,van_phong
+C000095,2026-02-08,Hồ Chí Minh,van_phong
+C000096,2025-09-09,Hồ Chí Minh,gia_dinh
+C000097,2025-04-18,Hồ Chí Minh,gia_dinh
+C000098,2023-05-31,Hồ Chí Minh,gia_dinh
+C000099,2022-06-24,Hồ Chí Minh,gia_dinh_tre
+C000100,2024-02-02,Hồ Chí Minh,gia_dinh_tre
+C000101,2024-11-10,Hà Nội,gia_dinh_tre
+C000102,2024-09-23,Hồ Chí Minh,van_phong
+C000103,2025-02-02,Hồ Chí Minh,gia_dinh
+C000104,2023-08-01,Hồ Chí Minh,gia_dinh
+C000105,2026-01-06,Hồ Chí Minh,
+C000106,2022-02-18,Hà Nội,gia_dinh_tre
+C000107,2023-06-12,Đà Nẵng,gia_dinh
+C000108,2022-05-25,Hồ Chí Minh,van_phong
+C000109,2025-09-25,Hà Nội,gia_dinh_tre
+C000110,2024-02-01,Hồ Chí Minh,gia_dinh_tre
+C000111,2025-10-09,Hồ Chí Minh,gia_dinh
+C000112,2025-01-03,Hồ Chí Minh,gia_dinh_tre
+C000113,2024-07-17,Hồ Chí Minh,sinh_vien
+C000114,2024-03-04,Hồ Chí Minh,sinh_vien
+C000115,2026-05-21,Hà Nội,van_phong
+C000116,2022-11-15,Hồ Chí Minh,sinh_vien
+C000117,2025-01-15,Đà Nẵng,sinh_vien
+C000118,2026-04-26,Hồ Chí Minh,gia_dinh_tre
+C000119,2023-11-29,Hồ Chí Minh,sinh_vien
+C000120,2024-04-26,Hà Nội,gia_dinh
+C000121,2024-02-22,Hồ Chí Minh,sinh_vien
+C000122,2022-02-11,Hồ Chí Minh,sinh_vien
+C000123,2025-01-21,Hà Nội,gia_dinh
+C000124,2026-03-11,Đà Nẵng,gia_dinh_tre
+C000125,2023-06-13,Hà Nội,gia_dinh_tre
+C000126,2025-07-12,Hà Nội,gia_dinh
+C000127,2022-10-19,Hà Nội,sinh_vien
+C000128,2024-08-26,Đà Nẵng,sinh_vien
+C000129,2026-01-27,Hồ Chí Minh,gia_dinh_tre
+C000130,2026-05-03,Hồ Chí Minh,gia_dinh
+C000131,2022-04-07,Hồ Chí Minh,gia_dinh
+C000132,2025-01-23,Hồ Chí Minh,gia_dinh_tre
+C000133,2025-09-11,Hà Nội,gia_dinh_tre
+C000134,2022-03-15,Hà Nội,gia_dinh
+C000135,2025-09-21,Hồ Chí Minh,sinh_vien
+C000136,2024-12-27,Hồ Chí Minh,gia_dinh
+C000137,2024-01-28,Hà Nội,gia_dinh
+C000138,2025-01-05,Hồ Chí Minh,van_phong
+C000139,2022-07-27,Hà Nội,gia_dinh
+C000140,2025-05-29,Hồ Chí Minh,sinh_vien
+C000141,2025-07-09,Hồ Chí Minh,sinh_vien
+C000142,2023-02-14,Hồ Chí Minh,gia_dinh
+C000143,2022-11-27,Hồ Chí Minh,gia_dinh
+C000144,2022-12-10,Hà Nội,gia_dinh
+C000145,2024-09-15,Đà Nẵng,gia_dinh
+C000146,2024-02-10,Hà Nội,gia_dinh_tre
+C000147,2022-03-15,,van_phong
+C000148,2022-09-11,Hồ Chí Minh,gia_dinh
+C000149,2024-08-16,Hà Nội,gia_dinh_tre
+C000150,2024-03-30,Hà Nội,gia_dinh
+C000151,2024-09-12,Hồ Chí Minh,sinh_vien
+C000152,2022-11-28,Hồ Chí Minh,gia_dinh_tre
+C000153,2025-11-22,Hà Nội,gia_dinh_tre
+C000154,2025-09-30,Hồ Chí Minh,gia_dinh
+C000155,2026-05-27,Hồ Chí Minh,sinh_vien
+C000156,2024-01-17,Hồ Chí Minh,gia_dinh_tre
+C000157,2024-04-15,Hồ Chí Minh,van_phong
+C000158,2023-03-31,Hà Nội,
+C000159,2025-02-12,Đà Nẵng,gia_dinh_tre
+C000160,2022-11-09,Hồ Chí Minh,van_phong
+C000161,2024-10-14,Hồ Chí Minh,gia_dinh
+C000162,2022-08-16,Hồ Chí Minh,van_phong
+C000163,2024-04-13,Hồ Chí Minh,van_phong
+C000164,2024-05-07,Hồ Chí Minh,gia_dinh
+C000165,2025-06-22,Hà Nội,gia_dinh_tre
+C000166,2024-03-28,Hồ Chí Minh,sinh_vien
+C000167,2026-03-30,Hồ Chí Minh,gia_dinh
+C000168,2024-10-14,Hồ Chí Minh,gia_dinh_tre
+C000169,2023-06-12,Hồ Chí Minh,gia_dinh_tre
+C000170,2024-08-07,Hồ Chí Minh,van_phong
+C000171,2023-03-03,Hồ Chí Minh,van_phong
+C000172,2022-02-11,Đà Nẵng,gia_dinh_tre
+C000173,2023-04-10,Hồ Chí Minh,gia_dinh
+C000174,2022-10-05,Hồ Chí Minh,
+C000175,2024-04-15,Hà Nội,
+C000176,2022-01-19,Đà Nẵng,gia_dinh_tre
+C000177,2022-03-07,Hồ Chí Minh,van_phong
+C000178,2022-06-16,Hà Nội,gia_dinh
+C000179,2026-05-28,Hồ Chí Minh,sinh_vien
+C000180,2024-10-16,Hồ Chí Minh,gia_dinh_tre
+C000181,2023-02-07,Hồ Chí Minh,gia_dinh
+C000182,2023-02-13,,gia_dinh_tre
+C000183,2022-04-22,Hà Nội,sinh_vien
+C000184,2025-07-21,Hồ Chí Minh,sinh_vien
+C000185,2025-12-01,Hồ Chí Minh,gia_dinh
+C000186,2025-10-28,Hà Nội,van_phong
+C000187,2023-08-20,Hồ Chí Minh,sinh_vien
+C000188,2023-10-13,Hồ Chí Minh,van_phong
+C000189,2024-11-28,Hà Nội,gia_dinh
+C000190,2022-04-15,Hà Nội,gia_dinh_tre
+C000191,2022-11-20,Hà Nội,gia_dinh_tre
+C000192,2024-09-18,Hà Nội,sinh_vien
+C000193,2025-12-08,Hồ Chí Minh,sinh_vien
+C000194,2023-03-05,Hà Nội,van_phong
+C000195,2023-09-27,Hà Nội,gia_dinh
+C000196,2023-12-31,Hồ Chí Minh,gia_dinh
+C000197,2024-06-07,Hồ Chí Minh,van_phong
+C000198,2024-12-20,Hồ Chí Minh,sinh_vien
+C000199,2026-06-24,Hồ Chí Minh,sinh_vien
+C000200,2025-08-23,Hà Nội,van_phong
+C000201,2025-10-09,Hà Nội,van_phong
+C000202,2023-01-28,Hồ Chí Minh,gia_dinh_tre
+C000203,2022-07-23,Hồ Chí Minh,
+C000204,2022-09-15,Đà Nẵng,sinh_vien
+C000205,2023-05-01,Hồ Chí Minh,van_phong
+C000206,2026-03-21,Hồ Chí Minh,gia_dinh_tre
+C000207,2023-03-22,Hồ Chí Minh,gia_dinh_tre
+C000208,2025-04-18,Hồ Chí Minh,van_phong
+C000209,2024-10-20,Hồ Chí Minh,gia_dinh_tre
+C000210,2022-12-08,Hồ Chí Minh,gia_dinh_tre
+C000211,2022-05-13,Hồ Chí Minh,gia_dinh
+C000212,2023-03-19,Hồ Chí Minh,van_phong
+C000213,2022-09-10,Hồ Chí Minh,van_phong
+C000214,2022-09-22,Hồ Chí Minh,gia_dinh_tre
+C000215,2022-04-03,Hà Nội,van_phong
+C000216,2025-12-05,Hà Nội,gia_dinh_tre
+C000217,2022-05-18,Hồ Chí Minh,gia_dinh
+C000218,2025-05-16,Hồ Chí Minh,van_phong
+C000219,2024-09-28,Hà Nội,van_phong
+C000220,2026-05-16,Hồ Chí Minh,sinh_vien
+C000221,2022-11-03,Hồ Chí Minh,van_phong
+C000222,2022-09-23,Hà Nội,van_phong
+C000223,2023-10-08,Hà Nội,gia_dinh_tre
+C000224,2022-11-14,Hà Nội,
+C000225,2025-02-10,Hồ Chí Minh,gia_dinh
+C000226,2024-06-19,Hà Nội,gia_dinh_tre
+C000227,2025-11-02,Hồ Chí Minh,
+C000228,2023-03-30,Hà Nội,gia_dinh
+C000229,2022-07-10,Hồ Chí Minh,
+C000230,2026-01-03,Hồ Chí Minh,van_phong
+C000231,2025-04-25,Hà Nội,van_phong
+C000232,2024-04-10,Hồ Chí Minh,gia_dinh
+C000233,2025-10-22,Hồ Chí Minh,van_phong
+C000234,2025-01-17,Đà Nẵng,gia_dinh
+C000235,2022-07-06,,gia_dinh_tre
+C000236,2024-03-29,Hồ Chí Minh,van_phong
+C000237,2024-10-17,Hồ Chí Minh,gia_dinh
+C000238,2022-05-12,Hà Nội,gia_dinh_tre
+C000239,2024-05-21,Hà Nội,van_phong
+C000240,2023-09-27,Hồ Chí Minh,gia_dinh_tre
+C000241,2026-05-03,Hà Nội,sinh_vien
+C000242,2025-10-31,Hồ Chí Minh,sinh_vien
+C000243,2023-11-22,Hà Nội,sinh_vien
+C000244,2023-11-23,Hồ Chí Minh,gia_dinh
+C000245,2025-01-27,Hồ Chí Minh,gia_dinh_tre
+C000246,2024-11-23,Đà Nẵng,sinh_vien
+C000247,2023-08-05,Hồ Chí Minh,gia_dinh
+C000248,2022-06-20,Hồ Chí Minh,sinh_vien
+C000249,2025-10-21,Hồ Chí Minh,sinh_vien
+C000250,2024-02-23,Đà Nẵng,sinh_vien
+C000251,2024-12-18,Hồ Chí Minh,gia_dinh
+C000252,2022-06-30,Hồ Chí Minh,gia_dinh
+C000253,2022-01-19,Hồ Chí Minh,sinh_vien
+C000254,2025-06-03,Hồ Chí Minh,gia_dinh
+C000255,2026-02-05,Hồ Chí Minh,
+C000256,2025-01-23,Hà Nội,van_phong
+C000257,2024-05-30,Đà Nẵng,sinh_vien
+C000258,2025-08-13,Hồ Chí Minh,van_phong
+C000259,2026-06-05,Hồ Chí Minh,van_phong
+C000260,2022-06-24,Hồ Chí Minh,gia_dinh_tre
+C000261,2025-05-30,Hồ Chí Minh,
+C000262,2026-06-27,Hà Nội,sinh_vien
+C000263,2022-02-23,Hồ Chí Minh,gia_dinh_tre
+C000264,2023-11-26,Hồ Chí Minh,gia_dinh
+C000265,2024-05-12,Hà Nội,sinh_vien
+C000266,2025-11-27,Hồ Chí Minh,van_phong
+C000267,2025-09-03,Hà Nội,van_phong
+C000268,2022-12-15,Hồ Chí Minh,van_phong
+C000269,2023-03-19,,gia_dinh
+C000270,2024-04-12,Đà Nẵng,gia_dinh
+C000271,2023-08-03,Hà Nội,sinh_vien
+C000272,2026-04-13,Đà Nẵng,sinh_vien
+C000273,2022-10-09,Hồ Chí Minh,sinh_vien
+C000274,2022-12-26,Hồ Chí Minh,sinh_vien
+C000275,2024-07-03,Hà Nội,gia_dinh
+C000276,2024-04-02,Hồ Chí Minh,gia_dinh
+C000277,2024-06-10,Hồ Chí Minh,van_phong
+C000278,2024-08-10,Hồ Chí Minh,van_phong
+C000279,2023-10-03,Hồ Chí Minh,van_phong
+C000280,2024-10-28,Hồ Chí Minh,van_phong
+C000281,2023-07-17,Hồ Chí Minh,sinh_vien
+C000282,2023-05-06,Hà Nội,gia_dinh
+C000283,2022-12-07,Hồ Chí Minh,gia_dinh
+C000284,2023-04-17,Hồ Chí Minh,gia_dinh_tre
+C000285,2022-09-06,Hồ Chí Minh,van_phong
+C000286,2022-08-23,Hồ Chí Minh,gia_dinh_tre
+C000287,2025-01-11,Hà Nội,gia_dinh
+C000288,2025-01-21,Hồ Chí Minh,gia_dinh
+C000289,2025-11-18,Hồ Chí Minh,gia_dinh
+C000290,2024-04-03,Hà Nội,
+C000291,2025-07-15,Hồ Chí Minh,gia_dinh_tre
+C000292,2025-12-11,Hồ Chí Minh,gia_dinh_tre
+C000293,2023-09-24,Hồ Chí Minh,sinh_vien
+C000294,2026-05-26,Đà Nẵng,gia_dinh
+C000295,2023-06-13,Hồ Chí Minh,gia_dinh_tre
+C000296,2025-06-30,Hồ Chí Minh,gia_dinh
+C000297,2022-05-02,Hồ Chí Minh,van_phong
+C000298,2024-06-10,Hồ Chí Minh,gia_dinh_tre
+C000299,2022-01-10,Hồ Chí Minh,van_phong
+C000300,2025-09-01,Hồ Chí Minh,gia_dinh_tre
+C000301,2024-04-17,Hồ Chí Minh,gia_dinh_tre
+C000302,2025-07-20,Đà Nẵng,gia_dinh
+C000303,2025-08-22,Hà Nội,gia_dinh
+C000304,2025-05-18,Hồ Chí Minh,van_phong
+C000305,2024-01-23,Hà Nội,van_phong
+C000306,2024-06-04,Hồ Chí Minh,
+C000307,2023-04-09,Hồ Chí Minh,gia_dinh
+C000308,2023-12-13,Hà Nội,gia_dinh
+C000309,2023-12-29,Hà Nội,van_phong
+C000310,2023-12-18,,gia_dinh
+C000311,2025-12-10,Hồ Chí Minh,gia_dinh
+C000312,2025-05-24,Đà Nẵng,gia_dinh_tre
+C000313,2022-03-21,Hồ Chí Minh,gia_dinh_tre
+C000314,2023-04-25,Hà Nội,sinh_vien
+C000315,2024-06-20,Đà Nẵng,sinh_vien
+C000316,2024-06-09,Hồ Chí Minh,van_phong
+C000317,2026-04-20,Hà Nội,gia_dinh
+C000318,2022-01-18,Hồ Chí Minh,gia_dinh_tre
+C000319,2025-04-03,Hồ Chí Minh,gia_dinh_tre
+C000320,2026-03-29,Hồ Chí Minh,
+C000321,2022-07-21,Hồ Chí Minh,gia_dinh
+C000322,2024-01-11,Đà Nẵng,van_phong
+C000323,2025-10-01,Hà Nội,van_phong
+C000324,2025-10-21,Hồ Chí Minh,gia_dinh
+C000325,2026-01-11,Hà Nội,sinh_vien
+C000326,2026-03-17,Đà Nẵng,van_phong
+C000327,2022-11-15,Hồ Chí Minh,van_phong
+C000328,2022-08-05,Đà Nẵng,van_phong
+C000329,2024-11-23,Hồ Chí Minh,gia_dinh
+C000330,2022-09-23,Hà Nội,gia_dinh_tre
+C000331,2023-12-25,Hồ Chí Minh,gia_dinh
+C000332,2024-02-14,Hồ Chí Minh,van_phong
+C000333,2025-01-08,Hồ Chí Minh,gia_dinh_tre
+C000334,2023-02-17,Hà Nội,gia_dinh_tre
+C000335,2025-06-29,Hồ Chí Minh,gia_dinh_tre
+C000336,2024-11-01,Hồ Chí Minh,gia_dinh_tre
+C000337,2023-02-05,Hồ Chí Minh,sinh_vien
+C000338,2023-12-25,Đà Nẵng,van_phong
+C000339,2022-10-09,Hồ Chí Minh,gia_dinh
+C000340,2025-02-09,Hồ Chí Minh,gia_dinh_tre
+C000341,2023-12-24,Hồ Chí Minh,gia_dinh
+C000342,2025-11-02,Hồ Chí Minh,gia_dinh
+C000343,2024-01-21,Hà Nội,gia_dinh_tre
+C000344,2022-09-25,Hà Nội,gia_dinh
+C000345,2022-10-25,Hồ Chí Minh,gia_dinh
+C000346,2025-09-02,Hồ Chí Minh,van_phong
+C000347,2023-07-24,Hà Nội,van_phong
+C000348,2023-05-24,Hồ Chí Minh,gia_dinh_tre
+C000349,2023-06-30,Hà Nội,gia_dinh
+C000350,2024-02-14,Hà Nội,van_phong
+C000351,2022-12-31,Hà Nội,gia_dinh
+C000352,2023-07-01,Hồ Chí Minh,sinh_vien
+C000353,2022-09-28,Hồ Chí Minh,van_phong
+C000354,2026-02-06,Đà Nẵng,
+C000355,2024-01-09,Hồ Chí Minh,gia_dinh_tre
+C000356,2023-06-21,Hà Nội,van_phong
+C000357,2025-06-11,Hồ Chí Minh,gia_dinh_tre
+C000358,2022-02-28,Hà Nội,van_phong
+C000359,2025-06-28,Hồ Chí Minh,sinh_vien
+C000360,2022-03-27,Hồ Chí Minh,van_phong
+C000361,2024-02-02,Hồ Chí Minh,gia_dinh
+C000362,2023-01-25,Hà Nội,van_phong
+C000363,2025-04-18,Hà Nội,gia_dinh
+C000364,2023-12-20,Hồ Chí Minh,gia_dinh
+C000365,2024-05-05,Hồ Chí Minh,sinh_vien
+C000366,2022-05-29,Hà Nội,gia_dinh
+C000367,2023-08-06,Hồ Chí Minh,sinh_vien
+C000368,2022-05-01,Hồ Chí Minh,sinh_vien
+C000369,2024-02-04,Hồ Chí Minh,gia_dinh_tre
+C000370,2023-08-28,Hồ Chí Minh,gia_dinh_tre
+C000371,2022-09-13,Hồ Chí Minh,gia_dinh_tre
+C000372,2024-02-05,Hồ Chí Minh,gia_dinh_tre
+C000373,2024-05-13,Hồ Chí Minh,gia_dinh_tre
+C000374,2024-03-10,Hồ Chí Minh,van_phong
+C000375,2025-08-25,Hồ Chí Minh,gia_dinh_tre
+C000376,2022-02-28,Hồ Chí Minh,gia_dinh
+C000377,2024-10-18,Hồ Chí Minh,sinh_vien
+C000378,2024-12-28,Hà Nội,gia_dinh_tre
+C000379,2026-01-09,Hồ Chí Minh,sinh_vien
+C000380,2023-01-23,Hồ Chí Minh,gia_dinh
+C000381,2025-01-14,Hồ Chí Minh,gia_dinh_tre
+C000382,2024-02-25,Hồ Chí Minh,van_phong
+C000383,2025-06-04,Hồ Chí Minh,van_phong
+C000384,2023-08-16,Hồ Chí Minh,sinh_vien
+C000385,2025-04-22,Hà Nội,van_phong
+C000386,2025-09-07,Hồ Chí Minh,sinh_vien
+C000387,2024-06-27,Đà Nẵng,gia_dinh
+C000388,2025-09-03,Hồ Chí Minh,gia_dinh_tre
+C000389,2023-07-20,Hồ Chí Minh,van_phong
+C000390,2023-02-03,Hồ Chí Minh,sinh_vien
+C000391,2024-06-17,Hồ Chí Minh,sinh_vien
+C000392,2025-08-09,Hồ Chí Minh,gia_dinh
+C000393,2022-10-20,Hà Nội,gia_dinh
+C000394,2023-04-30,Hồ Chí Minh,van_phong
+C000395,2026-01-10,Đà Nẵng,gia_dinh
+C000396,2024-03-13,Hà Nội,sinh_vien
+C000397,2025-12-06,Hồ Chí Minh,sinh_vien
+C000398,2026-03-12,Hồ Chí Minh,gia_dinh
+C000399,2024-06-08,Hồ Chí Minh,van_phong
+C000400,2022-09-01,Hồ Chí Minh,van_phong
+C000401,2025-12-14,Hồ Chí Minh,gia_dinh_tre
+C000402,2024-08-17,Hồ Chí Minh,sinh_vien
+C000403,2025-03-23,Hồ Chí Minh,gia_dinh
+C000404,2024-03-26,Hồ Chí Minh,sinh_vien
+C000405,2025-12-18,Đà Nẵng,gia_dinh
+C000406,2022-09-30,Hà Nội,sinh_vien
+C000407,2023-06-04,Đà Nẵng,gia_dinh
+C000408,2025-02-25,Hồ Chí Minh,gia_dinh_tre
+C000409,2025-10-28,Hồ Chí Minh,sinh_vien
+C000410,2023-07-22,Hồ Chí Minh,gia_dinh_tre
+C000411,2023-09-30,Hồ Chí Minh,gia_dinh
+C000412,2022-06-08,Hồ Chí Minh,sinh_vien
+C000413,2026-05-14,Hà Nội,sinh_vien
+C000414,2026-05-13,Hà Nội,van_phong
+C000415,2023-10-14,Hồ Chí Minh,van_phong
+C000416,2022-06-25,Hồ Chí Minh,gia_dinh
+C000417,2023-09-12,Hồ Chí Minh,gia_dinh
+C000418,2022-07-30,Hồ Chí Minh,gia_dinh
+C000419,2023-03-23,Hồ Chí Minh,van_phong
+C000420,2023-08-09,Hồ Chí Minh,van_phong
+C000421,2022-06-16,Hồ Chí Minh,van_phong
+C000422,2023-04-05,Đà Nẵng,van_phong
+C000423,2024-07-04,Hồ Chí Minh,gia_dinh_tre
+C000424,2025-10-12,Hà Nội,gia_dinh
+C000425,2025-08-20,Hồ Chí Minh,gia_dinh_tre
+C000426,2025-06-10,Hồ Chí Minh,gia_dinh
+C000427,2025-09-12,Hồ Chí Minh,gia_dinh
+C000428,2025-04-20,Hồ Chí Minh,sinh_vien
+C000429,2025-09-19,Hồ Chí Minh,gia_dinh
+C000430,2024-11-18,Hà Nội,gia_dinh_tre
+C000431,2023-12-15,Hà Nội,gia_dinh_tre
+C000432,2025-01-21,Hồ Chí Minh,van_phong
+C000433,2024-04-20,Hồ Chí Minh,van_phong
+C000434,2024-05-17,Đà Nẵng,gia_dinh_tre
+C000435,2023-11-19,Hồ Chí Minh,gia_dinh_tre
+C000436,2022-11-26,Hồ Chí Minh,van_phong
+C000437,2025-04-22,Hồ Chí Minh,gia_dinh_tre
+C000438,2022-04-05,Hà Nội,
+C000439,2024-02-24,Đà Nẵng,van_phong
+C000440,2023-10-11,Hồ Chí Minh,gia_dinh_tre
+C000441,2022-12-19,Hà Nội,gia_dinh_tre
+C000442,2024-07-18,Hà Nội,sinh_vien
+C000443,2024-07-29,Hồ Chí Minh,gia_dinh
+C000444,2024-09-10,Hồ Chí Minh,gia_dinh
+C000445,2025-07-12,Hồ Chí Minh,sinh_vien
+C000446,2024-11-08,Đà Nẵng,sinh_vien
+C000447,2023-10-08,Hồ Chí Minh,sinh_vien
+C000448,2023-09-18,Hà Nội,van_phong
+C000449,2026-03-03,Hồ Chí Minh,gia_dinh
+C000450,2022-05-19,Hà Nội,gia_dinh_tre
+C000451,2023-12-17,Hồ Chí Minh,van_phong
+C000452,2026-05-16,Hồ Chí Minh,van_phong
+C000453,2024-02-01,Hà Nội,gia_dinh
+C000454,2026-03-29,Hà Nội,sinh_vien
+C000455,2022-09-12,Hà Nội,gia_dinh_tre
+C000456,2025-01-13,Hồ Chí Minh,gia_dinh
+C000457,2026-01-21,Hà Nội,gia_dinh_tre
+C000458,2026-04-05,Hồ Chí Minh,gia_dinh
+C000459,2026-05-05,Hồ Chí Minh,gia_dinh_tre
+C000460,2023-11-07,Hồ Chí Minh,gia_dinh_tre
+C000461,2022-04-02,Hồ Chí Minh,gia_dinh_tre
+C000462,2026-06-12,Hồ Chí Minh,van_phong
+C000463,2024-12-28,Đà Nẵng,van_phong
+C000464,2022-02-06,Hồ Chí Minh,
+C000465,2022-05-20,Hà Nội,sinh_vien
+C000466,2024-05-16,Hồ Chí Minh,gia_dinh
+C000467,2023-11-11,Hồ Chí Minh,gia_dinh
+C000468,2026-05-09,Hồ Chí Minh,sinh_vien
+C000469,2025-04-16,Đà Nẵng,gia_dinh_tre
+C000470,2026-06-30,Hà Nội,sinh_vien
+C000471,2022-05-17,Đà Nẵng,gia_dinh_tre
+C000472,2022-07-09,Đà Nẵng,sinh_vien
+C000473,2022-12-08,Hồ Chí Minh,gia_dinh_tre
+C000474,2026-05-02,Hồ Chí Minh,sinh_vien
+C000475,2024-10-25,Hà Nội,gia_dinh
+C000476,2024-08-29,Hồ Chí Minh,sinh_vien
+C000477,2025-07-04,Hồ Chí Minh,gia_dinh_tre
+C000478,2023-10-24,Hồ Chí Minh,van_phong
+C000479,2022-08-31,Hồ Chí Minh,sinh_vien
+C000480,2023-02-19,Hồ Chí Minh,gia_dinh
+C000481,2023-12-08,Hồ Chí Minh,van_phong
+C000482,2022-12-09,Hồ Chí Minh,van_phong
+C000483,2023-11-13,Hồ Chí Minh,gia_dinh
+C000484,2025-11-03,Hồ Chí Minh,
+C000485,2026-06-06,Hồ Chí Minh,van_phong
+C000486,2023-10-15,Hà Nội,sinh_vien
+C000487,2022-05-26,Hồ Chí Minh,gia_dinh_tre
+C000488,2022-11-19,Hồ Chí Minh,gia_dinh
+C000489,2022-05-02,Hà Nội,sinh_vien
+C000490,2025-06-29,Hồ Chí Minh,sinh_vien
+C000491,2022-11-07,Hồ Chí Minh,gia_dinh
+C000492,2023-08-24,Hà Nội,van_phong
+C000493,2023-04-20,Hồ Chí Minh,gia_dinh
+C000494,2023-07-24,Hà Nội,gia_dinh_tre
+C000495,2026-02-24,Hà Nội,gia_dinh
+C000496,2023-07-29,Hà Nội,gia_dinh
+C000497,2022-12-13,Hồ Chí Minh,van_phong
+C000498,2024-03-30,Hồ Chí Minh,gia_dinh_tre
+C000499,2026-02-19,Hồ Chí Minh,sinh_vien
+C000500,2026-02-05,Hồ Chí Minh,sinh_vien
+C000501,2023-01-17,Hồ Chí Minh,
+C000502,2025-07-27,Hồ Chí Minh,gia_dinh
+C000503,2022-03-13,Hồ Chí Minh,gia_dinh
+C000504,2023-06-05,Hồ Chí Minh,sinh_vien
+C000505,2025-10-21,Hồ Chí Minh,van_phong
+C000506,2024-07-21,Hồ Chí Minh,gia_dinh_tre
+C000507,2025-01-22,Hà Nội,sinh_vien
+C000508,2025-10-28,Hồ Chí Minh,sinh_vien
+C000509,2022-12-05,Hồ Chí Minh,sinh_vien
+C000510,2025-12-31,Đà Nẵng,van_phong
+C000511,2025-09-21,Hồ Chí Minh,van_phong
+C000512,2023-10-26,Hồ Chí Minh,gia_dinh
+C000513,2026-02-24,Hồ Chí Minh,sinh_vien
+C000514,2022-02-09,Hà Nội,sinh_vien
+C000515,2025-10-14,Hồ Chí Minh,gia_dinh_tre
+C000516,2023-07-28,Hồ Chí Minh,
+C000517,2025-07-01,Hồ Chí Minh,gia_dinh
+C000518,2024-08-23,Hà Nội,sinh_vien
+C000519,2023-08-04,Hồ Chí Minh,sinh_vien
+C000520,2025-11-22,Hồ Chí Minh,gia_dinh_tre
+C000521,2022-06-19,Hà Nội,van_phong
+C000522,2023-12-02,Hồ Chí Minh,gia_dinh
+C000523,2023-05-26,Hà Nội,sinh_vien
+C000524,2025-07-07,Hồ Chí Minh,sinh_vien
+C000525,2023-08-07,Hà Nội,sinh_vien
+C000526,2024-09-10,Hồ Chí Minh,gia_dinh
+C000527,2023-04-04,Hà Nội,gia_dinh
+C000528,2023-06-13,Đà Nẵng,gia_dinh
+C000529,2022-12-07,Hồ Chí Minh,
+C000530,2022-02-26,Hồ Chí Minh,sinh_vien
+C000531,2022-08-06,Hồ Chí Minh,sinh_vien
+C000532,2023-09-11,Hồ Chí Minh,sinh_vien
+C000533,2024-03-26,Hồ Chí Minh,sinh_vien
+C000534,2024-01-01,Hồ Chí Minh,van_phong
+C000535,2023-04-09,Hồ Chí Minh,van_phong
+C000536,2022-09-04,Hồ Chí Minh,sinh_vien
+C000537,2023-12-31,Hồ Chí Minh,sinh_vien
+C000538,2023-01-08,Hà Nội,gia_dinh_tre
+C000539,2023-02-21,Hồ Chí Minh,gia_dinh
+C000540,2024-11-20,Hồ Chí Minh,gia_dinh_tre
+C000541,2023-01-03,Hồ Chí Minh,sinh_vien
+C000542,2023-07-13,Hồ Chí Minh,van_phong
+C000543,2022-04-18,Hồ Chí Minh,gia_dinh_tre
+C000544,2023-08-07,Hồ Chí Minh,van_phong
+C000545,2024-04-18,Hồ Chí Minh,van_phong
+C000546,2023-02-22,Hà Nội,gia_dinh
+C000547,2024-03-31,Hồ Chí Minh,gia_dinh_tre
+C000548,2025-11-22,Hà Nội,van_phong
+C000549,2025-07-19,Hà Nội,gia_dinh
+C000550,2023-11-14,Hà Nội,
+C000551,2025-02-13,Đà Nẵng,gia_dinh
+C000552,2026-05-29,Hồ Chí Minh,sinh_vien
+C000553,2022-09-13,Hồ Chí Minh,van_phong
+C000554,2025-01-09,Hà Nội,van_phong
+C000555,2024-02-19,Hồ Chí Minh,sinh_vien
+C000556,2025-02-25,Hồ Chí Minh,gia_dinh
+C000557,2024-04-17,Hà Nội,gia_dinh_tre
+C000558,2024-07-03,Hà Nội,gia_dinh_tre
+C000559,2022-08-23,Đà Nẵng,van_phong
+C000560,2023-07-07,Đà Nẵng,van_phong
+C000561,2022-06-30,Hà Nội,van_phong
+C000562,2022-06-06,Hồ Chí Minh,gia_dinh_tre
+C000563,2026-01-17,Hà Nội,gia_dinh_tre
+C000564,2023-07-25,Hồ Chí Minh,gia_dinh_tre
+C000565,2024-05-06,Hồ Chí Minh,gia_dinh
+C000566,2024-11-13,Hà Nội,van_phong
+C000567,2026-02-05,Hồ Chí Minh,gia_dinh
+C000568,2025-11-24,Hồ Chí Minh,gia_dinh
+C000569,2024-08-05,Hồ Chí Minh,sinh_vien
+C000570,2023-08-15,Hà Nội,gia_dinh
+C000571,2022-05-14,Hồ Chí Minh,gia_dinh
+C000572,2023-02-25,Hà Nội,van_phong
+C000573,2022-08-01,Hồ Chí Minh,gia_dinh
+C000574,2024-06-18,Hà Nội,van_phong
+C000575,2023-04-27,Hà Nội,sinh_vien
+C000576,2022-12-14,Hồ Chí Minh,sinh_vien
+C000577,2022-06-15,Hồ Chí Minh,gia_dinh_tre
+C000578,2024-07-25,Hồ Chí Minh,sinh_vien
+C000579,2022-12-14,Đà Nẵng,gia_dinh
+C000580,2024-04-28,Hà Nội,gia_dinh
+C000581,2023-02-02,Đà Nẵng,gia_dinh
+C000582,2023-08-06,Hồ Chí Minh,sinh_vien
+C000583,2023-12-27,Hà Nội,gia_dinh
+C000584,2025-12-29,Hà Nội,gia_dinh
+C000585,2026-05-20,Hà Nội,van_phong
+C000586,2025-05-29,Đà Nẵng,gia_dinh_tre
+C000587,2022-11-04,Hồ Chí Minh,gia_dinh_tre
+C000588,2024-09-17,Hồ Chí Minh,gia_dinh_tre
+C000589,2024-03-08,Hà Nội,gia_dinh_tre
+C000590,2023-12-20,Hà Nội,gia_dinh_tre
+C000591,2023-04-11,Hồ Chí Minh,gia_dinh_tre
+C000592,2022-04-09,Hồ Chí Minh,van_phong
+C000593,2025-06-19,Hồ Chí Minh,gia_dinh_tre
+C000594,2022-06-07,Hồ Chí Minh,gia_dinh
+C000595,2023-09-02,Hồ Chí Minh,sinh_vien
+C000596,2023-07-08,Hà Nội,gia_dinh
+C000597,2023-10-13,Hà Nội,van_phong
+C000598,2024-07-08,Hồ Chí Minh,gia_dinh_tre
+C000599,2022-08-15,Hồ Chí Minh,gia_dinh_tre
+C000600,2023-02-27,Hồ Chí Minh,gia_dinh_tre
+C000601,2024-12-31,Hồ Chí Minh,gia_dinh_tre
+C000602,2022-08-31,Hà Nội,gia_dinh
+C000603,2023-06-14,Đà Nẵng,gia_dinh_tre
+C000604,2026-06-01,Hồ Chí Minh,gia_dinh_tre
+C000605,2024-12-04,Hà Nội,gia_dinh_tre
+C000606,2026-02-04,Hà Nội,gia_dinh
+C000607,2023-01-06,Hà Nội,gia_dinh_tre
+C000608,2023-10-14,Hồ Chí Minh,gia_dinh
+C000609,2023-11-20,Đà Nẵng,gia_dinh
+C000610,2024-01-04,Hồ Chí Minh,van_phong
+C000611,2022-04-02,Hồ Chí Minh,gia_dinh_tre
+C000612,2024-11-11,Hồ Chí Minh,van_phong
+C000613,2022-06-21,Hồ Chí Minh,van_phong
+C000614,2026-06-16,Hồ Chí Minh,gia_dinh_tre
+C000615,2025-04-30,Hồ Chí Minh,sinh_vien
+C000616,2025-01-05,Hồ Chí Minh,sinh_vien
+C000617,2025-07-28,Hà Nội,gia_dinh_tre
+C000618,2025-10-19,Hà Nội,gia_dinh
+C000619,2022-06-28,Hồ Chí Minh,sinh_vien
+C000620,2022-08-26,Hà Nội,van_phong
+C000621,2025-03-04,Hà Nội,gia_dinh_tre
+C000622,2024-05-26,Hà Nội,gia_dinh_tre
+C000623,2024-06-20,Hồ Chí Minh,gia_dinh
+C000624,2022-10-07,Hà Nội,gia_dinh
+C000625,2024-11-08,Đà Nẵng,van_phong
+C000626,2026-06-07,Hà Nội,gia_dinh
+C000627,2024-01-10,Hồ Chí Minh,gia_dinh
+C000628,2023-01-06,Hồ Chí Minh,van_phong
+C000629,2025-02-09,Hà Nội,gia_dinh_tre
+C000630,2024-05-19,Hồ Chí Minh,gia_dinh
+C000631,2024-10-15,Hồ Chí Minh,van_phong
+C000632,2022-08-09,Hồ Chí Minh,sinh_vien
+C000633,2024-07-08,Hà Nội,gia_dinh
+C000634,2022-10-31,Hà Nội,gia_dinh
+C000635,2025-09-10,Hồ Chí Minh,gia_dinh_tre
+C000636,2025-12-31,Đà Nẵng,gia_dinh
+C000637,2023-03-14,Hồ Chí Minh,gia_dinh
+C000638,2025-04-08,Hà Nội,gia_dinh_tre
+C000639,2023-01-10,Hà Nội,gia_dinh
+C000640,2026-04-30,Hà Nội,gia_dinh
+C000641,2023-01-16,Đà Nẵng,gia_dinh_tre
+C000642,2024-09-12,Hồ Chí Minh,gia_dinh
+C000643,2022-01-14,Hà Nội,gia_dinh_tre
+C000644,2024-01-13,Hồ Chí Minh,gia_dinh
+C000645,2023-10-31,Hà Nội,gia_dinh_tre
+C000646,2023-05-15,Hà Nội,sinh_vien
+C000647,2025-11-15,Hà Nội,van_phong
+C000648,2026-04-22,Hồ Chí Minh,van_phong
+C000649,2023-07-19,Hà Nội,van_phong
+C000650,2023-06-14,,gia_dinh
+C000651,2023-05-07,Hồ Chí Minh,gia_dinh_tre
+C000652,2026-04-23,Hà Nội,gia_dinh
+C000653,2025-11-09,Hồ Chí Minh,van_phong
+C000654,2025-05-04,Hà Nội,van_phong
+C000655,2024-01-25,Hồ Chí Minh,gia_dinh
+C000656,2022-10-27,Hồ Chí Minh,gia_dinh_tre
+C000657,2024-03-25,Hà Nội,gia_dinh
+C000658,2023-07-01,Hồ Chí Minh,gia_dinh
+C000659,2023-12-28,Hồ Chí Minh,van_phong
+C000660,2024-01-01,Hà Nội,van_phong
+C000661,2024-04-07,Hồ Chí Minh,gia_dinh
+C000662,2023-08-25,Hà Nội,sinh_vien
+C000663,2025-08-24,Hồ Chí Minh,van_phong
+C000664,2025-06-29,Hà Nội,gia_dinh_tre
+C000665,2024-10-28,Hà Nội,gia_dinh_tre
+C000666,2024-02-07,Hà Nội,gia_dinh_tre
+C000667,2024-05-24,Hồ Chí Minh,gia_dinh_tre
+C000668,2025-05-16,Hà Nội,gia_dinh_tre
+C000669,2024-07-25,Hà Nội,gia_dinh_tre
+C000670,2022-05-11,Hà Nội,gia_dinh
+C000671,2023-08-31,Hồ Chí Minh,gia_dinh_tre
+C000672,2022-01-26,Hà Nội,sinh_vien
+C000673,2026-01-17,Hà Nội,gia_dinh_tre
+C000674,2023-09-27,Hồ Chí Minh,gia_dinh
+C000675,2025-04-24,Hồ Chí Minh,gia_dinh
+C000676,2023-04-29,Hà Nội,sinh_vien
+C000677,2023-11-11,Hồ Chí Minh,gia_dinh_tre
+C000678,2024-12-10,Đà Nẵng,gia_dinh
+C000679,2022-01-05,Hà Nội,sinh_vien
+C000680,2023-08-12,Hà Nội,sinh_vien
+C000681,2025-03-29,Hồ Chí Minh,sinh_vien
+C000682,2022-07-27,Hồ Chí Minh,gia_dinh
+C000683,2022-09-14,Đà Nẵng,gia_dinh_tre
+C000684,2025-05-13,Hồ Chí Minh,van_phong
+C000685,2022-01-11,Hà Nội,sinh_vien
+C000686,2024-08-06,Hồ Chí Minh,van_phong
+C000687,2022-01-08,Hồ Chí Minh,
+C000688,2025-12-03,Hồ Chí Minh,gia_dinh
+C000689,2024-07-24,Hồ Chí Minh,van_phong
+C000690,2022-02-01,Đà Nẵng,gia_dinh_tre
+C000691,2023-06-24,Hồ Chí Minh,gia_dinh
+C000692,2024-10-01,Hồ Chí Minh,gia_dinh
+C000693,2023-01-22,Hồ Chí Minh,gia_dinh
+C000694,2025-06-05,Hồ Chí Minh,gia_dinh_tre
+C000695,2023-10-02,Hồ Chí Minh,gia_dinh_tre
+C000696,2026-02-07,Hà Nội,van_phong
+C000697,2022-07-26,Hồ Chí Minh,gia_dinh
+C000698,2025-09-03,Hồ Chí Minh,van_phong
+C000699,2023-07-11,Hồ Chí Minh,gia_dinh_tre
+C000700,2026-06-29,Đà Nẵng,gia_dinh
+C000701,2022-12-14,Hồ Chí Minh,gia_dinh
+C000702,2024-03-03,Hồ Chí Minh,gia_dinh_tre
+C000703,2022-08-22,Hà Nội,gia_dinh
+C000704,2024-12-03,Hồ Chí Minh,gia_dinh_tre
+C000705,2024-10-02,Hồ Chí Minh,gia_dinh_tre
+C000706,2024-01-07,Hồ Chí Minh,sinh_vien
+C000707,2024-07-30,Hà Nội,gia_dinh
+C000708,2025-03-11,Hồ Chí Minh,sinh_vien
+C000709,2022-06-25,Hà Nội,gia_dinh
+C000710,2023-03-25,Hà Nội,van_phong
+C000711,2023-08-15,Hồ Chí Minh,van_phong
+C000712,2022-03-23,Hồ Chí Minh,van_phong
+C000713,2022-05-15,Hồ Chí Minh,gia_dinh
+C000714,2024-05-05,Hà Nội,gia_dinh
+C000715,2025-04-15,Hồ Chí Minh,gia_dinh
+C000716,2025-11-07,Hồ Chí Minh,sinh_vien
+C000717,2025-06-20,Hồ Chí Minh,sinh_vien
+C000718,2026-05-10,Đà Nẵng,sinh_vien
+C000719,2025-03-10,Hồ Chí Minh,gia_dinh_tre
+C000720,2026-01-20,Đà Nẵng,van_phong
+C000721,2023-03-16,Hồ Chí Minh,sinh_vien
+C000722,2024-12-15,Hồ Chí Minh,gia_dinh_tre
+C000723,2026-03-31,,gia_dinh_tre
+C000724,2023-11-28,Hồ Chí Minh,van_phong
+C000725,2023-02-23,Hồ Chí Minh,van_phong
+C000726,2022-03-29,Hồ Chí Minh,sinh_vien
+C000727,2026-06-21,Đà Nẵng,gia_dinh_tre
+C000728,2023-10-18,Hà Nội,van_phong
+C000729,2024-10-28,Hà Nội,gia_dinh_tre
+C000730,2026-02-09,Hồ Chí Minh,gia_dinh_tre
+C000731,2022-08-03,Hồ Chí Minh,gia_dinh_tre
+C000732,2023-07-06,Hồ Chí Minh,sinh_vien
+C000733,2026-03-01,Hà Nội,van_phong
+C000734,2023-05-18,Đà Nẵng,gia_dinh
+C000735,2023-11-30,Hồ Chí Minh,gia_dinh
+C000736,2022-09-02,Hồ Chí Minh,sinh_vien
+C000737,2026-02-10,Hồ Chí Minh,gia_dinh
+C000738,2022-11-05,Hồ Chí Minh,sinh_vien
+C000739,2022-08-19,Hồ Chí Minh,gia_dinh
+C000740,2025-11-07,Hà Nội,
+C000741,2022-06-04,Hà Nội,gia_dinh
+C000742,2025-04-13,,gia_dinh
+C000743,2024-04-27,Hồ Chí Minh,van_phong
+C000744,2022-04-25,Đà Nẵng,gia_dinh
+C000745,2025-11-14,Hồ Chí Minh,gia_dinh_tre
+C000746,2022-11-07,Hồ Chí Minh,sinh_vien
+C000747,2024-09-19,Hồ Chí Minh,
+C000748,2022-10-27,Hồ Chí Minh,gia_dinh
+C000749,2024-11-07,Hồ Chí Minh,sinh_vien
+C000750,2024-02-23,Hà Nội,van_phong
+C000751,2022-01-12,Hồ Chí Minh,gia_dinh_tre
+C000752,2025-11-28,Hồ Chí Minh,sinh_vien
+C000753,2022-08-20,Hà Nội,van_phong
+C000754,2024-08-12,Hồ Chí Minh,gia_dinh
+C000755,2026-06-17,Hà Nội,gia_dinh_tre
+C000756,2023-12-31,Hà Nội,van_phong
+C000757,2025-07-25,Hồ Chí Minh,van_phong
+C000758,2025-10-08,Hà Nội,gia_dinh
+C000759,2024-10-14,Hồ Chí Minh,sinh_vien
+C000760,2024-09-25,Đà Nẵng,van_phong
+C000761,2022-10-30,Hồ Chí Minh,gia_dinh_tre
+C000762,2023-06-25,Đà Nẵng,
+C000763,2023-04-15,Hà Nội,gia_dinh_tre
+C000764,2024-03-23,Hồ Chí Minh,van_phong
+C000765,2022-03-18,Hồ Chí Minh,gia_dinh_tre
+C000766,2024-10-16,Đà Nẵng,van_phong
+C000767,2026-03-25,Hà Nội,van_phong
+C000768,2022-01-24,Hồ Chí Minh,sinh_vien
+C000769,2024-11-04,Hà Nội,gia_dinh
+C000770,2023-11-07,Hồ Chí Minh,sinh_vien
+C000771,2023-06-09,Hồ Chí Minh,gia_dinh_tre
+C000772,2022-12-13,Hồ Chí Minh,sinh_vien
+C000773,2022-06-21,Hồ Chí Minh,gia_dinh_tre
+C000774,2025-09-12,Hà Nội,gia_dinh
+C000775,2023-12-13,Hồ Chí Minh,van_phong
+C000776,2026-02-17,Hà Nội,gia_dinh_tre
+C000777,2023-05-04,Hồ Chí Minh,gia_dinh_tre
+C000778,2026-01-25,,van_phong
+C000779,2023-01-13,Hồ Chí Minh,van_phong
+C000780,2026-05-31,Hồ Chí Minh,van_phong
+C000781,2025-04-02,Hồ Chí Minh,van_phong
+C000782,2023-01-07,Hồ Chí Minh,gia_dinh
+C000783,2026-05-16,Hồ Chí Minh,gia_dinh
+C000784,2024-09-26,Hồ Chí Minh,gia_dinh
+C000785,2024-09-03,Hồ Chí Minh,gia_dinh_tre
+C000786,2025-12-18,Hồ Chí Minh,sinh_vien
+C000787,2024-01-27,Hà Nội,van_phong
+C000788,2023-04-22,Đà Nẵng,gia_dinh
+C000789,2023-01-17,Hồ Chí Minh,gia_dinh
+C000790,2022-06-04,Hồ Chí Minh,sinh_vien
+C000791,2022-09-14,Hồ Chí Minh,gia_dinh_tre
+C000792,2023-11-05,Đà Nẵng,van_phong
+C000793,2022-03-09,Hồ Chí Minh,gia_dinh
+C000794,2022-12-10,Hồ Chí Minh,van_phong
+C000795,2025-07-24,Hồ Chí Minh,gia_dinh_tre
+C000796,2023-11-04,Hồ Chí Minh,sinh_vien
+C000797,2023-01-26,Hồ Chí Minh,sinh_vien
+C000798,2026-01-12,,van_phong
+C000799,2022-09-16,Hồ Chí Minh,van_phong
+C000800,2022-11-03,Hà Nội,sinh_vien
+C000801,2025-01-23,Hồ Chí Minh,van_phong
+C000802,2024-08-07,Hồ Chí Minh,gia_dinh_tre
+C000803,2026-01-27,Đà Nẵng,van_phong
+C000804,2024-08-27,Hồ Chí Minh,van_phong
+C000805,2022-09-03,Hà Nội,gia_dinh
+C000806,2024-01-03,Hồ Chí Minh,van_phong
+C000807,2022-07-06,Hồ Chí Minh,sinh_vien
+C000808,2024-07-13,Đà Nẵng,
+C000809,2024-02-24,Hồ Chí Minh,gia_dinh
+C000810,2025-10-28,Hà Nội,
+C000811,2026-05-15,Hồ Chí Minh,sinh_vien
+C000812,2025-11-30,Hà Nội,sinh_vien
+C000813,2023-02-12,Hồ Chí Minh,gia_dinh_tre
+C000814,2025-02-22,Hồ Chí Minh,sinh_vien
+C000815,2025-09-22,Hà Nội,sinh_vien
+C000816,2022-12-07,Đà Nẵng,gia_dinh
+C000817,2023-07-17,Đà Nẵng,van_phong
+C000818,2025-04-16,Hà Nội,gia_dinh
+C000819,2023-10-13,Hà Nội,
+C000820,2024-08-09,Hồ Chí Minh,gia_dinh
+C000821,2025-04-08,Hồ Chí Minh,sinh_vien
+C000822,2024-11-28,Hồ Chí Minh,gia_dinh_tre
+C000823,2022-03-10,Hồ Chí Minh,gia_dinh
+C000824,2025-06-13,Hồ Chí Minh,gia_dinh
+C000825,2026-05-03,Hồ Chí Minh,gia_dinh
+C000826,2023-01-16,Hồ Chí Minh,sinh_vien
+C000827,2022-02-26,Hà Nội,gia_dinh
+C000828,2025-07-24,Hồ Chí Minh,gia_dinh
+C000829,2024-04-29,Hồ Chí Minh,van_phong
+C000830,2025-01-27,Hồ Chí Minh,gia_dinh
+C000831,2024-07-04,Hà Nội,gia_dinh_tre
+C000832,2026-03-31,Hà Nội,gia_dinh
+C000833,2022-11-21,Hà Nội,gia_dinh_tre
+C000834,2023-04-06,Hồ Chí Minh,gia_dinh_tre
+C000835,2022-06-28,Hồ Chí Minh,
+C000836,2024-04-23,Hồ Chí Minh,gia_dinh
+C000837,2023-07-28,Hồ Chí Minh,sinh_vien
+C000838,2022-04-29,Hồ Chí Minh,gia_dinh
+C000839,2026-02-01,Hồ Chí Minh,van_phong
+C000840,2023-07-03,Hồ Chí Minh,van_phong
+C000841,2023-10-08,Đà Nẵng,gia_dinh_tre
+C000842,2026-01-18,Đà Nẵng,van_phong
+C000843,2022-01-26,Hồ Chí Minh,gia_dinh_tre
+C000844,2026-02-22,Hồ Chí Minh,sinh_vien
+C000845,2024-10-28,Hồ Chí Minh,gia_dinh_tre
+C000846,2024-08-26,Hồ Chí Minh,gia_dinh
+C000847,2026-03-20,Đà Nẵng,gia_dinh_tre
+C000848,2023-06-17,Hồ Chí Minh,sinh_vien
+C000849,2022-05-29,Hà Nội,gia_dinh
+C000850,2026-02-20,Hồ Chí Minh,van_phong
+C000851,2024-11-14,Đà Nẵng,gia_dinh_tre
+C000852,2023-10-17,Hồ Chí Minh,van_phong
+C000853,2024-08-02,Hà Nội,gia_dinh_tre
+C000854,2023-07-09,Hồ Chí Minh,sinh_vien
+C000855,2023-03-01,Hà Nội,gia_dinh_tre
+C000856,2022-10-20,Hồ Chí Minh,gia_dinh_tre
+C000857,2025-04-23,,gia_dinh_tre
+C000858,2023-07-08,Đà Nẵng,gia_dinh
+C000859,2023-03-07,Đà Nẵng,van_phong
+C000860,2023-08-27,Hà Nội,gia_dinh_tre
+C000861,2022-11-13,Hà Nội,van_phong
+C000862,2023-02-02,Hà Nội,gia_dinh
+C000863,2025-09-09,Hồ Chí Minh,gia_dinh
+C000864,2026-05-08,Hồ Chí Minh,gia_dinh
+C000865,2023-08-19,Hồ Chí Minh,gia_dinh
+C000866,2023-06-30,Hà Nội,van_phong
+C000867,2022-03-17,Hồ Chí Minh,gia_dinh_tre
+C000868,2024-05-14,Hồ Chí Minh,gia_dinh_tre
+C000869,2024-07-04,Hồ Chí Minh,sinh_vien
+C000870,2023-12-10,Hà Nội,
+C000871,2023-05-01,Hồ Chí Minh,gia_dinh
+C000872,2025-01-16,Hồ Chí Minh,gia_dinh
+C000873,2024-01-17,Hồ Chí Minh,van_phong
+C000874,2025-06-09,Hồ Chí Minh,gia_dinh
+C000875,2024-10-27,Hồ Chí Minh,gia_dinh_tre
+C000876,2023-07-04,Hà Nội,gia_dinh_tre
+C000877,2024-09-02,Hà Nội,van_phong
+C000878,2024-12-11,Hà Nội,van_phong
+C000879,2024-07-30,Hồ Chí Minh,gia_dinh_tre
+C000880,2024-07-07,Hà Nội,gia_dinh_tre
+C000881,2025-11-20,Hồ Chí Minh,gia_dinh_tre
+C000882,2025-05-29,Hồ Chí Minh,van_phong
+C000883,2025-12-22,Hà Nội,gia_dinh_tre
+C000884,2025-03-12,Hồ Chí Minh,gia_dinh_tre
+C000885,2022-12-29,Hồ Chí Minh,van_phong
+C000886,2023-01-17,Hà Nội,gia_dinh_tre
+C000887,2026-05-04,Hồ Chí Minh,van_phong
+C000888,2025-07-24,Hà Nội,gia_dinh_tre
+C000889,2022-09-28,Hồ Chí Minh,gia_dinh_tre
+C000890,2024-11-03,Hà Nội,gia_dinh_tre
+C000891,2022-10-25,Hồ Chí Minh,van_phong
+C000892,2024-09-30,Hồ Chí Minh,sinh_vien
+C000893,2026-01-27,Hà Nội,sinh_vien
+C000894,2026-03-31,Hồ Chí Minh,gia_dinh
+C000895,2022-08-22,Hồ Chí Minh,van_phong
+C000896,2023-07-29,Hồ Chí Minh,gia_dinh_tre
+C000897,2022-01-27,Hồ Chí Minh,gia_dinh
+C000898,2026-02-03,Hồ Chí Minh,sinh_vien
+C000899,2022-04-03,Hồ Chí Minh,gia_dinh_tre
+C000900,2023-09-09,Đà Nẵng,gia_dinh_tre
+C000901,2022-11-05,Hồ Chí Minh,gia_dinh_tre
+C000902,2022-02-21,Hồ Chí Minh,gia_dinh_tre
+C000903,2022-11-15,Hồ Chí Minh,gia_dinh_tre
+C000904,2022-06-30,Hồ Chí Minh,van_phong
+C000905,2026-05-12,Đà Nẵng,gia_dinh
+C000906,2025-02-17,Hồ Chí Minh,sinh_vien
+C000907,2024-05-24,Đà Nẵng,sinh_vien
+C000908,2024-12-02,Hồ Chí Minh,gia_dinh
+C000909,2023-10-09,Hà Nội,gia_dinh
+C000910,2025-07-07,Hồ Chí Minh,gia_dinh
+C000911,2022-07-16,Hà Nội,van_phong
+C000912,2023-10-07,Hồ Chí Minh,gia_dinh
+C000913,2024-08-28,Hồ Chí Minh,van_phong
+C000914,2022-09-12,Hồ Chí Minh,gia_dinh
+C000915,2024-01-02,Hồ Chí Minh,van_phong
+C000916,2022-12-02,Đà Nẵng,gia_dinh
+C000917,2026-04-26,Hồ Chí Minh,gia_dinh
+C000918,2026-03-06,Hồ Chí Minh,sinh_vien
+C000919,2024-09-16,Hà Nội,van_phong
+C000920,2024-06-18,Hồ Chí Minh,gia_dinh_tre
+C000921,2025-07-02,Đà Nẵng,sinh_vien
+C000922,2023-05-29,Hà Nội,gia_dinh
+C000923,2022-08-30,Hồ Chí Minh,sinh_vien
+C000924,2022-05-29,Hà Nội,van_phong
+C000925,2025-08-15,Hồ Chí Minh,gia_dinh
+C000926,2024-01-27,Hồ Chí Minh,gia_dinh_tre
+C000927,2023-09-12,Hồ Chí Minh,gia_dinh
+C000928,2023-03-29,Hồ Chí Minh,gia_dinh
+C000929,2025-11-17,Hà Nội,van_phong
+C000930,2022-07-31,Đà Nẵng,gia_dinh
+C000931,2023-10-30,Hồ Chí Minh,gia_dinh_tre
+C000932,2026-04-11,Hồ Chí Minh,sinh_vien
+C000933,2023-08-17,Đà Nẵng,sinh_vien
+C000934,2026-06-07,Hồ Chí Minh,gia_dinh
+C000935,2022-05-11,Hồ Chí Minh,gia_dinh_tre
+C000936,2025-09-14,Hồ Chí Minh,
+C000937,2023-09-04,Đà Nẵng,gia_dinh_tre
+C000938,2022-09-13,Hồ Chí Minh,sinh_vien
+C000939,2026-02-11,Hà Nội,gia_dinh_tre
+C000940,2023-07-15,Hà Nội,van_phong
+C000941,2022-03-04,Hồ Chí Minh,gia_dinh
+C000942,2025-08-27,Hồ Chí Minh,van_phong
+C000943,2023-02-11,Hà Nội,van_phong
+C000944,2024-03-12,Hồ Chí Minh,sinh_vien
+C000945,2025-02-02,Hà Nội,gia_dinh_tre
+C000946,2026-06-29,Đà Nẵng,gia_dinh_tre
+C000947,2022-01-15,Hà Nội,
+C000948,2022-09-16,Hà Nội,sinh_vien
+C000949,2023-12-24,Hà Nội,sinh_vien
+C000950,2025-12-06,,van_phong
+C000951,2025-07-06,,van_phong
+C000952,2023-09-06,Hồ Chí Minh,van_phong
+C000953,2025-07-07,Hồ Chí Minh,gia_dinh_tre
+C000954,2024-12-04,Hà Nội,sinh_vien
+C000955,2024-03-23,Hồ Chí Minh,gia_dinh
+C000956,2022-11-27,Hà Nội,gia_dinh
+C000957,2022-06-14,Hồ Chí Minh,gia_dinh
+C000958,2025-05-01,Hà Nội,gia_dinh_tre
+C000959,2026-03-25,Hồ Chí Minh,gia_dinh_tre
+C000960,2025-11-25,Hà Nội,van_phong
+C000961,2025-10-29,Hồ Chí Minh,
+C000962,2024-12-24,Hồ Chí Minh,van_phong
+C000963,2023-01-22,Hồ Chí Minh,gia_dinh_tre
+C000964,2026-02-27,Hà Nội,gia_dinh
+C000965,2025-12-09,Hồ Chí Minh,gia_dinh
+C000966,2024-11-19,Hồ Chí Minh,gia_dinh
+C000967,2025-07-13,Đà Nẵng,van_phong
+C000968,2022-11-24,Hà Nội,gia_dinh
+C000969,2026-02-24,Đà Nẵng,van_phong
+C000970,2025-05-25,Hồ Chí Minh,gia_dinh
+C000971,2022-11-16,Hồ Chí Minh,van_phong
+C000972,2023-02-03,Hà Nội,sinh_vien
+C000973,2022-04-15,Hồ Chí Minh,van_phong
+C000974,2023-11-27,Hà Nội,gia_dinh_tre
+C000975,2024-10-13,Hồ Chí Minh,gia_dinh_tre
+C000976,2022-11-26,Hồ Chí Minh,gia_dinh
+C000977,2023-10-22,Hồ Chí Minh,van_phong
+C000978,2026-06-29,Hồ Chí Minh,gia_dinh_tre
+C000979,2024-12-06,Hồ Chí Minh,gia_dinh
+C000980,2023-08-22,Hồ Chí Minh,van_phong
+C000981,2024-03-31,Đà Nẵng,
+C000982,2023-10-03,,van_phong
+C000983,2022-11-10,Hà Nội,gia_dinh_tre
+C000984,2025-03-16,Hà Nội,gia_dinh_tre
+C000985,2023-04-07,Hồ Chí Minh,van_phong
+C000986,2026-05-27,Hồ Chí Minh,gia_dinh
+C000987,2023-05-01,Hà Nội,van_phong
+C000988,2023-02-14,Hà Nội,gia_dinh
+C000989,2022-01-27,Hà Nội,gia_dinh_tre
+C000990,2024-11-18,Hà Nội,sinh_vien
+C000991,2022-09-28,Đà Nẵng,van_phong
+C000992,2023-11-17,,van_phong
+C000993,2023-05-16,Hồ Chí Minh,gia_dinh
+C000994,2025-06-30,Hà Nội,van_phong
+C000995,2023-01-20,Hồ Chí Minh,gia_dinh
+C000996,2022-03-01,Hà Nội,gia_dinh_tre
+C000997,2025-02-04,Hồ Chí Minh,sinh_vien
+C000998,2022-08-08,Hồ Chí Minh,
+C000999,2026-01-04,Hà Nội,sinh_vien
+C001000,2024-02-10,Hồ Chí Minh,gia_dinh
+C001001,2023-07-18,Hồ Chí Minh,gia_dinh_tre
+C001002,2026-05-15,Hồ Chí Minh,gia_dinh
+C001003,2023-06-30,Hà Nội,sinh_vien
+C001004,2022-04-06,Hồ Chí Minh,van_phong
+C001005,2024-09-15,Hà Nội,sinh_vien
+C001006,2025-01-17,Hồ Chí Minh,van_phong
+C001007,2024-04-07,Hà Nội,van_phong
+C001008,2022-08-19,Hà Nội,sinh_vien
+C001009,2024-08-25,Hồ Chí Minh,gia_dinh_tre
+C001010,2022-10-02,Hồ Chí Minh,gia_dinh
+C001011,2022-09-03,Hồ Chí Minh,gia_dinh_tre
+C001012,2022-04-21,Hà Nội,sinh_vien
+C001013,2022-08-22,Hồ Chí Minh,sinh_vien
+C001014,2025-07-25,Hà Nội,gia_dinh_tre
+C001015,2026-02-09,Hồ Chí Minh,van_phong
+C001016,2023-02-21,Hồ Chí Minh,sinh_vien
+C001017,2023-11-09,Hồ Chí Minh,gia_dinh_tre
+C001018,2025-02-25,Hồ Chí Minh,van_phong
+C001019,2025-06-14,Hồ Chí Minh,sinh_vien
+C001020,2024-03-13,Hà Nội,gia_dinh_tre
+C001021,2023-09-11,Hà Nội,van_phong
+C001022,2025-02-25,Hồ Chí Minh,gia_dinh
+C001023,2023-12-08,Đà Nẵng,sinh_vien
+C001024,2024-04-30,Hà Nội,sinh_vien
+C001025,2025-11-18,Đà Nẵng,sinh_vien
+C001026,2023-04-20,Hồ Chí Minh,
+C001027,2023-10-17,Hồ Chí Minh,sinh_vien
+C001028,2023-01-30,Hồ Chí Minh,sinh_vien
+C001029,2022-04-21,Hà Nội,gia_dinh
+C001030,2022-03-31,Hồ Chí Minh,sinh_vien
+C001031,2024-02-02,Hồ Chí Minh,gia_dinh_tre
+C001032,2025-07-27,Hồ Chí Minh,van_phong
+C001033,2025-09-18,Hồ Chí Minh,gia_dinh_tre
+C001034,2025-06-01,Hà Nội,gia_dinh_tre
+C001035,2025-01-29,Hồ Chí Minh,gia_dinh_tre
+C001036,2022-05-12,Hồ Chí Minh,van_phong
+C001037,2024-11-02,Hà Nội,gia_dinh
+C001038,2023-04-02,Đà Nẵng,van_phong
+C001039,2026-01-04,Hà Nội,gia_dinh_tre
+C001040,2022-04-08,Đà Nẵng,gia_dinh
+C001041,2025-02-17,Hà Nội,gia_dinh
+C001042,2022-10-20,Hồ Chí Minh,van_phong
+C001043,2024-10-21,Hồ Chí Minh,gia_dinh
+C001044,2023-07-26,Hà Nội,van_phong
+C001045,2022-09-07,Hà Nội,sinh_vien
+C001046,2023-10-14,Hà Nội,van_phong
+C001047,2022-05-29,Hồ Chí Minh,gia_dinh_tre
+C001048,2025-11-19,Hồ Chí Minh,gia_dinh_tre
+C001049,2022-02-13,Hồ Chí Minh,sinh_vien
+C001050,2024-12-03,Hồ Chí Minh,gia_dinh_tre
+C001051,2025-01-06,Hồ Chí Minh,sinh_vien
+C001052,2025-06-03,Hà Nội,gia_dinh
+C001053,2022-06-11,Hồ Chí Minh,sinh_vien
+C001054,2022-09-10,Hồ Chí Minh,van_phong
+C001055,2022-05-12,Hồ Chí Minh,sinh_vien
+C001056,2026-01-11,Hà Nội,gia_dinh
+C001057,2023-04-19,Hồ Chí Minh,van_phong
+C001058,2025-02-06,Hồ Chí Minh,gia_dinh
+C001059,2023-12-07,Hồ Chí Minh,gia_dinh
+C001060,2024-11-24,Hồ Chí Minh,van_phong
+C001061,2026-01-30,Đà Nẵng,sinh_vien
+C001062,2022-10-02,Đà Nẵng,sinh_vien
+C001063,2022-07-06,Hồ Chí Minh,van_phong
+C001064,2024-08-06,Hồ Chí Minh,gia_dinh
+C001065,2022-08-31,Hà Nội,gia_dinh
+C001066,2022-09-21,Hồ Chí Minh,van_phong
+C001067,2023-06-06,Hồ Chí Minh,gia_dinh_tre
+C001068,2024-08-20,Hồ Chí Minh,gia_dinh_tre
+C001069,2026-04-14,Đà Nẵng,gia_dinh
+C001070,2024-02-22,Hồ Chí Minh,gia_dinh
+C001071,2025-01-15,Hồ Chí Minh,gia_dinh
+C001072,2023-06-19,Hà Nội,gia_dinh_tre
+C001073,2022-07-29,Hồ Chí Minh,gia_dinh_tre
+C001074,2022-02-15,Hồ Chí Minh,gia_dinh_tre
+C001075,2026-01-30,Đà Nẵng,sinh_vien
+C001076,2026-04-13,Hồ Chí Minh,gia_dinh
+C001077,2022-01-26,Hà Nội,gia_dinh
+C001078,2025-07-13,Hồ Chí Minh,van_phong
+C001079,2022-06-24,Hồ Chí Minh,gia_dinh_tre
+C001080,2026-03-20,Hồ Chí Minh,sinh_vien
+C001081,2025-08-27,Hồ Chí Minh,van_phong
+C001082,2022-11-18,Hồ Chí Minh,gia_dinh_tre
+C001083,2026-05-22,Hà Nội,gia_dinh
+C001084,2025-03-04,Hồ Chí Minh,sinh_vien
+C001085,2022-02-24,Hồ Chí Minh,sinh_vien
+C001086,2026-04-16,Hồ Chí Minh,
+C001087,2026-05-29,Hà Nội,van_phong
+C001088,2026-04-04,Hồ Chí Minh,gia_dinh_tre
+C001089,2025-03-25,Hồ Chí Minh,sinh_vien
+C001090,2023-10-30,Hồ Chí Minh,
+C001091,2022-05-27,Hồ Chí Minh,sinh_vien
+C001092,2026-02-17,Hồ Chí Minh,
+C001093,2023-08-22,Hà Nội,van_phong
+C001094,2022-01-20,Hồ Chí Minh,gia_dinh
+C001095,2025-07-16,Hồ Chí Minh,gia_dinh_tre
+C001096,2022-11-29,Hồ Chí Minh,gia_dinh_tre
+C001097,2026-04-28,,gia_dinh_tre
+C001098,2024-06-25,Hồ Chí Minh,gia_dinh_tre
+C001099,2024-08-01,Hồ Chí Minh,van_phong
+C001100,2024-06-29,Hồ Chí Minh,
+C001101,2023-02-05,Hồ Chí Minh,gia_dinh_tre
+C001102,2024-08-07,,sinh_vien
+C001103,2025-08-22,Hồ Chí Minh,sinh_vien
+C001104,2022-01-28,Hồ Chí Minh,sinh_vien
+C001105,2023-04-12,Hồ Chí Minh,sinh_vien
+C001106,2025-07-07,Hồ Chí Minh,gia_dinh_tre
+C001107,2026-04-07,Hồ Chí Minh,gia_dinh
+C001108,2024-09-08,Hồ Chí Minh,van_phong
+C001109,2022-04-11,Hà Nội,van_phong
+C001110,2023-07-05,Đà Nẵng,gia_dinh_tre
+C001111,2024-03-12,Đà Nẵng,sinh_vien
+C001112,2022-12-19,Hà Nội,gia_dinh_tre
+C001113,2025-08-16,Hà Nội,gia_dinh_tre
+C001114,2022-10-23,Hà Nội,gia_dinh
+C001115,2022-12-19,Hồ Chí Minh,van_phong
+C001116,2024-06-26,Hà Nội,van_phong
+C001117,2025-02-27,Hồ Chí Minh,gia_dinh_tre
+C001118,2024-10-15,Hồ Chí Minh,sinh_vien
+C001119,2025-03-25,Hà Nội,gia_dinh
+C001120,2025-01-02,Hồ Chí Minh,gia_dinh_tre
+C001121,2025-09-27,Hồ Chí Minh,
+C001122,2026-01-28,Đà Nẵng,sinh_vien
+C001123,2025-01-18,Hồ Chí Minh,sinh_vien
+C001124,2026-05-22,Hồ Chí Minh,sinh_vien
+C001125,2023-03-31,Đà Nẵng,van_phong
+C001126,2023-12-13,Hà Nội,van_phong
+C001127,2024-09-06,Hồ Chí Minh,gia_dinh_tre
+C001128,2025-09-17,Hồ Chí Minh,gia_dinh
+C001129,2024-01-09,Hồ Chí Minh,gia_dinh
+C001130,2024-09-03,Hà Nội,gia_dinh
+C001131,2025-10-03,Hồ Chí Minh,van_phong
+C001132,2022-08-21,Hồ Chí Minh,gia_dinh
+C001133,2026-06-10,Hồ Chí Minh,gia_dinh_tre
+C001134,2024-10-20,,gia_dinh_tre
+C001135,2022-04-12,Đà Nẵng,van_phong
+C001136,2024-08-10,Hồ Chí Minh,gia_dinh_tre
+C001137,2023-04-26,Hà Nội,sinh_vien
+C001138,2025-05-22,Hồ Chí Minh,gia_dinh
+C001139,2022-04-18,Hà Nội,gia_dinh
+C001140,2025-04-03,Đà Nẵng,van_phong
+C001141,2024-08-30,Hồ Chí Minh,sinh_vien
+C001142,2026-06-15,Hồ Chí Minh,gia_dinh
+C001143,2023-12-05,Hồ Chí Minh,van_phong
+C001144,2022-12-01,Hà Nội,van_phong
+C001145,2022-03-27,Hồ Chí Minh,gia_dinh
+C001146,2024-01-04,Hà Nội,sinh_vien
+C001147,2024-05-24,Hà Nội,van_phong
+C001148,2025-12-18,Hà Nội,van_phong
+C001149,2026-06-25,Hà Nội,sinh_vien
+C001150,2022-12-30,Hồ Chí Minh,sinh_vien
+C001151,2022-03-01,Hồ Chí Minh,van_phong
+C001152,2026-02-14,Hồ Chí Minh,sinh_vien
+C001153,2025-06-27,Đà Nẵng,van_phong
+C001154,2023-07-14,Hà Nội,van_phong
+C001155,2022-04-27,Hà Nội,van_phong
+C001156,2024-05-23,Hồ Chí Minh,van_phong
+C001157,2024-07-03,Hồ Chí Minh,gia_dinh_tre
+C001158,2024-08-25,,sinh_vien
+C001159,2024-09-25,Hồ Chí Minh,sinh_vien
+C001160,2026-04-18,Hồ Chí Minh,gia_dinh_tre
+C001161,2022-02-13,Hà Nội,sinh_vien
+C001162,2023-05-24,Hồ Chí Minh,gia_dinh_tre
+C001163,2025-04-03,Hồ Chí Minh,gia_dinh
+C001164,2025-10-23,Hồ Chí Minh,van_phong
+C001165,2025-08-08,Hồ Chí Minh,gia_dinh_tre
+C001166,2024-04-28,Đà Nẵng,sinh_vien
+C001167,2024-07-05,Hồ Chí Minh,sinh_vien
+C001168,2024-06-16,Hồ Chí Minh,gia_dinh
+C001169,2024-03-09,Hồ Chí Minh,gia_dinh_tre
+C001170,2024-05-25,,gia_dinh
+C001171,2022-10-13,Hồ Chí Minh,van_phong
+C001172,2025-05-12,Hồ Chí Minh,sinh_vien
+C001173,2023-11-15,Hồ Chí Minh,van_phong
+C001174,2026-03-28,Hồ Chí Minh,gia_dinh
+C001175,2024-03-29,Hồ Chí Minh,van_phong
+C001176,2022-05-01,Hà Nội,gia_dinh
+C001177,2024-08-02,Hà Nội,van_phong
+C001178,2024-10-14,Hồ Chí Minh,gia_dinh_tre
+C001179,2025-04-26,Hồ Chí Minh,van_phong
+C001180,2024-06-25,Đà Nẵng,gia_dinh
+C001181,2022-01-13,Hồ Chí Minh,sinh_vien
+C001182,2023-08-26,Hà Nội,gia_dinh
+C001183,2022-07-19,Hồ Chí Minh,
+C001184,2023-08-09,Đà Nẵng,sinh_vien
+C001185,2026-01-19,Hà Nội,gia_dinh_tre
+C001186,2023-03-24,Đà Nẵng,sinh_vien
+C001187,2024-04-20,Hà Nội,van_phong
+C001188,2024-12-30,Hồ Chí Minh,gia_dinh_tre
+C001189,2023-08-13,Đà Nẵng,gia_dinh
+C001190,2025-02-27,Hồ Chí Minh,van_phong
+C001191,2024-06-07,Hồ Chí Minh,gia_dinh_tre
+C001192,2022-02-12,Hà Nội,van_phong
+C001193,2023-06-04,Hà Nội,gia_dinh
+C001194,2024-11-02,Đà Nẵng,van_phong
+C001195,2023-12-26,Hồ Chí Minh,gia_dinh_tre
+C001196,2023-09-15,Hà Nội,sinh_vien
+C001197,2024-09-14,Hà Nội,sinh_vien
+C001198,2024-03-13,Hồ Chí Minh,sinh_vien
+C001199,2023-06-19,Hồ Chí Minh,van_phong
+C001200,2022-10-29,Hồ Chí Minh,gia_dinh_tre
+C001201,2023-06-11,Hồ Chí Minh,van_phong
+C001202,2026-05-16,Đà Nẵng,gia_dinh_tre
+C001203,2025-02-12,Hà Nội,gia_dinh_tre
+C001204,2023-04-05,Hà Nội,gia_dinh
+C001205,2024-04-11,Đà Nẵng,gia_dinh
+C001206,2023-05-20,Hồ Chí Minh,van_phong
+C001207,2025-08-24,Hà Nội,van_phong
+C001208,2024-07-20,Hồ Chí Minh,gia_dinh
+C001209,2022-11-21,Hà Nội,gia_dinh
+C001210,2023-08-02,Hồ Chí Minh,sinh_vien
+C001211,2024-01-31,Đà Nẵng,gia_dinh
+C001212,2025-04-13,Hồ Chí Minh,gia_dinh
+C001213,2024-04-30,Hồ Chí Minh,gia_dinh_tre
+C001214,2026-03-18,Hà Nội,van_phong
+C001215,2025-04-10,Hồ Chí Minh,van_phong
+C001216,2024-08-17,Hà Nội,gia_dinh_tre
+C001217,2023-05-17,Hồ Chí Minh,gia_dinh_tre
+C001218,2022-11-30,Hà Nội,
+C001219,2022-10-11,Hồ Chí Minh,van_phong
+C001220,2023-04-20,Hồ Chí Minh,gia_dinh
+C001221,2024-12-13,Hồ Chí Minh,sinh_vien
+C001222,2026-01-21,Hồ Chí Minh,gia_dinh_tre
+C001223,2026-05-22,Hồ Chí Minh,gia_dinh
+C001224,2025-12-14,Hồ Chí Minh,sinh_vien
+C001225,2026-06-26,Hồ Chí Minh,gia_dinh
+C001226,2023-09-24,Hồ Chí Minh,van_phong
+C001227,2023-12-04,Hồ Chí Minh,gia_dinh
+C001228,2023-02-13,Hà Nội,gia_dinh
+C001229,2024-09-08,Hồ Chí Minh,sinh_vien
+C001230,2025-08-20,Hồ Chí Minh,gia_dinh
+C001231,2023-07-13,Hà Nội,sinh_vien
+C001232,2022-08-10,Hồ Chí Minh,gia_dinh_tre
+C001233,2026-04-06,Hà Nội,
+C001234,2022-06-07,Hồ Chí Minh,gia_dinh_tre
+C001235,2022-12-14,Hồ Chí Minh,van_phong
+C001236,2025-03-28,Hồ Chí Minh,gia_dinh
+C001237,2024-06-07,Hà Nội,
+C001238,2024-07-10,Hà Nội,gia_dinh
+C001239,2025-06-12,Hồ Chí Minh,sinh_vien
+C001240,2023-10-24,Hồ Chí Minh,gia_dinh_tre
+C001241,2023-02-09,Đà Nẵng,sinh_vien
+C001242,2025-07-04,Hồ Chí Minh,van_phong
+C001243,2023-11-08,Hồ Chí Minh,van_phong
+C001244,2023-08-12,Đà Nẵng,sinh_vien
+C001245,2026-06-09,Hà Nội,van_phong
+C001246,2023-07-12,Hồ Chí Minh,van_phong
+C001247,2024-06-23,Hà Nội,gia_dinh_tre
+C001248,2024-12-06,Hà Nội,gia_dinh_tre
+C001249,2025-05-21,Hồ Chí Minh,sinh_vien
+C001250,2023-04-24,Hồ Chí Minh,van_phong
+C001251,2023-05-02,Hồ Chí Minh,van_phong
+C001252,2026-05-14,Đà Nẵng,gia_dinh
+C001253,2023-07-20,Hà Nội,gia_dinh_tre
+C001254,2025-09-27,Hồ Chí Minh,gia_dinh_tre
+C001255,2023-06-08,Hà Nội,van_phong
+C001256,2023-12-05,Hồ Chí Minh,gia_dinh
+C001257,2026-03-07,Hồ Chí Minh,gia_dinh_tre
+C001258,2024-10-26,Hồ Chí Minh,gia_dinh
+C001259,2024-03-31,Hồ Chí Minh,gia_dinh_tre
+C001260,2025-03-13,Hà Nội,van_phong
+C001261,2024-05-07,Hồ Chí Minh,gia_dinh
+C001262,2025-07-08,Hà Nội,van_phong
+C001263,2023-08-08,Hồ Chí Minh,gia_dinh
+C001264,2023-11-17,Hồ Chí Minh,gia_dinh
+C001265,2022-08-20,Đà Nẵng,gia_dinh_tre
+C001266,2022-09-27,Hồ Chí Minh,gia_dinh_tre
+C001267,2024-07-28,Hồ Chí Minh,gia_dinh
+C001268,2026-01-10,Hồ Chí Minh,gia_dinh
+C001269,2024-05-23,Hà Nội,van_phong
+C001270,2025-05-30,Hồ Chí Minh,gia_dinh
+C001271,2022-02-21,Hồ Chí Minh,van_phong
+C001272,2022-04-26,Hồ Chí Minh,sinh_vien
+C001273,2023-06-22,Hồ Chí Minh,van_phong
+C001274,2026-05-08,Hà Nội,gia_dinh_tre
+C001275,2023-06-25,Hồ Chí Minh,gia_dinh
+C001276,2024-11-08,Hồ Chí Minh,gia_dinh_tre
+C001277,2024-03-25,Hồ Chí Minh,gia_dinh_tre
+C001278,2025-11-16,Hồ Chí Minh,sinh_vien
+C001279,2024-03-01,Đà Nẵng,gia_dinh_tre
+C001280,2023-09-10,Hồ Chí Minh,gia_dinh
+C001281,2023-02-23,Đà Nẵng,van_phong
+C001282,2022-11-05,Hồ Chí Minh,van_phong
+C001283,2024-05-13,Hồ Chí Minh,van_phong
+C001284,2022-07-05,Hà Nội,gia_dinh_tre
+C001285,2022-09-18,Hồ Chí Minh,gia_dinh
+C001286,2026-04-01,Hà Nội,gia_dinh
+C001287,2025-07-20,Đà Nẵng,gia_dinh_tre
+C001288,2022-06-09,Hồ Chí Minh,gia_dinh
+C001289,2024-05-19,Hồ Chí Minh,gia_dinh_tre
+C001290,2024-02-01,Hà Nội,gia_dinh_tre
+C001291,2022-08-12,Hồ Chí Minh,gia_dinh
+C001292,2025-07-03,Hồ Chí Minh,gia_dinh_tre
+C001293,2022-06-29,Hồ Chí Minh,van_phong
+C001294,2022-01-20,Hồ Chí Minh,van_phong
+C001295,2023-09-24,Hà Nội,sinh_vien
+C001296,2026-01-31,Hồ Chí Minh,gia_dinh_tre
+C001297,2025-05-18,Hồ Chí Minh,gia_dinh_tre
+C001298,2026-03-17,Hà Nội,gia_dinh_tre
+C001299,2022-02-27,Hồ Chí Minh,van_phong
+C001300,2025-01-21,Hồ Chí Minh,van_phong
+C001301,2025-05-29,Hà Nội,gia_dinh_tre
+C001302,2023-12-24,Hồ Chí Minh,sinh_vien
+C001303,2025-06-09,Hà Nội,gia_dinh_tre
+C001304,2025-10-19,Hà Nội,gia_dinh
+C001305,2023-09-07,Hồ Chí Minh,van_phong
+C001306,2023-07-16,Hồ Chí Minh,
+C001307,2023-01-09,Hồ Chí Minh,van_phong
+C001308,2023-09-14,Hồ Chí Minh,sinh_vien
+C001309,2026-01-19,Hà Nội,gia_dinh
+C001310,2022-03-29,Hà Nội,sinh_vien
+C001311,2024-11-09,Hồ Chí Minh,gia_dinh_tre
+C001312,2024-10-10,Hà Nội,sinh_vien
+C001313,2022-01-14,Đà Nẵng,gia_dinh
+C001314,2022-05-13,Đà Nẵng,sinh_vien
+C001315,2024-11-23,Hồ Chí Minh,gia_dinh
+C001316,2024-06-10,Hồ Chí Minh,van_phong
+C001317,2025-05-16,Hồ Chí Minh,gia_dinh
+C001318,2025-05-07,Đà Nẵng,van_phong
+C001319,2023-08-15,Hồ Chí Minh,gia_dinh_tre
+C001320,2023-08-06,Hồ Chí Minh,gia_dinh_tre
+C001321,2025-03-24,Hồ Chí Minh,gia_dinh_tre
+C001322,2026-06-02,Hồ Chí Minh,gia_dinh_tre
+C001323,2025-01-06,Hồ Chí Minh,sinh_vien
+C001324,2025-04-10,Đà Nẵng,gia_dinh_tre
+C001325,2022-10-16,Hồ Chí Minh,sinh_vien
+C001326,2026-04-18,Hồ Chí Minh,gia_dinh
+C001327,2024-10-09,Hồ Chí Minh,
+C001328,2024-05-28,Hồ Chí Minh,van_phong
+C001329,2025-12-14,Hồ Chí Minh,van_phong
+C001330,2022-01-07,Hồ Chí Minh,gia_dinh
+C001331,2025-03-29,Hồ Chí Minh,van_phong
+C001332,2022-08-28,Hồ Chí Minh,van_phong
+C001333,2025-12-17,Hồ Chí Minh,gia_dinh_tre
+C001334,2023-06-20,Hồ Chí Minh,sinh_vien
+C001335,2022-03-11,Đà Nẵng,sinh_vien
+C001336,2022-08-04,Đà Nẵng,van_phong
+C001337,2025-02-01,Hồ Chí Minh,gia_dinh_tre
+C001338,2024-12-13,Hồ Chí Minh,van_phong
+C001339,2024-03-16,Đà Nẵng,gia_dinh_tre
+C001340,2022-11-26,Hồ Chí Minh,gia_dinh_tre
+C001341,2024-04-27,Hà Nội,gia_dinh
+C001342,2025-05-11,Đà Nẵng,gia_dinh
+C001343,2025-08-04,Hồ Chí Minh,sinh_vien
+C001344,2022-02-14,Hồ Chí Minh,van_phong
+C001345,2024-04-08,Đà Nẵng,van_phong
+C001346,2022-07-17,Hồ Chí Minh,gia_dinh
+C001347,2025-05-24,Hồ Chí Minh,gia_dinh
+C001348,2026-02-13,Hồ Chí Minh,gia_dinh
+C001349,2025-08-25,Hồ Chí Minh,sinh_vien
+C001350,2024-06-14,Hà Nội,gia_dinh_tre
+C001351,2025-12-29,Hà Nội,sinh_vien
+C001352,2022-11-28,Đà Nẵng,van_phong
+C001353,2023-11-27,Hồ Chí Minh,gia_dinh
+C001354,2022-01-27,Hồ Chí Minh,van_phong
+C001355,2025-04-04,Hồ Chí Minh,gia_dinh
+C001356,2022-11-14,Hồ Chí Minh,sinh_vien
+C001357,2025-07-21,Hồ Chí Minh,sinh_vien
+C001358,2025-11-07,Đà Nẵng,gia_dinh
+C001359,2022-12-31,Hà Nội,gia_dinh
+C001360,2025-01-31,,van_phong
+C001361,2024-08-17,Hà Nội,sinh_vien
+C001362,2026-03-07,Hồ Chí Minh,gia_dinh_tre
+C001363,2023-01-08,Hồ Chí Minh,van_phong
+C001364,2026-06-28,Hà Nội,van_phong
+C001365,2022-09-02,Hồ Chí Minh,van_phong
+C001366,2025-04-07,Đà Nẵng,gia_dinh_tre
+C001367,2025-12-12,Hà Nội,
+C001368,2025-10-11,Hồ Chí Minh,sinh_vien
+C001369,2023-04-23,Hà Nội,gia_dinh_tre
+C001370,2022-05-05,Hồ Chí Minh,gia_dinh_tre
+C001371,2023-06-21,Hồ Chí Minh,
+C001372,2023-12-07,Hồ Chí Minh,gia_dinh_tre
+C001373,2026-06-24,Hồ Chí Minh,sinh_vien
+C001374,2025-11-26,Hà Nội,gia_dinh
+C001375,2026-03-21,Hồ Chí Minh,
+C001376,2023-06-15,Hà Nội,sinh_vien
+C001377,2024-02-25,Hồ Chí Minh,gia_dinh
+C001378,2022-09-11,Hồ Chí Minh,gia_dinh
+C001379,2022-05-01,Hà Nội,gia_dinh
+C001380,2024-11-21,Hồ Chí Minh,van_phong
+C001381,2023-10-23,Hồ Chí Minh,gia_dinh_tre
+C001382,2024-11-26,Hồ Chí Minh,gia_dinh
+C001383,2025-09-27,Hồ Chí Minh,sinh_vien
+C001384,2024-11-02,Hồ Chí Minh,gia_dinh
+C001385,2025-04-21,Hà Nội,van_phong
+C001386,2025-07-12,Hồ Chí Minh,gia_dinh
+C001387,2022-03-29,Hồ Chí Minh,van_phong
+C001388,2026-01-25,Đà Nẵng,gia_dinh_tre
+C001389,2022-02-15,Hồ Chí Minh,sinh_vien
+C001390,2025-11-16,Hà Nội,gia_dinh
+C001391,2025-02-16,Hồ Chí Minh,gia_dinh_tre
+C001392,2024-07-21,Hồ Chí Minh,gia_dinh_tre
+C001393,2026-04-04,Hà Nội,gia_dinh_tre
+C001394,2026-01-10,Hồ Chí Minh,gia_dinh
+C001395,2024-01-15,Hà Nội,gia_dinh
+C001396,2026-06-18,Hồ Chí Minh,sinh_vien
+C001397,2024-08-24,Hồ Chí Minh,gia_dinh
+C001398,2024-02-02,Hồ Chí Minh,
+C001399,2024-02-01,Hồ Chí Minh,van_phong
+C001400,2024-03-04,Hà Nội,van_phong
+C001401,2024-01-14,Hồ Chí Minh,gia_dinh_tre
+C001402,2024-12-05,Đà Nẵng,gia_dinh_tre
+C001403,2026-03-12,Đà Nẵng,gia_dinh_tre
+C001404,2023-07-12,Hồ Chí Minh,van_phong
+C001405,2023-06-10,Hồ Chí Minh,van_phong
+C001406,2023-08-20,,gia_dinh
+C001407,2024-04-19,Đà Nẵng,sinh_vien
+C001408,2022-01-03,Hồ Chí Minh,sinh_vien
+C001409,2024-11-17,Hồ Chí Minh,van_phong
+C001410,2025-11-05,Hồ Chí Minh,sinh_vien
+C001411,2022-06-06,Hà Nội,gia_dinh_tre
+C001412,2024-05-04,Hồ Chí Minh,gia_dinh_tre
+C001413,2023-05-26,Hà Nội,gia_dinh
+C001414,2025-09-18,Hồ Chí Minh,gia_dinh_tre
+C001415,2023-11-18,Hồ Chí Minh,gia_dinh
+C001416,2025-02-11,Hồ Chí Minh,sinh_vien
+C001417,2025-11-13,Hồ Chí Minh,gia_dinh_tre
+C001418,2026-02-19,Hồ Chí Minh,gia_dinh_tre
+C001419,2025-06-27,Hồ Chí Minh,gia_dinh
+C001420,2023-07-25,,sinh_vien
+C001421,2023-12-16,Hồ Chí Minh,gia_dinh
+C001422,2025-08-31,Hồ Chí Minh,gia_dinh
+C001423,2022-08-27,Đà Nẵng,gia_dinh_tre
+C001424,2025-06-11,Hồ Chí Minh,gia_dinh_tre
+C001425,2022-10-30,Hồ Chí Minh,
+C001426,2023-08-30,Hồ Chí Minh,sinh_vien
+C001427,2024-09-17,Đà Nẵng,gia_dinh_tre
+C001428,2022-11-30,Hồ Chí Minh,sinh_vien
+C001429,2022-04-23,Hà Nội,van_phong
+C001430,2022-12-28,Hà Nội,sinh_vien
+C001431,2024-03-11,Hà Nội,gia_dinh
+C001432,2022-04-07,Hồ Chí Minh,gia_dinh
+C001433,2022-01-16,Hà Nội,gia_dinh
+C001434,2023-07-10,Hồ Chí Minh,van_phong
+C001435,2023-01-11,Hồ Chí Minh,gia_dinh_tre
+C001436,2024-01-12,Hà Nội,gia_dinh_tre
+C001437,2023-01-25,Hồ Chí Minh,gia_dinh
+C001438,2023-09-12,Hà Nội,van_phong
+C001439,2025-05-25,Hồ Chí Minh,
+C001440,2025-11-23,Hà Nội,van_phong
+C001441,2025-07-07,Hồ Chí Minh,sinh_vien
+C001442,2024-04-03,Hồ Chí Minh,gia_dinh_tre
+C001443,2022-11-16,Hồ Chí Minh,van_phong
+C001444,2022-07-15,Đà Nẵng,gia_dinh
+C001445,2026-02-10,Hồ Chí Minh,
+C001446,2023-02-22,Hồ Chí Minh,gia_dinh_tre
+C001447,2026-02-07,Hồ Chí Minh,van_phong
+C001448,2023-08-30,Hà Nội,sinh_vien
+C001449,2023-07-22,Hồ Chí Minh,sinh_vien
+C001450,2023-06-28,Hồ Chí Minh,van_phong
+C001451,2022-08-19,Hồ Chí Minh,gia_dinh
+C001452,2024-06-02,Hồ Chí Minh,van_phong
+C001453,2023-06-05,Hồ Chí Minh,sinh_vien
+C001454,2023-12-04,Hồ Chí Minh,van_phong
+C001455,2025-05-08,Hà Nội,gia_dinh_tre
+C001456,2024-04-25,Hồ Chí Minh,sinh_vien
+C001457,2023-11-04,Hồ Chí Minh,van_phong
+C001458,2026-06-11,Hồ Chí Minh,van_phong
+C001459,2022-01-21,Đà Nẵng,gia_dinh_tre
+C001460,2025-08-27,Đà Nẵng,van_phong
+C001461,2023-08-11,Hà Nội,gia_dinh
+C001462,2024-06-16,Hồ Chí Minh,van_phong
+C001463,2026-06-08,Hồ Chí Minh,gia_dinh_tre
+C001464,2025-12-28,Hồ Chí Minh,van_phong
+C001465,2023-01-06,Hồ Chí Minh,sinh_vien
+C001466,2026-05-03,Hồ Chí Minh,gia_dinh_tre
+C001467,2022-03-19,Hà Nội,sinh_vien
+C001468,2026-04-15,Hà Nội,gia_dinh
+C001469,2025-08-01,Hà Nội,sinh_vien
+C001470,2023-10-10,Hồ Chí Minh,van_phong
+C001471,2022-05-20,Hà Nội,van_phong
+C001472,2023-07-07,Hồ Chí Minh,van_phong
+C001473,2024-09-24,Hồ Chí Minh,sinh_vien
+C001474,2022-10-09,Hà Nội,gia_dinh
+C001475,2026-05-05,Hồ Chí Minh,gia_dinh
+C001476,2025-07-05,Hồ Chí Minh,van_phong
+C001477,2025-10-15,Hồ Chí Minh,sinh_vien
+C001478,2023-03-16,Hà Nội,van_phong
+C001479,2022-09-27,Hà Nội,van_phong
+C001480,2025-03-03,Hồ Chí Minh,gia_dinh
+C001481,2024-01-16,Hà Nội,sinh_vien
+C001482,2022-04-14,Hồ Chí Minh,gia_dinh_tre
+C001483,2024-02-05,Hồ Chí Minh,gia_dinh
+C001484,2022-04-05,Hà Nội,gia_dinh_tre
+C001485,2023-12-30,Hà Nội,gia_dinh
+C001486,2026-05-16,Đà Nẵng,
+C001487,2023-04-25,Hồ Chí Minh,gia_dinh
+C001488,2024-02-19,Hà Nội,van_phong
+C001489,2025-06-18,Hà Nội,gia_dinh
+C001490,2022-01-13,Đà Nẵng,gia_dinh
+C001491,2025-03-16,Hồ Chí Minh,gia_dinh_tre
+C001492,2023-08-24,Hà Nội,gia_dinh
+C001493,2022-04-05,Hồ Chí Minh,gia_dinh_tre
+C001494,2022-10-20,Hồ Chí Minh,gia_dinh_tre
+C001495,2022-01-25,Hồ Chí Minh,van_phong
+C001496,2025-07-19,Hồ Chí Minh,van_phong
+C001497,2026-03-09,Hồ Chí Minh,van_phong
+C001498,2025-04-04,Hà Nội,gia_dinh
+C001499,2024-07-27,Hồ Chí Minh,gia_dinh
+C001500,2024-02-01,Hà Nội,sinh_vien
+C001501,2025-01-15,Hồ Chí Minh,gia_dinh
+C001502,2023-10-16,Hồ Chí Minh,gia_dinh
+C001503,2024-09-11,Hồ Chí Minh,gia_dinh_tre
+C001504,2023-09-30,Hồ Chí Minh,gia_dinh
+C001505,2023-05-06,,gia_dinh
+C001506,2025-03-10,Hồ Chí Minh,gia_dinh
+C001507,2025-01-31,Hồ Chí Minh,
+C001508,2025-06-03,Hồ Chí Minh,gia_dinh
+C001509,2023-07-29,Hồ Chí Minh,van_phong
+C001510,2022-10-21,Hồ Chí Minh,van_phong
+C001511,2024-06-14,Hồ Chí Minh,sinh_vien
+C001512,2025-08-22,Đà Nẵng,van_phong
+C001513,2025-07-01,Hà Nội,sinh_vien
+C001514,2025-04-18,Hà Nội,gia_dinh_tre
+C001515,2022-02-09,Hồ Chí Minh,gia_dinh_tre
+C001516,2024-02-15,Hà Nội,gia_dinh_tre
+C001517,2023-06-04,Hà Nội,van_phong
+C001518,2026-06-28,Hà Nội,sinh_vien
+C001519,2023-06-30,Hồ Chí Minh,gia_dinh_tre
+C001520,2022-08-24,Hà Nội,
+C001521,2023-04-08,Hà Nội,
+C001522,2025-06-05,Hồ Chí Minh,sinh_vien
+C001523,2023-04-28,Hà Nội,gia_dinh
+C001524,2023-03-06,Hồ Chí Minh,gia_dinh_tre
+C001525,2024-11-11,Hồ Chí Minh,gia_dinh
+C001526,2022-12-09,Hồ Chí Minh,gia_dinh
+C001527,2024-11-29,Hà Nội,gia_dinh
+C001528,2025-04-11,Hồ Chí Minh,gia_dinh
+C001529,2026-01-02,Hồ Chí Minh,sinh_vien
+C001530,2025-04-17,Hồ Chí Minh,gia_dinh
+C001531,2026-06-10,Hồ Chí Minh,gia_dinh
+C001532,2022-05-13,Hồ Chí Minh,van_phong
+C001533,2022-12-17,Hà Nội,van_phong
+C001534,2026-03-29,Hà Nội,gia_dinh
+C001535,2026-04-13,Hồ Chí Minh,gia_dinh
+C001536,2023-05-21,Hồ Chí Minh,gia_dinh_tre
+C001537,2022-03-25,Hồ Chí Minh,gia_dinh_tre
+C001538,2024-09-19,Hà Nội,van_phong
+C001539,2026-01-27,Hồ Chí Minh,
+C001540,2024-04-09,Hồ Chí Minh,gia_dinh
+C001541,2024-05-10,Hồ Chí Minh,van_phong
+C001542,2022-12-09,Hà Nội,gia_dinh_tre
+C001543,2025-07-27,Hà Nội,
+C001544,2024-05-15,Hà Nội,gia_dinh
+C001545,2025-07-10,Hà Nội,sinh_vien
+C001546,2025-04-04,Hồ Chí Minh,gia_dinh
+C001547,2022-10-20,Hồ Chí Minh,sinh_vien
+C001548,2026-03-13,,van_phong
+C001549,2026-05-23,Hồ Chí Minh,gia_dinh_tre
+C001550,2025-06-03,Hồ Chí Minh,
+C001551,2025-04-08,Hồ Chí Minh,sinh_vien
+C001552,2023-08-21,Hồ Chí Minh,van_phong
+C001553,2023-10-07,Đà Nẵng,
+C001554,2023-03-24,Hà Nội,sinh_vien
+C001555,2023-11-21,Hà Nội,gia_dinh_tre
+C001556,2024-09-28,Hà Nội,gia_dinh_tre
+C001557,2024-05-04,Hồ Chí Minh,van_phong
+C001558,2023-05-17,Hà Nội,gia_dinh
+C001559,2024-02-03,Hồ Chí Minh,sinh_vien
+C001560,2026-03-31,Hà Nội,sinh_vien
+C001561,2024-01-05,Hồ Chí Minh,gia_dinh
+C001562,2025-11-03,Đà Nẵng,gia_dinh_tre
+C001563,2025-05-09,Hồ Chí Minh,van_phong
+C001564,2022-09-07,Hồ Chí Minh,gia_dinh
+C001565,2025-12-03,Đà Nẵng,sinh_vien
+C001566,2023-08-24,Hồ Chí Minh,gia_dinh
+C001567,2022-05-05,Hà Nội,van_phong
+C001568,2022-04-23,,gia_dinh_tre
+C001569,2024-09-07,Hà Nội,van_phong
+C001570,2025-03-06,Đà Nẵng,
+C001571,2026-02-28,Đà Nẵng,
+C001572,2022-05-30,Hồ Chí Minh,gia_dinh_tre
+C001573,2024-05-24,Hà Nội,van_phong
+C001574,2022-12-09,Hà Nội,sinh_vien
+C001575,2023-08-03,Hà Nội,gia_dinh_tre
+C001576,2024-02-22,Hồ Chí Minh,gia_dinh_tre
+C001577,2022-11-17,Hà Nội,gia_dinh_tre
+C001578,2024-04-01,Đà Nẵng,van_phong
+C001579,2023-06-16,Đà Nẵng,van_phong
+C001580,2025-08-05,Hồ Chí Minh,gia_dinh
+C001581,2026-02-21,Hồ Chí Minh,
+C001582,2023-05-07,Hồ Chí Minh,gia_dinh
+C001583,2023-09-04,Hà Nội,van_phong
+C001584,2022-09-09,Hà Nội,gia_dinh
+C001585,2025-01-05,Hồ Chí Minh,sinh_vien
+C001586,2025-11-16,Hồ Chí Minh,gia_dinh_tre
+C001587,2025-12-06,Hồ Chí Minh,van_phong
+C001588,2022-06-22,Hồ Chí Minh,gia_dinh
+C001589,2024-05-24,Đà Nẵng,gia_dinh
+C001590,2022-07-20,Hà Nội,van_phong
+C001591,2022-08-05,Hồ Chí Minh,van_phong
+C001592,2023-01-11,Hồ Chí Minh,sinh_vien
+C001593,2026-05-29,Hồ Chí Minh,gia_dinh_tre
+C001594,2022-01-11,Đà Nẵng,gia_dinh_tre
+C001595,2024-11-01,Hồ Chí Minh,van_phong
+C001596,2024-06-10,Hồ Chí Minh,van_phong
+C001597,2026-06-02,Hồ Chí Minh,gia_dinh
+C001598,2023-03-11,Hà Nội,gia_dinh_tre
+C001599,2026-06-20,Hà Nội,gia_dinh_tre
+C001600,2024-03-28,Hà Nội,sinh_vien
+C001601,2025-10-28,Hồ Chí Minh,gia_dinh_tre
+C001602,2025-07-20,Hồ Chí Minh,gia_dinh
+C001603,2024-07-19,Hồ Chí Minh,gia_dinh_tre
+C001604,2023-11-22,Hà Nội,gia_dinh
+C001605,2026-05-19,Hồ Chí Minh,gia_dinh_tre
+C001606,2026-03-13,Hồ Chí Minh,gia_dinh
+C001607,2025-03-01,Hà Nội,gia_dinh_tre
+C001608,2024-05-04,Hà Nội,sinh_vien
+C001609,2024-02-23,Hồ Chí Minh,gia_dinh_tre
+C001610,2022-11-15,Hồ Chí Minh,
+C001611,2024-04-23,Hồ Chí Minh,sinh_vien
+C001612,2023-09-13,Hà Nội,van_phong
+C001613,2024-02-24,Hà Nội,gia_dinh
+C001614,2025-04-06,Hồ Chí Minh,gia_dinh
+C001615,2023-02-01,Hồ Chí Minh,gia_dinh
+C001616,2025-04-18,Hà Nội,van_phong
+C001617,2024-12-17,Hà Nội,sinh_vien
+C001618,2026-02-12,Hồ Chí Minh,van_phong
+C001619,2026-06-03,Hồ Chí Minh,van_phong
+C001620,2023-04-05,Hồ Chí Minh,van_phong
+C001621,2022-03-02,Hồ Chí Minh,gia_dinh
+C001622,2023-01-04,Đà Nẵng,gia_dinh_tre
+C001623,2025-02-18,Hà Nội,van_phong
+C001624,2023-12-20,Hà Nội,sinh_vien
+C001625,2023-06-30,Hồ Chí Minh,gia_dinh_tre
+C001626,2026-05-25,Hà Nội,van_phong
+C001627,2024-11-06,,gia_dinh_tre
+C001628,2023-05-11,Hồ Chí Minh,gia_dinh
+C001629,2023-05-12,Hồ Chí Minh,gia_dinh_tre
+C001630,2023-05-20,Hồ Chí Minh,gia_dinh
+C001631,2026-04-05,Hà Nội,van_phong
+C001632,2024-08-26,Hồ Chí Minh,gia_dinh
+C001633,2025-08-31,Hồ Chí Minh,van_phong
+C001634,2024-12-28,Hồ Chí Minh,
+C001635,2022-06-10,Hồ Chí Minh,
+C001636,2026-06-26,Hồ Chí Minh,gia_dinh_tre
+C001637,2023-12-19,Hồ Chí Minh,gia_dinh
+C001638,2025-03-14,Hà Nội,gia_dinh_tre
+C001639,2026-05-12,Hồ Chí Minh,sinh_vien
+C001640,2026-06-07,Hồ Chí Minh,sinh_vien
+C001641,2024-09-19,Hồ Chí Minh,gia_dinh
+C001642,2025-11-09,Hà Nội,sinh_vien
+C001643,2022-09-26,Hồ Chí Minh,gia_dinh
+C001644,2026-01-17,Hồ Chí Minh,van_phong
+C001645,2023-11-30,Hồ Chí Minh,gia_dinh_tre
+C001646,2026-03-22,Hồ Chí Minh,van_phong
+C001647,2024-05-14,Hồ Chí Minh,gia_dinh_tre
+C001648,2022-12-16,Hà Nội,sinh_vien
+C001649,2022-04-20,Hà Nội,van_phong
+C001650,2026-02-15,Hồ Chí Minh,van_phong
+C001651,2023-02-11,Hà Nội,gia_dinh_tre
+C001652,2023-10-12,Hà Nội,gia_dinh
+C001653,2022-02-20,Hồ Chí Minh,gia_dinh
+C001654,2025-11-27,Hồ Chí Minh,gia_dinh
+C001655,2026-05-06,Hồ Chí Minh,gia_dinh_tre
+C001656,2026-02-08,Hồ Chí Minh,sinh_vien
+C001657,2025-01-15,Hà Nội,van_phong
+C001658,2024-12-27,,gia_dinh
+C001659,2023-08-19,Đà Nẵng,gia_dinh
+C001660,2024-09-05,Hà Nội,gia_dinh
+C001661,2024-12-01,Hồ Chí Minh,van_phong
+C001662,2024-01-01,Hồ Chí Minh,gia_dinh
+C001663,2022-02-26,Hà Nội,sinh_vien
+C001664,2024-01-08,Hồ Chí Minh,gia_dinh
+C001665,2022-07-15,Hà Nội,sinh_vien
+C001666,2024-12-21,Hà Nội,sinh_vien
+C001667,2025-07-10,Hà Nội,gia_dinh_tre
+C001668,2022-04-22,Hà Nội,sinh_vien
+C001669,2024-02-04,Hồ Chí Minh,
+C001670,2023-12-12,Hà Nội,sinh_vien
+C001671,2025-04-16,Hà Nội,gia_dinh
+C001672,2024-08-05,Hồ Chí Minh,sinh_vien
+C001673,2022-01-26,Hà Nội,sinh_vien
+C001674,2023-02-14,Hồ Chí Minh,sinh_vien
+C001675,2024-01-28,Đà Nẵng,van_phong
+C001676,2023-06-15,Hồ Chí Minh,gia_dinh
+C001677,2025-09-02,Hồ Chí Minh,gia_dinh_tre
+C001678,2026-04-05,Hồ Chí Minh,gia_dinh
+C001679,2025-02-03,Hà Nội,gia_dinh_tre
+C001680,2024-01-19,Hồ Chí Minh,van_phong
+C001681,2026-01-27,Hồ Chí Minh,gia_dinh
+C001682,2022-09-03,Hồ Chí Minh,sinh_vien
+C001683,2025-01-09,Đà Nẵng,van_phong
+C001684,2023-10-24,Hồ Chí Minh,sinh_vien
+C001685,2024-06-27,Hồ Chí Minh,gia_dinh_tre
+C001686,2023-01-31,Hà Nội,sinh_vien
+C001687,2023-06-06,Hồ Chí Minh,sinh_vien
+C001688,2024-07-14,Đà Nẵng,gia_dinh
+C001689,2022-09-21,Hồ Chí Minh,van_phong
+C001690,2024-02-29,Hà Nội,van_phong
+C001691,2025-07-21,Hồ Chí Minh,gia_dinh_tre
+C001692,2022-06-21,Hồ Chí Minh,
+C001693,2022-09-22,Hà Nội,gia_dinh
+C001694,2024-11-15,Hồ Chí Minh,gia_dinh_tre
+C001695,2026-02-01,Hà Nội,gia_dinh
+C001696,2023-04-21,Hồ Chí Minh,gia_dinh_tre
+C001697,2022-12-22,Hồ Chí Minh,gia_dinh_tre
+C001698,2024-11-15,Hồ Chí Minh,gia_dinh_tre
+C001699,2022-02-03,Đà Nẵng,sinh_vien
+C001700,2022-09-21,Hồ Chí Minh,gia_dinh
+C001701,2025-03-07,Hồ Chí Minh,sinh_vien
+C001702,2024-03-26,Hồ Chí Minh,gia_dinh
+C001703,2024-05-24,Hồ Chí Minh,gia_dinh
+C001704,2024-01-24,Hồ Chí Minh,gia_dinh
+C001705,2023-07-20,Đà Nẵng,gia_dinh
+C001706,2023-04-07,Hồ Chí Minh,gia_dinh_tre
+C001707,2025-04-06,Hà Nội,van_phong
+C001708,2023-10-17,Hồ Chí Minh,gia_dinh_tre
+C001709,2022-03-22,Hà Nội,van_phong
+C001710,2024-01-27,Đà Nẵng,van_phong
+C001711,2024-05-19,Hồ Chí Minh,gia_dinh_tre
+C001712,2025-12-01,Đà Nẵng,gia_dinh_tre
+C001713,2026-05-17,Hồ Chí Minh,
+C001714,2024-12-05,Đà Nẵng,gia_dinh
+C001715,2023-08-22,Hà Nội,gia_dinh_tre
+C001716,2026-06-23,Hồ Chí Minh,sinh_vien
+C001717,2024-03-17,Hồ Chí Minh,gia_dinh_tre
+C001718,2024-12-12,Hồ Chí Minh,van_phong
+C001719,2024-09-10,Hồ Chí Minh,sinh_vien
+C001720,2023-12-05,Hồ Chí Minh,gia_dinh_tre
+C001721,2023-04-21,Hồ Chí Minh,gia_dinh_tre
+C001722,2023-08-15,Hồ Chí Minh,gia_dinh_tre
+C001723,2022-01-16,Hà Nội,gia_dinh
+C001724,2025-10-15,Hồ Chí Minh,gia_dinh_tre
+C001725,2023-05-02,Hồ Chí Minh,van_phong
+C001726,2023-12-07,Hà Nội,gia_dinh_tre
+C001727,2026-03-06,Hồ Chí Minh,gia_dinh
+C001728,2025-03-10,Hồ Chí Minh,sinh_vien
+C001729,2023-09-12,Hồ Chí Minh,sinh_vien
+C001730,2024-10-15,Đà Nẵng,van_phong
+C001731,2024-02-16,Hà Nội,gia_dinh
+C001732,2023-03-23,Hồ Chí Minh,van_phong
+C001733,2022-10-17,Hà Nội,gia_dinh
+C001734,2022-07-28,Hồ Chí Minh,gia_dinh
+C001735,2026-02-07,Hà Nội,gia_dinh_tre
+C001736,2023-02-17,Hà Nội,sinh_vien
+C001737,2023-11-08,Hà Nội,gia_dinh
+C001738,2025-12-21,Hồ Chí Minh,gia_dinh_tre
+C001739,2025-10-26,Hồ Chí Minh,gia_dinh
+C001740,2023-10-26,Hồ Chí Minh,gia_dinh
+C001741,2022-10-17,Hà Nội,sinh_vien
+C001742,2025-12-26,Hồ Chí Minh,van_phong
+C001743,2025-07-15,Hà Nội,van_phong
+C001744,2022-05-31,Đà Nẵng,
+C001745,2025-07-02,Hồ Chí Minh,gia_dinh
+C001746,2025-10-08,Hà Nội,gia_dinh
+C001747,2025-11-01,Hà Nội,gia_dinh_tre
+C001748,2024-05-04,Đà Nẵng,gia_dinh
+C001749,2025-10-13,Đà Nẵng,van_phong
+C001750,2023-08-31,,gia_dinh_tre
+C001751,2023-01-05,Hồ Chí Minh,gia_dinh
+C001752,2025-06-04,Hà Nội,gia_dinh_tre
+C001753,2023-12-06,Hồ Chí Minh,gia_dinh_tre
+C001754,2025-08-19,Hà Nội,gia_dinh_tre
+C001755,2024-04-05,Đà Nẵng,sinh_vien
+C001756,2024-10-01,Hồ Chí Minh,sinh_vien
+C001757,2025-11-13,Hà Nội,sinh_vien
+C001758,2023-01-12,Hồ Chí Minh,gia_dinh
+C001759,2024-08-30,Hồ Chí Minh,gia_dinh_tre
+C001760,2022-04-28,Hồ Chí Minh,gia_dinh
+C001761,2024-10-25,,gia_dinh
+C001762,2023-03-20,Đà Nẵng,sinh_vien
+C001763,2025-10-07,Đà Nẵng,gia_dinh_tre
+C001764,2024-01-25,Hồ Chí Minh,gia_dinh
+C001765,2026-04-06,Hà Nội,gia_dinh_tre
+C001766,2023-10-02,Hà Nội,gia_dinh
+C001767,2022-05-04,Hồ Chí Minh,van_phong
+C001768,2023-10-20,,
+C001769,2025-07-24,Hồ Chí Minh,
+C001770,2024-04-01,Đà Nẵng,gia_dinh
+C001771,2025-11-18,Hà Nội,gia_dinh
+C001772,2023-10-26,Hà Nội,van_phong
+C001773,2022-12-26,Hồ Chí Minh,sinh_vien
+C001774,2023-09-15,Hà Nội,sinh_vien
+C001775,2026-02-01,Hồ Chí Minh,van_phong
+C001776,2024-12-16,Hồ Chí Minh,gia_dinh
+C001777,2025-06-28,Hà Nội,van_phong
+C001778,2024-07-07,Hồ Chí Minh,gia_dinh
+C001779,2025-03-19,Hà Nội,gia_dinh
+C001780,2023-03-28,Hồ Chí Minh,sinh_vien
+C001781,2025-03-31,Hà Nội,gia_dinh_tre
+C001782,2022-04-30,Hồ Chí Minh,sinh_vien
+C001783,2023-08-05,Hồ Chí Minh,gia_dinh
+C001784,2025-10-06,Hồ Chí Minh,van_phong
+C001785,2022-04-09,Hồ Chí Minh,van_phong
+C001786,2025-04-05,Đà Nẵng,sinh_vien
+C001787,2023-05-29,Hồ Chí Minh,van_phong
+C001788,2023-10-26,Hà Nội,van_phong
+C001789,2023-02-05,Đà Nẵng,gia_dinh_tre
+C001790,2022-12-31,Hồ Chí Minh,gia_dinh
+C001791,2026-05-20,Hồ Chí Minh,gia_dinh_tre
+C001792,2025-09-11,Hà Nội,van_phong
+C001793,2023-08-04,Đà Nẵng,gia_dinh
+C001794,2023-09-13,Đà Nẵng,van_phong
+C001795,2024-04-07,Hồ Chí Minh,
+C001796,2022-09-04,Hà Nội,gia_dinh_tre
+C001797,2023-03-10,Hồ Chí Minh,van_phong
+C001798,2025-01-21,,gia_dinh_tre
+C001799,2025-07-15,Đà Nẵng,gia_dinh_tre
+C001800,2023-09-07,Hồ Chí Minh,gia_dinh_tre
+C001801,2024-07-31,Hồ Chí Minh,sinh_vien
+C001802,2024-08-20,Hồ Chí Minh,van_phong
+C001803,2023-09-16,Hồ Chí Minh,gia_dinh
+C001804,2022-11-17,Hà Nội,gia_dinh
+C001805,2024-05-05,Hồ Chí Minh,gia_dinh
+C001806,2022-03-03,Hồ Chí Minh,van_phong
+C001807,2022-10-27,Hồ Chí Minh,van_phong
+C001808,2023-02-07,,gia_dinh_tre
+C001809,2024-08-12,Hà Nội,gia_dinh_tre
+C001810,2026-05-10,Hồ Chí Minh,gia_dinh_tre
+C001811,2025-08-19,Hồ Chí Minh,van_phong
+C001812,2022-09-10,Đà Nẵng,van_phong
+C001813,2023-04-23,Hà Nội,gia_dinh
+C001814,2025-10-24,Hồ Chí Minh,gia_dinh_tre
+C001815,2022-06-09,Hồ Chí Minh,gia_dinh_tre
+C001816,2024-08-18,Hồ Chí Minh,sinh_vien
+C001817,2025-04-04,Hồ Chí Minh,gia_dinh
+C001818,2022-07-24,Hồ Chí Minh,van_phong
+C001819,2025-07-14,Đà Nẵng,van_phong
+C001820,2025-03-07,Hồ Chí Minh,gia_dinh
+C001821,2025-10-23,Hà Nội,gia_dinh_tre
+C001822,2026-01-06,Hồ Chí Minh,gia_dinh_tre
+C001823,2024-05-07,Hà Nội,van_phong
+C001824,2024-01-30,Hà Nội,van_phong
+C001825,2026-05-10,Hồ Chí Minh,van_phong
+C001826,2023-12-22,Hồ Chí Minh,gia_dinh
+C001827,2024-11-06,Hà Nội,gia_dinh_tre
+C001828,2022-03-09,Hồ Chí Minh,sinh_vien
+C001829,2022-05-13,Hồ Chí Minh,van_phong
+C001830,2024-07-07,Hồ Chí Minh,gia_dinh
+C001831,2023-03-06,Đà Nẵng,sinh_vien
+C001832,2022-11-04,Hồ Chí Minh,van_phong
+C001833,2023-10-12,Hà Nội,van_phong
+C001834,2025-04-12,Hồ Chí Minh,van_phong
+C001835,2023-02-16,Hà Nội,sinh_vien
+C001836,2022-04-07,Hồ Chí Minh,van_phong
+C001837,2025-03-23,Hà Nội,gia_dinh_tre
+C001838,2025-06-19,Hồ Chí Minh,gia_dinh
+C001839,2025-08-20,Hà Nội,sinh_vien
+C001840,2025-08-01,Hà Nội,gia_dinh_tre
+C001841,2024-11-16,Hồ Chí Minh,gia_dinh
+C001842,2025-11-26,Hồ Chí Minh,gia_dinh
+C001843,2025-10-15,Hồ Chí Minh,gia_dinh
+C001844,2024-12-19,Hồ Chí Minh,van_phong
+C001845,2022-07-21,Hà Nội,sinh_vien
+C001846,2024-02-01,Hồ Chí Minh,gia_dinh_tre
+C001847,2024-05-23,Hồ Chí Minh,gia_dinh_tre
+C001848,2023-08-04,Hà Nội,gia_dinh_tre
+C001849,2023-01-05,Hồ Chí Minh,sinh_vien
+C001850,2023-06-17,Hồ Chí Minh,
+C001851,2025-03-21,Hồ Chí Minh,gia_dinh
+C001852,2025-01-30,Đà Nẵng,sinh_vien
+C001853,2024-06-17,Hà Nội,sinh_vien
+C001854,2023-08-30,Hà Nội,sinh_vien
+C001855,2026-01-09,Hồ Chí Minh,sinh_vien
+C001856,2024-05-22,,gia_dinh
+C001857,2025-06-06,Hồ Chí Minh,van_phong
+C001858,2025-02-22,Hồ Chí Minh,gia_dinh
+C001859,2024-02-09,Hồ Chí Minh,sinh_vien
+C001860,2024-04-13,Hồ Chí Minh,van_phong
+C001861,2024-09-25,Hồ Chí Minh,van_phong
+C001862,2024-07-26,Hồ Chí Minh,van_phong
+C001863,2022-08-24,Hồ Chí Minh,gia_dinh_tre
+C001864,2022-06-11,Hồ Chí Minh,gia_dinh
+C001865,2023-07-08,Hà Nội,sinh_vien
+C001866,2024-02-27,Hồ Chí Minh,sinh_vien
+C001867,2025-10-08,Hà Nội,gia_dinh_tre
+C001868,2024-12-27,Hồ Chí Minh,gia_dinh_tre
+C001869,2025-04-11,Hà Nội,gia_dinh_tre
+C001870,2023-07-13,Hồ Chí Minh,van_phong
+C001871,2022-09-18,Hồ Chí Minh,sinh_vien
+C001872,2022-08-05,Hồ Chí Minh,gia_dinh_tre
+C001873,2025-02-21,Hà Nội,gia_dinh
+C001874,2024-03-15,Hà Nội,sinh_vien
+C001875,2025-03-31,Hồ Chí Minh,van_phong
+C001876,2022-07-20,Hồ Chí Minh,gia_dinh
+C001877,2026-01-17,Hà Nội,van_phong
+C001878,2023-02-06,Hà Nội,gia_dinh
+C001879,2026-01-25,Hồ Chí Minh,gia_dinh
+C001880,2022-10-02,Hồ Chí Minh,van_phong
+C001881,2022-07-25,Hồ Chí Minh,
+C001882,2024-11-29,Hà Nội,sinh_vien
+C001883,2025-07-20,Hồ Chí Minh,van_phong
+C001884,2024-05-16,Đà Nẵng,van_phong
+C001885,2022-04-03,Hồ Chí Minh,gia_dinh_tre
+C001886,2024-12-01,Hồ Chí Minh,gia_dinh
+C001887,2026-01-28,Hồ Chí Minh,gia_dinh_tre
+C001888,2023-01-14,Đà Nẵng,gia_dinh_tre
+C001889,2025-02-04,Hà Nội,van_phong
+C001890,2025-09-13,Hồ Chí Minh,sinh_vien
+C001891,2022-03-06,Hà Nội,
+C001892,2022-12-31,Hồ Chí Minh,
+C001893,2024-03-31,,sinh_vien
+C001894,2026-02-16,Hồ Chí Minh,gia_dinh_tre
+C001895,2024-11-13,Hồ Chí Minh,van_phong
+C001896,2023-06-24,Hồ Chí Minh,van_phong
+C001897,2024-12-21,Đà Nẵng,van_phong
+C001898,2023-05-06,Hồ Chí Minh,gia_dinh_tre
+C001899,2025-07-20,Đà Nẵng,gia_dinh
+C001900,2022-08-17,Hồ Chí Minh,van_phong
+C001901,2024-11-09,Hà Nội,van_phong
+C001902,2022-01-03,Hồ Chí Minh,gia_dinh_tre
+C001903,2025-12-15,Hồ Chí Minh,van_phong
+C001904,2024-06-29,Hồ Chí Minh,gia_dinh_tre
+C001905,2022-11-03,Hồ Chí Minh,van_phong
+C001906,2023-03-08,Hà Nội,gia_dinh_tre
+C001907,2022-05-16,Hồ Chí Minh,sinh_vien
+C001908,2023-05-30,Hà Nội,gia_dinh
+C001909,2022-07-12,Hồ Chí Minh,
+C001910,2026-05-28,Hồ Chí Minh,gia_dinh_tre
+C001911,2025-12-09,Hồ Chí Minh,gia_dinh
+C001912,2024-05-22,Đà Nẵng,sinh_vien
+C001913,2025-02-15,Hà Nội,sinh_vien
+C001914,2023-10-28,Hồ Chí Minh,
+C001915,2022-07-28,Hồ Chí Minh,gia_dinh
+C001916,2024-08-09,Hồ Chí Minh,van_phong
+C001917,2024-11-23,Đà Nẵng,sinh_vien
+C001918,2023-10-11,Hà Nội,van_phong
+C001919,2025-09-03,Hồ Chí Minh,gia_dinh
+C001920,2022-04-30,Hồ Chí Minh,gia_dinh
+C001921,2023-09-19,Hồ Chí Minh,
+C001922,2023-06-09,Đà Nẵng,gia_dinh_tre
+C001923,2026-05-24,Hồ Chí Minh,van_phong
+C001924,2024-02-08,Hà Nội,gia_dinh
+C001925,2025-01-17,Hồ Chí Minh,van_phong
+C001926,2023-05-27,Hà Nội,gia_dinh_tre
+C001927,2022-02-16,Hà Nội,van_phong
+C001928,2024-02-11,Hà Nội,gia_dinh
+C001929,2024-01-10,Hà Nội,van_phong
+C001930,2023-06-06,Hà Nội,gia_dinh_tre
+C001931,2025-07-31,Hồ Chí Minh,van_phong
+C001932,2025-11-01,Hồ Chí Minh,van_phong
+C001933,2022-05-14,Hồ Chí Minh,van_phong
+C001934,2022-09-05,Đà Nẵng,van_phong
+C001935,2025-09-03,Hồ Chí Minh,van_phong
+C001936,2023-03-12,Hà Nội,sinh_vien
+C001937,2025-04-14,Hà Nội,gia_dinh
+C001938,2023-11-17,Hồ Chí Minh,sinh_vien
+C001939,2023-08-09,Hồ Chí Minh,gia_dinh
+C001940,2022-12-17,Hồ Chí Minh,gia_dinh_tre
+C001941,2022-05-23,Hồ Chí Minh,gia_dinh_tre
+C001942,2024-08-24,Hồ Chí Minh,gia_dinh
+C001943,2024-03-14,Hồ Chí Minh,van_phong
+C001944,2025-11-22,Hà Nội,van_phong
+C001945,2023-12-19,Đà Nẵng,van_phong
+C001946,2023-10-05,Hồ Chí Minh,gia_dinh
+C001947,2025-10-24,Hồ Chí Minh,gia_dinh
+C001948,2023-05-16,Hồ Chí Minh,gia_dinh_tre
+C001949,2023-01-05,Hà Nội,gia_dinh
+C001950,2026-05-22,Hà Nội,gia_dinh
+C001951,2025-11-06,Hồ Chí Minh,gia_dinh_tre
+C001952,2025-01-14,Hồ Chí Minh,gia_dinh_tre
+C001953,2024-02-26,Hà Nội,van_phong
+C001954,2024-01-09,Hà Nội,van_phong
+C001955,2026-01-23,Hồ Chí Minh,sinh_vien
+C001956,2024-08-07,,sinh_vien
+C001957,2025-09-10,Hồ Chí Minh,
+C001958,2023-06-06,Hồ Chí Minh,gia_dinh
+C001959,2023-05-04,Hà Nội,van_phong
+C001960,2023-02-01,Hà Nội,van_phong
+C001961,2024-06-14,Hồ Chí Minh,gia_dinh_tre
+C001962,2022-12-21,Đà Nẵng,gia_dinh
+C001963,2024-08-04,Hồ Chí Minh,sinh_vien
+C001964,2022-10-15,Hà Nội,gia_dinh
+C001965,2026-01-22,Hồ Chí Minh,van_phong
+C001966,2024-09-24,Hà Nội,van_phong
+C001967,2023-06-20,Đà Nẵng,gia_dinh_tre
+C001968,2025-08-07,Hồ Chí Minh,gia_dinh
+C001969,2024-04-30,Đà Nẵng,gia_dinh
+C001970,2024-04-17,Hà Nội,gia_dinh_tre
+C001971,2022-06-17,Hà Nội,gia_dinh_tre
+C001972,2024-08-07,Hồ Chí Minh,sinh_vien
+C001973,2023-09-13,Hà Nội,gia_dinh
+C001974,2023-03-04,Hà Nội,gia_dinh
+C001975,2023-05-05,Hồ Chí Minh,gia_dinh
+C001976,2022-12-21,Đà Nẵng,sinh_vien
+C001977,2022-07-15,Hồ Chí Minh,gia_dinh
+C001978,2023-06-29,Hồ Chí Minh,gia_dinh
+C001979,2023-12-18,Hồ Chí Minh,sinh_vien
+C001980,2024-04-03,Hồ Chí Minh,sinh_vien
+C001981,2024-07-20,Hà Nội,gia_dinh_tre
+C001982,2024-09-29,Hồ Chí Minh,sinh_vien
+C001983,2023-10-21,Đà Nẵng,gia_dinh
+C001984,2024-07-27,Hồ Chí Minh,gia_dinh
+C001985,2024-02-19,Hồ Chí Minh,gia_dinh_tre
+C001986,2022-01-11,Hồ Chí Minh,gia_dinh_tre
+C001987,2026-05-25,Hồ Chí Minh,van_phong
+C001988,2025-07-03,Đà Nẵng,gia_dinh
+C001989,2023-01-31,Hà Nội,gia_dinh
+C001990,2024-01-01,Hà Nội,van_phong
+C001991,2023-02-13,Hồ Chí Minh,van_phong
+C001992,2022-12-28,Hồ Chí Minh,gia_dinh_tre
+C001993,2025-07-06,Hồ Chí Minh,van_phong
+C001994,2024-10-23,Hồ Chí Minh,
+C001995,2022-03-25,Hồ Chí Minh,van_phong
+C001996,2022-06-05,Hà Nội,van_phong
+C001997,2025-04-14,Hồ Chí Minh,sinh_vien
+C001998,2023-12-08,Hà Nội,gia_dinh_tre
+C001999,2023-04-17,Hồ Chí Minh,gia_dinh_tre
+C002000,2023-09-11,Hồ Chí Minh,gia_dinh
+C002001,2025-12-18,Hà Nội,gia_dinh
+C002002,2022-05-14,Hồ Chí Minh,gia_dinh_tre
+C002003,2024-02-27,Hà Nội,sinh_vien
+C002004,2024-06-25,Hà Nội,gia_dinh_tre
+C002005,2024-05-13,Hồ Chí Minh,gia_dinh
+C002006,2025-11-04,,van_phong
+C002007,2023-10-29,Hồ Chí Minh,gia_dinh
+C002008,2022-10-04,Hồ Chí Minh,van_phong
+C002009,2025-06-13,Hà Nội,gia_dinh_tre
+C002010,2024-05-31,Hồ Chí Minh,gia_dinh
+C002011,2022-01-13,Hà Nội,gia_dinh_tre
+C002012,2022-12-08,Hà Nội,gia_dinh_tre
+C002013,2022-02-04,Đà Nẵng,sinh_vien
+C002014,2023-07-13,Hồ Chí Minh,gia_dinh_tre
+C002015,2025-05-22,Hồ Chí Minh,
+C002016,2025-12-06,Hà Nội,gia_dinh
+C002017,2023-02-09,Hồ Chí Minh,gia_dinh
+C002018,2026-02-26,Hồ Chí Minh,sinh_vien
+C002019,2023-10-20,Hồ Chí Minh,gia_dinh_tre
+C002020,2022-06-08,Hồ Chí Minh,van_phong
+C002021,2024-08-13,Hồ Chí Minh,sinh_vien
+C002022,2025-02-07,Hà Nội,van_phong
+C002023,2023-07-03,Hà Nội,
+C002024,2026-03-30,Hồ Chí Minh,gia_dinh_tre
+C002025,2024-09-11,,gia_dinh
+C002026,2025-10-02,Hồ Chí Minh,gia_dinh
+C002027,2022-10-06,Hà Nội,van_phong
+C002028,2023-04-24,Hồ Chí Minh,sinh_vien
+C002029,2022-04-21,Hà Nội,gia_dinh
+C002030,2023-03-07,Hồ Chí Minh,van_phong
+C002031,2023-06-26,Hà Nội,gia_dinh_tre
+C002032,2025-02-12,Hồ Chí Minh,van_phong
+C002033,2025-01-18,Hà Nội,
+C002034,2025-05-20,Hồ Chí Minh,sinh_vien
+C002035,2026-04-23,Hà Nội,van_phong
+C002036,2026-06-07,Hồ Chí Minh,gia_dinh
+C002037,2026-04-12,Hà Nội,gia_dinh_tre
+C002038,2022-12-26,Hà Nội,gia_dinh_tre
+C002039,2026-02-18,Hồ Chí Minh,gia_dinh_tre
+C002040,2023-01-07,Hà Nội,gia_dinh
+C002041,2025-05-23,Hồ Chí Minh,sinh_vien
+C002042,2024-11-04,Hồ Chí Minh,van_phong
+C002043,2024-08-12,Hồ Chí Minh,gia_dinh
+C002044,2022-09-16,Hồ Chí Minh,gia_dinh_tre
+C002045,2024-02-17,Hà Nội,sinh_vien
+C002046,2026-01-26,Hà Nội,van_phong
+C002047,2022-04-30,Hồ Chí Minh,gia_dinh_tre
+C002048,2024-09-02,Hồ Chí Minh,van_phong
+C002049,2024-07-01,Hà Nội,gia_dinh
+C002050,2025-02-25,Đà Nẵng,gia_dinh_tre
+C002051,2023-12-24,Hồ Chí Minh,gia_dinh
+C002052,2023-06-07,Đà Nẵng,gia_dinh
+C002053,2022-11-21,Hồ Chí Minh,gia_dinh_tre
+C002054,2025-09-05,Hồ Chí Minh,sinh_vien
+C002055,2026-03-10,Hà Nội,sinh_vien
+C002056,2026-03-30,Hồ Chí Minh,van_phong
+C002057,2024-12-09,Hồ Chí Minh,gia_dinh
+C002058,2026-05-27,Hồ Chí Minh,gia_dinh
+C002059,2022-03-10,Hà Nội,van_phong
+C002060,2023-01-26,Hà Nội,gia_dinh
+C002061,2023-01-18,Hồ Chí Minh,gia_dinh_tre
+C002062,2022-01-16,Hồ Chí Minh,gia_dinh
+C002063,2026-01-02,Hồ Chí Minh,sinh_vien
+C002064,2024-04-25,Hồ Chí Minh,gia_dinh
+C002065,2024-05-18,Hồ Chí Minh,gia_dinh_tre
+C002066,2023-07-22,Hà Nội,van_phong
+C002067,2026-06-29,Hồ Chí Minh,gia_dinh_tre
+C002068,2022-05-12,Hồ Chí Minh,gia_dinh
+C002069,2026-05-03,Hồ Chí Minh,gia_dinh_tre
+C002070,2025-06-25,Hồ Chí Minh,gia_dinh
+C002071,2022-09-30,Đà Nẵng,van_phong
+C002072,2025-10-04,Hồ Chí Minh,gia_dinh
+C002073,2023-04-29,,gia_dinh_tre
+C002074,2023-07-04,Hồ Chí Minh,sinh_vien
+C002075,2022-12-23,Hồ Chí Minh,sinh_vien
+C002076,2025-09-03,Hồ Chí Minh,sinh_vien
+C002077,2024-12-07,Hồ Chí Minh,gia_dinh_tre
+C002078,2024-10-30,Hồ Chí Minh,gia_dinh
+C002079,2022-08-21,Hồ Chí Minh,sinh_vien
+C002080,2022-02-05,Hồ Chí Minh,van_phong
+C002081,2023-02-17,Hồ Chí Minh,gia_dinh_tre
+C002082,2026-01-25,Đà Nẵng,gia_dinh_tre
+C002083,2024-10-24,Hồ Chí Minh,gia_dinh
+C002084,2022-02-13,Hồ Chí Minh,sinh_vien
+C002085,2023-07-22,Hồ Chí Minh,gia_dinh
+C002086,2026-04-27,Hồ Chí Minh,gia_dinh
+C002087,2025-07-02,Hà Nội,gia_dinh_tre
+C002088,2024-01-10,Hồ Chí Minh,van_phong
+C002089,2022-04-24,Hà Nội,sinh_vien
+C002090,2023-02-01,Hồ Chí Minh,gia_dinh
+C002091,2025-04-12,,van_phong
+C002092,2025-07-02,Hà Nội,
+C002093,2023-04-11,Hồ Chí Minh,gia_dinh_tre
+C002094,2025-07-24,Hồ Chí Minh,gia_dinh
+C002095,2026-01-27,Hồ Chí Minh,gia_dinh
+C002096,2024-04-26,Hà Nội,van_phong
+C002097,2023-05-17,Hồ Chí Minh,van_phong
+C002098,2023-03-17,Hà Nội,
+C002099,2022-03-10,Hồ Chí Minh,van_phong
+C002100,2026-03-13,Hà Nội,gia_dinh
+C002101,2022-11-22,Hồ Chí Minh,sinh_vien
+C002102,2022-03-08,Hà Nội,gia_dinh
+C002103,2022-10-31,Hồ Chí Minh,gia_dinh_tre
+C002104,2024-08-29,Đà Nẵng,van_phong
+C002105,2023-04-29,Hồ Chí Minh,van_phong
+C002106,2024-07-17,Hồ Chí Minh,
+C002107,2026-04-21,Hồ Chí Minh,sinh_vien
+C002108,2025-12-11,Hồ Chí Minh,sinh_vien
+C002109,2025-03-28,Hồ Chí Minh,gia_dinh
+C002110,2022-05-29,Đà Nẵng,sinh_vien
+C002111,2024-11-16,Đà Nẵng,gia_dinh_tre
+C002112,2024-09-13,Hồ Chí Minh,gia_dinh_tre
+C002113,2023-08-07,Đà Nẵng,gia_dinh_tre
+C002114,2022-09-05,Hồ Chí Minh,sinh_vien
+C002115,2025-01-29,Hồ Chí Minh,
+C002116,2023-12-03,,gia_dinh_tre
+C002117,2022-04-06,Hà Nội,gia_dinh
+C002118,2025-11-08,Đà Nẵng,van_phong
+C002119,2022-10-09,Hồ Chí Minh,gia_dinh_tre
+C002120,2022-11-18,,sinh_vien
+C002121,2025-11-20,Hồ Chí Minh,sinh_vien
+C002122,2025-07-25,Hồ Chí Minh,gia_dinh
+C002123,2023-06-13,Hồ Chí Minh,sinh_vien
+C002124,2022-09-20,Đà Nẵng,gia_dinh
+C002125,2023-08-03,Hà Nội,sinh_vien
+C002126,2025-08-09,Hà Nội,van_phong
+C002127,2022-10-21,Hồ Chí Minh,van_phong
+C002128,2026-06-20,Hồ Chí Minh,gia_dinh_tre
+C002129,2023-01-30,Hồ Chí Minh,sinh_vien
+C002130,2023-05-28,Hồ Chí Minh,gia_dinh
+C002131,2024-07-09,Hồ Chí Minh,gia_dinh_tre
+C002132,2024-03-20,Hà Nội,gia_dinh_tre
+C002133,2025-04-18,Hồ Chí Minh,van_phong
+C002134,2024-07-08,Hồ Chí Minh,gia_dinh
+C002135,2023-11-24,,van_phong
+C002136,2022-08-23,Hồ Chí Minh,sinh_vien
+C002137,2024-08-09,Hồ Chí Minh,gia_dinh_tre
+C002138,2025-09-22,Đà Nẵng,van_phong
+C002139,2024-10-28,Hà Nội,gia_dinh_tre
+C002140,2026-01-06,Hà Nội,sinh_vien
+C002141,2023-06-23,,sinh_vien
+C002142,2024-03-30,Hồ Chí Minh,gia_dinh
+C002143,2025-01-19,Hồ Chí Minh,van_phong
+C002144,2022-09-29,Hà Nội,gia_dinh
+C002145,2024-10-25,Hà Nội,gia_dinh
+C002146,2026-06-06,Hồ Chí Minh,sinh_vien
+C002147,2025-05-27,Hồ Chí Minh,gia_dinh
+C002148,2025-02-15,Hồ Chí Minh,gia_dinh
+C002149,2023-08-16,Hà Nội,gia_dinh
+C002150,2024-09-02,Đà Nẵng,sinh_vien
+C002151,2026-05-25,Hồ Chí Minh,gia_dinh
+C002152,2022-04-25,Hồ Chí Minh,gia_dinh_tre
+C002153,2022-09-20,Hồ Chí Minh,van_phong
+C002154,2025-08-22,Hồ Chí Minh,sinh_vien
+C002155,2025-12-16,Hồ Chí Minh,gia_dinh_tre
+C002156,2022-07-26,Hồ Chí Minh,gia_dinh_tre
+C002157,2022-10-30,Hà Nội,gia_dinh_tre
+C002158,2022-04-22,Hà Nội,gia_dinh
+C002159,2025-12-11,Hồ Chí Minh,gia_dinh
+C002160,2026-04-28,Hà Nội,van_phong
+C002161,2025-08-01,Hồ Chí Minh,van_phong
+C002162,2022-07-04,Hồ Chí Minh,van_phong
+C002163,2024-06-19,Hồ Chí Minh,gia_dinh
+C002164,2022-08-09,Hồ Chí Minh,
+C002165,2026-01-07,Hồ Chí Minh,gia_dinh
+C002166,2025-02-14,Hồ Chí Minh,sinh_vien
+C002167,2024-12-29,Hồ Chí Minh,van_phong
+C002168,2024-06-16,,gia_dinh_tre
+C002169,2024-12-29,Hồ Chí Minh,van_phong
+C002170,2023-09-14,Hồ Chí Minh,gia_dinh
+C002171,2023-03-03,Hồ Chí Minh,van_phong
+C002172,2023-10-06,Hà Nội,gia_dinh_tre
+C002173,2023-07-22,Hồ Chí Minh,gia_dinh_tre
+C002174,2023-03-19,Hà Nội,sinh_vien
+C002175,2023-08-24,Hồ Chí Minh,gia_dinh_tre
+C002176,2025-03-06,Hồ Chí Minh,sinh_vien
+C002177,2023-05-19,Hồ Chí Minh,gia_dinh
+C002178,2022-05-11,Hồ Chí Minh,van_phong
+C002179,2022-08-06,Hồ Chí Minh,van_phong
+C002180,2023-11-19,,gia_dinh
+C002181,2022-06-20,Hồ Chí Minh,gia_dinh
+C002182,2026-02-07,Hồ Chí Minh,gia_dinh_tre
+C002183,2023-09-04,,gia_dinh_tre
+C002184,2024-09-18,Đà Nẵng,gia_dinh
+C002185,2025-02-26,Hồ Chí Minh,van_phong
+C002186,2022-02-26,Hà Nội,sinh_vien
+C002187,2025-04-19,Hà Nội,sinh_vien
+C002188,2022-09-03,Hồ Chí Minh,van_phong
+C002189,2022-05-24,Hồ Chí Minh,van_phong
+C002190,2024-12-10,Hồ Chí Minh,van_phong
+C002191,2023-01-03,Hà Nội,gia_dinh
+C002192,2026-01-22,Hà Nội,sinh_vien
+C002193,2022-08-06,Hà Nội,van_phong
+C002194,2023-09-08,Đà Nẵng,van_phong
+C002195,2026-05-10,Hà Nội,gia_dinh_tre
+C002196,2025-07-04,Hồ Chí Minh,gia_dinh
+C002197,2025-03-25,Hồ Chí Minh,gia_dinh
+C002198,2026-05-08,Hà Nội,sinh_vien
+C002199,2023-03-18,Hồ Chí Minh,gia_dinh
+C002200,2024-04-20,Hồ Chí Minh,gia_dinh
+C002201,2024-08-13,Hà Nội,sinh_vien
+C002202,2023-11-30,Hồ Chí Minh,gia_dinh_tre
+C002203,2024-05-25,Đà Nẵng,gia_dinh
+C002204,2024-02-15,Hà Nội,gia_dinh_tre
+C002205,2024-02-01,Hồ Chí Minh,van_phong
+C002206,2024-08-02,Đà Nẵng,sinh_vien
+C002207,2024-07-11,Hồ Chí Minh,gia_dinh
+C002208,2024-07-23,Hồ Chí Minh,sinh_vien
+C002209,2022-01-25,Hồ Chí Minh,gia_dinh
+C002210,2024-03-16,Hồ Chí Minh,sinh_vien
+C002211,2026-04-09,Hồ Chí Minh,van_phong
+C002212,2024-02-03,Hồ Chí Minh,sinh_vien
+C002213,2024-12-19,Hồ Chí Minh,gia_dinh_tre
+C002214,2026-01-30,Hồ Chí Minh,sinh_vien
+C002215,2023-03-10,Hà Nội,van_phong
+C002216,2024-05-28,Hà Nội,gia_dinh
+C002217,2024-12-25,Hồ Chí Minh,sinh_vien
+C002218,2024-06-28,Hồ Chí Minh,gia_dinh
+C002219,2023-07-19,Hồ Chí Minh,sinh_vien
+C002220,2022-04-16,Hồ Chí Minh,gia_dinh_tre
+C002221,2022-04-06,Hà Nội,van_phong
+C002222,2026-04-24,Hà Nội,gia_dinh
+C002223,2022-06-17,Hồ Chí Minh,gia_dinh_tre
+C002224,2022-02-11,Hồ Chí Minh,gia_dinh_tre
+C002225,2022-04-14,Hồ Chí Minh,gia_dinh_tre
+C002226,2025-05-12,Hà Nội,gia_dinh
+C002227,2023-06-04,Hồ Chí Minh,gia_dinh
+C002228,2022-10-09,Đà Nẵng,van_phong
+C002229,2024-12-02,Hà Nội,gia_dinh
+C002230,2024-08-04,Hồ Chí Minh,gia_dinh
+C002231,2025-02-07,Hồ Chí Minh,van_phong
+C002232,2025-05-18,Đà Nẵng,gia_dinh_tre
+C002233,2024-01-19,Hồ Chí Minh,sinh_vien
+C002234,2024-04-10,Hồ Chí Minh,sinh_vien
+C002235,2022-02-18,Hồ Chí Minh,van_phong
+C002236,2022-04-25,Hà Nội,van_phong
+C002237,2025-03-24,Hà Nội,sinh_vien
+C002238,2023-05-18,Hà Nội,gia_dinh_tre
+C002239,2024-09-12,Hà Nội,gia_dinh_tre
+C002240,2022-03-12,Hà Nội,gia_dinh_tre
+C002241,2024-10-08,Đà Nẵng,van_phong
+C002242,2026-03-23,Hồ Chí Minh,gia_dinh_tre
+C002243,2025-09-21,Hồ Chí Minh,van_phong
+C002244,2022-03-08,Hà Nội,sinh_vien
+C002245,2026-02-25,Hà Nội,
+C002246,2024-08-24,Hà Nội,gia_dinh
+C002247,2025-05-21,Hồ Chí Minh,gia_dinh_tre
+C002248,2022-06-30,Hà Nội,sinh_vien
+C002249,2023-09-05,Hà Nội,van_phong
+C002250,2026-06-11,Hồ Chí Minh,gia_dinh_tre
+C002251,2023-11-28,Hồ Chí Minh,gia_dinh_tre
+C002252,2023-08-26,Hồ Chí Minh,sinh_vien
+C002253,2022-09-05,Hồ Chí Minh,van_phong
+C002254,2025-05-22,Hồ Chí Minh,sinh_vien
+C002255,2022-12-25,Hồ Chí Minh,sinh_vien
+C002256,2022-09-06,Hồ Chí Minh,van_phong
+C002257,2023-09-30,Hà Nội,gia_dinh
+C002258,2024-08-07,Hà Nội,gia_dinh
+C002259,2026-03-20,Hà Nội,gia_dinh
+C002260,2025-01-16,Hồ Chí Minh,gia_dinh
+C002261,2023-10-25,Hồ Chí Minh,van_phong
+C002262,2022-06-25,Hà Nội,van_phong
+C002263,2023-12-24,Hồ Chí Minh,sinh_vien
+C002264,2023-03-02,Đà Nẵng,gia_dinh
+C002265,2026-06-15,Hà Nội,van_phong
+C002266,2024-02-10,Hồ Chí Minh,van_phong
+C002267,2023-12-04,Đà Nẵng,van_phong
+C002268,2022-03-22,Hồ Chí Minh,van_phong
+C002269,2024-07-15,Hồ Chí Minh,gia_dinh_tre
+C002270,2022-05-18,Hà Nội,gia_dinh
+C002271,2025-12-27,Hồ Chí Minh,gia_dinh_tre
+C002272,2023-04-15,Đà Nẵng,gia_dinh
+C002273,2022-12-16,Hồ Chí Minh,gia_dinh
+C002274,2025-02-23,Hồ Chí Minh,van_phong
+C002275,2025-08-25,Hồ Chí Minh,sinh_vien
+C002276,2025-06-07,Hà Nội,van_phong
+C002277,2026-01-23,Hồ Chí Minh,van_phong
+C002278,2025-09-30,Hồ Chí Minh,gia_dinh
+C002279,2022-11-06,Hà Nội,van_phong
+C002280,2024-11-09,Hồ Chí Minh,gia_dinh_tre
+C002281,2026-05-04,Hà Nội,gia_dinh
+C002282,2024-09-28,Hồ Chí Minh,gia_dinh
+C002283,2026-04-14,Hà Nội,gia_dinh
+C002284,2026-05-03,Hà Nội,gia_dinh_tre
+C002285,2026-02-09,Hồ Chí Minh,gia_dinh_tre
+C002286,2022-09-26,Hồ Chí Minh,gia_dinh
+C002287,2024-10-23,,sinh_vien
+C002288,2024-02-09,Hồ Chí Minh,gia_dinh
+C002289,2022-01-16,Đà Nẵng,gia_dinh
+C002290,2023-08-29,Hồ Chí Minh,gia_dinh_tre
+C002291,2025-10-13,Hồ Chí Minh,van_phong
+C002292,2024-03-23,,gia_dinh
+C002293,2025-03-02,Đà Nẵng,gia_dinh_tre
+C002294,2025-08-28,Hồ Chí Minh,gia_dinh
+C002295,2023-04-27,Hà Nội,gia_dinh_tre
+C002296,2024-06-13,Hà Nội,gia_dinh_tre
+C002297,2026-04-17,Hồ Chí Minh,gia_dinh_tre
+C002298,2025-08-21,Hồ Chí Minh,gia_dinh_tre
+C002299,2022-09-26,Hà Nội,gia_dinh_tre
+C002300,2023-02-18,Hồ Chí Minh,gia_dinh
+C002301,2022-01-25,Hà Nội,sinh_vien
+C002302,2022-11-12,Hồ Chí Minh,van_phong
+C002303,2023-07-25,Hồ Chí Minh,gia_dinh
+C002304,2023-12-26,Hà Nội,gia_dinh
+C002305,2024-10-04,Hồ Chí Minh,sinh_vien
+C002306,2025-07-23,Hồ Chí Minh,gia_dinh
+C002307,2023-01-24,Hồ Chí Minh,gia_dinh_tre
+C002308,2023-12-23,Hồ Chí Minh,van_phong
+C002309,2023-03-20,Hồ Chí Minh,gia_dinh_tre
+C002310,2024-09-25,Hà Nội,gia_dinh
+C002311,2025-12-21,Hồ Chí Minh,gia_dinh
+C002312,2024-12-16,Hồ Chí Minh,sinh_vien
+C002313,2023-11-28,Hà Nội,gia_dinh
+C002314,2024-08-28,Hồ Chí Minh,van_phong
+C002315,2026-05-09,Hồ Chí Minh,sinh_vien
+C002316,2023-12-22,Đà Nẵng,gia_dinh_tre
+C002317,2023-01-03,Hà Nội,gia_dinh
+C002318,2022-12-08,Hồ Chí Minh,gia_dinh
+C002319,2022-10-31,Hà Nội,gia_dinh
+C002320,2024-02-03,Hồ Chí Minh,gia_dinh
+C002321,2025-10-29,,sinh_vien
+C002322,2024-03-26,,van_phong
+C002323,2022-04-22,Hồ Chí Minh,van_phong
+C002324,2024-05-27,Hồ Chí Minh,gia_dinh
+C002325,2024-10-26,Hồ Chí Minh,sinh_vien
+C002326,2024-07-18,Hồ Chí Minh,sinh_vien
+C002327,2023-12-04,Đà Nẵng,sinh_vien
+C002328,2024-04-25,Hồ Chí Minh,gia_dinh_tre
+C002329,2024-08-01,,van_phong
+C002330,2022-10-06,Hồ Chí Minh,gia_dinh_tre
+C002331,2023-01-17,Hồ Chí Minh,gia_dinh
+C002332,2022-01-13,Hà Nội,gia_dinh_tre
+C002333,2022-10-30,Hồ Chí Minh,van_phong
+C002334,2026-04-29,Hồ Chí Minh,van_phong
+C002335,2026-06-29,Hồ Chí Minh,gia_dinh_tre
+C002336,2022-06-09,Hà Nội,gia_dinh
+C002337,2022-06-03,Hồ Chí Minh,gia_dinh
+C002338,2024-01-24,Hồ Chí Minh,gia_dinh
+C002339,2022-06-30,Hồ Chí Minh,gia_dinh_tre
+C002340,2026-03-30,Hồ Chí Minh,gia_dinh
+C002341,2025-04-18,Hồ Chí Minh,van_phong
+C002342,2023-01-12,Hà Nội,gia_dinh_tre
+C002343,2024-02-15,Hà Nội,gia_dinh_tre
+C002344,2025-04-06,Hà Nội,gia_dinh
+C002345,2025-05-22,Hồ Chí Minh,sinh_vien
+C002346,2025-03-19,Hồ Chí Minh,van_phong
+C002347,2022-01-16,Hồ Chí Minh,van_phong
+C002348,2025-01-19,Đà Nẵng,gia_dinh
+C002349,2025-02-17,Hồ Chí Minh,van_phong
+C002350,2022-09-10,Hà Nội,gia_dinh_tre
+C002351,2024-12-19,Hồ Chí Minh,van_phong
+C002352,2025-07-13,Hồ Chí Minh,sinh_vien
+C002353,2025-12-03,Hồ Chí Minh,van_phong
+C002354,2022-01-31,Hồ Chí Minh,sinh_vien
+C002355,2024-11-10,Đà Nẵng,van_phong
+C002356,2024-01-01,Đà Nẵng,gia_dinh_tre
+C002357,2026-06-05,Hồ Chí Minh,sinh_vien
+C002358,2022-10-16,Hồ Chí Minh,gia_dinh_tre
+C002359,2026-04-16,Đà Nẵng,gia_dinh
+C002360,2023-05-13,Hà Nội,gia_dinh_tre
+C002361,2026-02-06,Hồ Chí Minh,gia_dinh_tre
+C002362,2025-11-29,Hồ Chí Minh,gia_dinh
+C002363,2023-07-02,Hồ Chí Minh,
+C002364,2024-08-18,Hồ Chí Minh,gia_dinh
+C002365,2022-05-12,Hồ Chí Minh,van_phong
+C002366,2025-09-09,Hồ Chí Minh,gia_dinh_tre
+C002367,2024-05-07,Hồ Chí Minh,gia_dinh_tre
+C002368,2025-03-01,Hồ Chí Minh,van_phong
+C002369,2023-06-05,Hồ Chí Minh,gia_dinh
+C002370,2022-01-30,Hà Nội,van_phong
+C002371,2023-09-19,Hà Nội,van_phong
+C002372,2025-08-17,Hồ Chí Minh,sinh_vien
+C002373,2022-01-04,Đà Nẵng,van_phong
+C002374,2025-09-10,Đà Nẵng,gia_dinh
+C002375,2023-05-24,Hồ Chí Minh,van_phong
+C002376,2025-06-14,Hồ Chí Minh,gia_dinh
+C002377,2026-04-08,Hà Nội,gia_dinh
+C002378,2022-01-16,Hà Nội,van_phong
+C002379,2026-04-07,Đà Nẵng,gia_dinh
+C002380,2024-09-23,Hà Nội,van_phong
+C002381,2026-05-27,Hà Nội,sinh_vien
+C002382,2026-01-09,Hồ Chí Minh,sinh_vien
+C002383,2026-03-07,Hồ Chí Minh,sinh_vien
+C002384,2024-08-13,Hồ Chí Minh,gia_dinh
+C002385,2025-06-07,Hồ Chí Minh,gia_dinh
+C002386,2025-02-04,Hà Nội,van_phong
+C002387,2025-11-13,Hồ Chí Minh,gia_dinh
+C002388,2022-09-20,Hà Nội,van_phong
+C002389,2026-05-06,Hồ Chí Minh,van_phong
+C002390,2024-12-24,Hồ Chí Minh,van_phong
+C002391,2022-09-22,Hồ Chí Minh,gia_dinh
+C002392,2025-09-23,Hồ Chí Minh,gia_dinh_tre
+C002393,2025-08-17,Hà Nội,gia_dinh
+C002394,2023-01-13,,gia_dinh_tre
+C002395,2025-04-13,Đà Nẵng,sinh_vien
+C002396,2024-08-20,Hồ Chí Minh,gia_dinh
+C002397,2025-03-21,Hồ Chí Minh,gia_dinh_tre
+C002398,2023-04-21,Hồ Chí Minh,gia_dinh_tre
+C002399,2025-07-13,,van_phong
+C002400,2022-11-25,Hà Nội,
+C002401,2025-04-01,Hà Nội,gia_dinh
+C002402,2023-03-14,Hà Nội,gia_dinh_tre
+C002403,2025-09-28,Hồ Chí Minh,gia_dinh
+C002404,2025-10-22,Hà Nội,gia_dinh
+C002405,2026-01-28,Hồ Chí Minh,van_phong
+C002406,2025-05-07,Hà Nội,van_phong
+C002407,2026-03-04,Hồ Chí Minh,gia_dinh
+C002408,2022-01-16,Hồ Chí Minh,gia_dinh_tre
+C002409,2025-08-12,Hồ Chí Minh,sinh_vien
+C002410,2024-05-17,Đà Nẵng,gia_dinh
+C002411,2023-05-26,,van_phong
+C002412,2024-09-10,Hồ Chí Minh,gia_dinh_tre
+C002413,2025-06-16,Hà Nội,gia_dinh
+C002414,2023-08-04,Hồ Chí Minh,gia_dinh_tre
+C002415,2025-08-17,Hồ Chí Minh,gia_dinh
+C002416,2022-01-06,Hồ Chí Minh,sinh_vien
+C002417,2025-05-28,Hồ Chí Minh,gia_dinh
+C002418,2024-10-15,Đà Nẵng,gia_dinh_tre
+C002419,2026-01-16,Hà Nội,gia_dinh_tre
+C002420,2025-12-27,Hồ Chí Minh,gia_dinh
+C002421,2024-03-17,Đà Nẵng,gia_dinh_tre
+C002422,2025-11-10,Hồ Chí Minh,gia_dinh_tre
+C002423,2023-09-11,Hồ Chí Minh,van_phong
+C002424,2025-08-11,Hồ Chí Minh,gia_dinh
+C002425,2025-02-15,Hồ Chí Minh,gia_dinh
+C002426,2023-02-09,Hồ Chí Minh,sinh_vien
+C002427,2024-09-23,Đà Nẵng,gia_dinh_tre
+C002428,2023-08-17,Hà Nội,sinh_vien
+C002429,2023-07-20,Hồ Chí Minh,gia_dinh
+C002430,2024-01-22,Hồ Chí Minh,sinh_vien
+C002431,2022-01-12,Hà Nội,van_phong
+C002432,2025-05-17,Đà Nẵng,sinh_vien
+C002433,2022-06-14,Hà Nội,sinh_vien
+C002434,2024-05-27,Hồ Chí Minh,gia_dinh
+C002435,2025-08-10,Hà Nội,sinh_vien
+C002436,2026-03-23,Hồ Chí Minh,gia_dinh
+C002437,2022-03-19,Hồ Chí Minh,gia_dinh
+C002438,2025-12-28,Hồ Chí Minh,gia_dinh
+C002439,2026-05-20,Hồ Chí Minh,gia_dinh
+C002440,2023-09-06,Hồ Chí Minh,gia_dinh_tre
+C002441,2024-05-18,Hồ Chí Minh,van_phong
+C002442,2024-03-22,Hồ Chí Minh,gia_dinh
+C002443,2025-01-05,Hà Nội,van_phong
+C002444,2024-12-07,Hồ Chí Minh,sinh_vien
+C002445,2024-02-06,Hồ Chí Minh,gia_dinh
+C002446,2022-03-23,Hồ Chí Minh,gia_dinh
+C002447,2022-07-28,Đà Nẵng,gia_dinh
+C002448,2026-01-08,Hồ Chí Minh,gia_dinh_tre
+C002449,2026-06-08,Hồ Chí Minh,gia_dinh_tre
+C002450,2023-06-06,Hồ Chí Minh,
+C002451,2024-11-18,Hà Nội,gia_dinh
+C002452,2025-08-20,Đà Nẵng,sinh_vien
+C002453,2024-09-20,Hồ Chí Minh,van_phong
+C002454,2023-04-10,Hồ Chí Minh,gia_dinh
+C002455,2026-03-06,Đà Nẵng,van_phong
+C002456,2026-01-09,Hồ Chí Minh,gia_dinh_tre
+C002457,2023-09-20,Hà Nội,gia_dinh
+C002458,2026-02-22,Hồ Chí Minh,van_phong
+C002459,2024-02-20,Hồ Chí Minh,gia_dinh
+C002460,2025-12-22,Hồ Chí Minh,gia_dinh
+C002461,2023-07-13,Hồ Chí Minh,sinh_vien
+C002462,2025-10-14,Hà Nội,sinh_vien
+C002463,2024-08-17,Đà Nẵng,van_phong
+C002464,2022-04-01,Hồ Chí Minh,van_phong
+C002465,2024-12-12,Hà Nội,van_phong
+C002466,2024-05-09,Hồ Chí Minh,gia_dinh_tre
+C002467,2026-06-01,Hồ Chí Minh,gia_dinh
+C002468,2025-05-12,Hồ Chí Minh,gia_dinh_tre
+C002469,2023-07-10,Đà Nẵng,gia_dinh
+C002470,2022-06-05,Hà Nội,gia_dinh
+C002471,2022-01-02,Hà Nội,gia_dinh_tre
+C002472,2025-10-12,Hà Nội,sinh_vien
+C002473,2024-04-04,Hà Nội,sinh_vien
+C002474,2026-05-12,Đà Nẵng,van_phong
+C002475,2024-03-12,Hà Nội,gia_dinh
+C002476,2024-09-09,Đà Nẵng,sinh_vien
+C002477,2024-12-17,Hồ Chí Minh,gia_dinh_tre
+C002478,2025-07-01,Hồ Chí Minh,van_phong
+C002479,2025-04-18,Hồ Chí Minh,gia_dinh_tre
+C002480,2023-05-08,Hồ Chí Minh,van_phong
+C002481,2023-10-31,Hồ Chí Minh,gia_dinh
+C002482,2024-11-24,Hồ Chí Minh,sinh_vien
+C002483,2022-03-16,Hà Nội,sinh_vien
+C002484,2024-08-01,Hồ Chí Minh,gia_dinh_tre
+C002485,2025-08-05,Hồ Chí Minh,gia_dinh
+C002486,2023-01-06,Hồ Chí Minh,sinh_vien
+C002487,2023-08-10,Đà Nẵng,gia_dinh
+C002488,2022-11-25,,sinh_vien
+C002489,2023-08-13,Hồ Chí Minh,van_phong
+C002490,2024-02-16,Hà Nội,gia_dinh
+C002491,2022-10-31,Hà Nội,gia_dinh
+C002492,2023-08-02,Hồ Chí Minh,gia_dinh_tre
+C002493,2022-08-09,Hồ Chí Minh,van_phong
+C002494,2024-09-05,Hồ Chí Minh,gia_dinh
+C002495,2025-04-02,,gia_dinh
+C002496,2026-02-12,Hồ Chí Minh,gia_dinh
+C002497,2026-01-18,Hồ Chí Minh,van_phong
+C002498,2023-01-10,Hồ Chí Minh,sinh_vien
+C002499,2025-05-28,Hồ Chí Minh,sinh_vien
+C002500,2025-07-01,Hà Nội,gia_dinh
+C002501,2022-07-07,Hồ Chí Minh,sinh_vien
+C002502,2025-04-29,Hồ Chí Minh,van_phong
+C002503,2025-11-13,Hồ Chí Minh,van_phong
+C002504,2025-05-23,Hồ Chí Minh,sinh_vien
+C002505,2025-10-30,Hồ Chí Minh,gia_dinh_tre
+C002506,2025-01-14,Hà Nội,gia_dinh_tre
+C002507,2023-04-19,Hà Nội,sinh_vien
+C002508,2026-06-30,Đà Nẵng,gia_dinh
+C002509,2024-04-23,Hà Nội,sinh_vien
+C002510,2023-06-15,Hà Nội,sinh_vien
+C002511,2024-12-06,Hồ Chí Minh,gia_dinh_tre
+C002512,2024-12-24,Hà Nội,sinh_vien
+C002513,2024-08-20,Hà Nội,gia_dinh
+C002514,2023-04-20,Hà Nội,gia_dinh
+C002515,2025-03-15,Hồ Chí Minh,van_phong
+C002516,2024-08-03,Hồ Chí Minh,sinh_vien
+C002517,2025-11-06,Hà Nội,gia_dinh_tre
+C002518,2024-12-25,Hà Nội,gia_dinh
+C002519,2023-06-01,Đà Nẵng,van_phong
+C002520,2025-01-21,Hồ Chí Minh,van_phong
+C002521,2023-03-02,Hồ Chí Minh,van_phong
+C002522,2026-01-31,Hồ Chí Minh,gia_dinh_tre
+C002523,2025-01-22,Hà Nội,gia_dinh
+C002524,2026-06-30,Hồ Chí Minh,gia_dinh
+C002525,2022-05-13,Hồ Chí Minh,sinh_vien
+C002526,2025-12-28,Đà Nẵng,gia_dinh
+C002527,2025-09-26,Hồ Chí Minh,gia_dinh_tre
+C002528,2022-11-10,Hà Nội,sinh_vien
+C002529,2023-08-14,Hồ Chí Minh,gia_dinh_tre
+C002530,2025-05-20,Hà Nội,sinh_vien
+C002531,2026-03-24,Hồ Chí Minh,van_phong
+C002532,2024-10-05,Đà Nẵng,sinh_vien
+C002533,2022-06-08,Đà Nẵng,gia_dinh
+C002534,2025-07-15,Hồ Chí Minh,gia_dinh_tre
+C002535,2023-10-23,Hồ Chí Minh,van_phong
+C002536,2026-06-15,Hồ Chí Minh,sinh_vien
+C002537,2024-01-18,Hà Nội,van_phong
+C002538,2026-02-06,Hà Nội,gia_dinh_tre
+C002539,2024-03-11,Hồ Chí Minh,van_phong
+C002540,2023-02-14,Hà Nội,van_phong
+C002541,2026-02-06,Hồ Chí Minh,van_phong
+C002542,2025-10-11,Hà Nội,van_phong
+C002543,2023-11-11,Đà Nẵng,sinh_vien
+C002544,2025-05-01,Hồ Chí Minh,van_phong
+C002545,2025-07-18,Hồ Chí Minh,gia_dinh_tre
+C002546,2022-04-24,Hồ Chí Minh,gia_dinh
+C002547,2024-06-15,Hồ Chí Minh,gia_dinh_tre
+C002548,2026-03-27,Hồ Chí Minh,gia_dinh
+C002549,2024-12-14,Hồ Chí Minh,gia_dinh
+C002550,2022-03-06,Hồ Chí Minh,gia_dinh_tre
+C002551,2023-11-15,Hồ Chí Minh,gia_dinh
+C002552,2025-07-19,Hồ Chí Minh,gia_dinh_tre
+C002553,2026-03-06,Hồ Chí Minh,sinh_vien
+C002554,2025-10-17,Hồ Chí Minh,sinh_vien
+C002555,2022-05-26,Hà Nội,gia_dinh_tre
+C002556,2024-07-31,Hà Nội,sinh_vien
+C002557,2025-05-17,Hồ Chí Minh,gia_dinh
+C002558,2025-08-02,Hồ Chí Minh,gia_dinh
+C002559,2024-10-30,Hà Nội,
+C002560,2024-01-09,Đà Nẵng,gia_dinh
+C002561,2022-07-05,Hồ Chí Minh,van_phong
+C002562,2026-05-17,Hồ Chí Minh,van_phong
+C002563,2026-06-09,Hồ Chí Minh,gia_dinh_tre
+C002564,2026-01-27,Hồ Chí Minh,gia_dinh_tre
+C002565,2025-03-03,Hồ Chí Minh,gia_dinh
+C002566,2024-04-14,Hồ Chí Minh,gia_dinh
+C002567,2024-03-19,Hà Nội,gia_dinh_tre
+C002568,2022-06-20,Hồ Chí Minh,gia_dinh
+C002569,2022-08-01,Hồ Chí Minh,sinh_vien
+C002570,2026-04-03,Hồ Chí Minh,sinh_vien
+C002571,2026-03-06,Hồ Chí Minh,gia_dinh
+C002572,2026-05-15,Hồ Chí Minh,sinh_vien
+C002573,2026-06-12,Hồ Chí Minh,gia_dinh
+C002574,2022-01-27,Hà Nội,gia_dinh
+C002575,2024-10-10,Hồ Chí Minh,gia_dinh_tre
+C002576,2024-12-27,Hà Nội,van_phong
+C002577,2024-02-29,Đà Nẵng,sinh_vien
+C002578,2023-02-12,Hồ Chí Minh,van_phong
+C002579,2026-04-25,Hồ Chí Minh,gia_dinh
+C002580,2025-02-06,Hồ Chí Minh,van_phong
+C002581,2022-03-15,Hà Nội,gia_dinh_tre
+C002582,2023-08-01,Đà Nẵng,sinh_vien
+C002583,2023-11-11,Hà Nội,gia_dinh
+C002584,2025-07-09,Hồ Chí Minh,gia_dinh
+C002585,2025-10-23,Hà Nội,van_phong
+C002586,2024-02-25,Hồ Chí Minh,van_phong
+C002587,2024-04-28,Hồ Chí Minh,gia_dinh_tre
+C002588,2024-05-19,Hồ Chí Minh,van_phong
+C002589,2022-08-25,Hồ Chí Minh,gia_dinh_tre
+C002590,2023-12-28,Hà Nội,van_phong
+C002591,2025-10-21,Hồ Chí Minh,sinh_vien
+C002592,2025-08-02,Hồ Chí Minh,sinh_vien
+C002593,2023-01-13,Hồ Chí Minh,van_phong
+C002594,2023-10-23,Hà Nội,gia_dinh
+C002595,2024-04-09,Hà Nội,gia_dinh_tre
+C002596,2024-06-24,Hồ Chí Minh,van_phong
+C002597,2023-01-11,Hồ Chí Minh,gia_dinh
+C002598,2023-09-11,Hồ Chí Minh,
+C002599,2023-10-15,Đà Nẵng,gia_dinh
+C002600,2025-01-04,Hồ Chí Minh,gia_dinh_tre
+C002601,2024-10-29,Hồ Chí Minh,van_phong
+C002602,2022-07-15,Hồ Chí Minh,gia_dinh_tre
+C002603,2024-03-17,Hồ Chí Minh,van_phong
+C002604,2024-06-11,Hà Nội,gia_dinh
+C002605,2025-08-06,Hồ Chí Minh,gia_dinh_tre
+C002606,2024-12-20,Hồ Chí Minh,gia_dinh
+C002607,2024-07-25,Hồ Chí Minh,gia_dinh_tre
+C002608,2025-11-13,Hồ Chí Minh,gia_dinh
+C002609,2024-04-26,Đà Nẵng,van_phong
+C002610,2024-03-28,Hồ Chí Minh,gia_dinh_tre
+C002611,2026-05-06,Hà Nội,sinh_vien
+C002612,2023-07-18,Hà Nội,gia_dinh_tre
+C002613,2023-09-26,Hồ Chí Minh,gia_dinh_tre
+C002614,2023-11-10,Hồ Chí Minh,van_phong
+C002615,2024-10-14,Hồ Chí Minh,gia_dinh
+C002616,2022-01-08,Hà Nội,gia_dinh_tre
+C002617,2025-10-24,Hồ Chí Minh,gia_dinh
+C002618,2024-12-04,Hồ Chí Minh,gia_dinh
+C002619,2022-12-10,Hồ Chí Minh,sinh_vien
+C002620,2024-03-06,Hà Nội,gia_dinh
+C002621,2025-10-30,Hồ Chí Minh,van_phong
+C002622,2024-11-16,Hồ Chí Minh,sinh_vien
+C002623,2025-05-01,Hồ Chí Minh,gia_dinh
+C002624,2024-04-28,Hồ Chí Minh,
+C002625,2025-10-12,Hà Nội,
+C002626,2022-03-03,Hồ Chí Minh,sinh_vien
+C002627,2024-12-21,Hà Nội,gia_dinh_tre
+C002628,2023-02-26,,van_phong
+C002629,2023-09-25,Hồ Chí Minh,gia_dinh
+C002630,2024-03-02,Hà Nội,gia_dinh
+C002631,2023-07-05,Hồ Chí Minh,van_phong
+C002632,2025-11-04,Hồ Chí Minh,van_phong
+C002633,2025-07-24,Hà Nội,gia_dinh_tre
+C002634,2023-08-29,Hồ Chí Minh,gia_dinh_tre
+C002635,2025-12-25,Hà Nội,
+C002636,2025-02-12,Hồ Chí Minh,van_phong
+C002637,2025-02-18,Đà Nẵng,sinh_vien
+C002638,2023-06-09,Hồ Chí Minh,van_phong
+C002639,2024-06-17,Hồ Chí Minh,sinh_vien
+C002640,2025-12-10,Hồ Chí Minh,van_phong
+C002641,2022-06-12,Hà Nội,gia_dinh
+C002642,2024-02-26,Hà Nội,gia_dinh_tre
+C002643,2024-06-28,Hồ Chí Minh,van_phong
+C002644,2024-09-08,Hà Nội,van_phong
+C002645,2025-09-22,Hồ Chí Minh,gia_dinh_tre
+C002646,2023-01-14,Hồ Chí Minh,gia_dinh
+C002647,2025-09-09,Hà Nội,sinh_vien
+C002648,2022-06-22,Hà Nội,gia_dinh
+C002649,2024-09-26,Hà Nội,gia_dinh
+C002650,2022-03-05,Hà Nội,gia_dinh
+C002651,2025-01-29,Hồ Chí Minh,gia_dinh_tre
+C002652,2025-09-07,Hà Nội,gia_dinh
+C002653,2024-09-01,Hồ Chí Minh,gia_dinh
+C002654,2022-03-07,Hồ Chí Minh,gia_dinh_tre
+C002655,2026-04-30,Hồ Chí Minh,van_phong
+C002656,2026-06-11,Hồ Chí Minh,gia_dinh
+C002657,2023-04-03,Hồ Chí Minh,sinh_vien
+C002658,2026-05-22,Hồ Chí Minh,sinh_vien
+C002659,2023-03-29,Hồ Chí Minh,
+C002660,2025-07-06,Hồ Chí Minh,van_phong
+C002661,2025-12-20,Hồ Chí Minh,gia_dinh
+C002662,2024-09-05,Hồ Chí Minh,sinh_vien
+C002663,2022-06-27,Hồ Chí Minh,gia_dinh_tre
+C002664,2022-10-07,Hà Nội,van_phong
+C002665,2022-12-10,,van_phong
+C002666,2024-11-06,Hà Nội,gia_dinh
+C002667,2022-10-23,Hồ Chí Minh,gia_dinh_tre
+C002668,2022-07-21,Hà Nội,van_phong
+C002669,2024-08-19,Hồ Chí Minh,van_phong
+C002670,2023-11-15,Hồ Chí Minh,gia_dinh
+C002671,2025-05-02,Hồ Chí Minh,van_phong
+C002672,2025-03-18,Hà Nội,gia_dinh
+C002673,2023-01-10,Hồ Chí Minh,van_phong
+C002674,2022-02-04,Hồ Chí Minh,gia_dinh_tre
+C002675,2025-10-24,Hồ Chí Minh,sinh_vien
+C002676,2022-01-29,Hà Nội,
+C002677,2024-02-14,Hà Nội,gia_dinh
+C002678,2022-08-09,Hồ Chí Minh,gia_dinh_tre
+C002679,2022-02-22,Hồ Chí Minh,gia_dinh_tre
+C002680,2024-03-01,Hồ Chí Minh,gia_dinh
+C002681,2025-10-08,Hà Nội,gia_dinh
+C002682,2025-11-16,Hồ Chí Minh,
+C002683,2022-03-17,Hà Nội,gia_dinh_tre
+C002684,2023-05-09,Hồ Chí Minh,gia_dinh
+C002685,2026-03-26,Hà Nội,gia_dinh
+C002686,2022-04-27,Hồ Chí Minh,gia_dinh_tre
+C002687,2022-10-07,Hồ Chí Minh,gia_dinh_tre
+C002688,2025-04-13,Hồ Chí Minh,gia_dinh
+C002689,2024-01-16,Hồ Chí Minh,gia_dinh
+C002690,2024-08-06,Hồ Chí Minh,gia_dinh
+C002691,2024-02-03,Hà Nội,gia_dinh
+C002692,2022-10-22,Hồ Chí Minh,van_phong
+C002693,2024-10-14,Hà Nội,gia_dinh_tre
+C002694,2026-01-14,Hà Nội,gia_dinh
+C002695,2026-03-22,Hồ Chí Minh,sinh_vien
+C002696,2024-11-10,Hà Nội,gia_dinh
+C002697,2025-01-01,Hà Nội,van_phong
+C002698,2024-04-21,Hồ Chí Minh,
+C002699,2024-11-25,Hà Nội,van_phong
+C002700,2026-03-11,Hồ Chí Minh,van_phong
+C002701,2025-06-10,Hồ Chí Minh,
+C002702,2023-05-12,Hà Nội,sinh_vien
+C002703,2022-07-25,Hồ Chí Minh,gia_dinh_tre
+C002704,2023-03-02,Hồ Chí Minh,gia_dinh_tre
+C002705,2022-02-13,Hồ Chí Minh,van_phong
+C002706,2025-01-19,Hà Nội,sinh_vien
+C002707,2026-02-02,Đà Nẵng,gia_dinh_tre
+C002708,2023-08-28,Hồ Chí Minh,gia_dinh
+C002709,2026-01-30,Hà Nội,gia_dinh_tre
+C002710,2023-03-30,Đà Nẵng,gia_dinh
+C002711,2023-08-18,Hồ Chí Minh,van_phong
+C002712,2025-09-18,Hồ Chí Minh,gia_dinh
+C002713,2023-05-22,Hà Nội,gia_dinh
+C002714,2024-03-04,Hà Nội,gia_dinh
+C002715,2026-02-02,Hà Nội,gia_dinh_tre
+C002716,2022-01-21,Hồ Chí Minh,gia_dinh
+C002717,2025-06-05,Hồ Chí Minh,van_phong
+C002718,2025-10-31,Hồ Chí Minh,sinh_vien
+C002719,2025-02-27,Hồ Chí Minh,sinh_vien
+C002720,2023-09-12,Hồ Chí Minh,gia_dinh_tre
+C002721,2023-02-18,Hà Nội,sinh_vien
+C002722,2024-12-30,Hồ Chí Minh,van_phong
+C002723,2025-11-28,Hà Nội,van_phong
+C002724,2026-05-05,,gia_dinh
+C002725,2026-06-19,Hồ Chí Minh,gia_dinh
+C002726,2025-11-21,Hồ Chí Minh,gia_dinh
+C002727,2022-12-03,Hồ Chí Minh,gia_dinh_tre
+C002728,2026-03-09,Hồ Chí Minh,gia_dinh_tre
+C002729,2024-06-28,Đà Nẵng,gia_dinh_tre
+C002730,2022-10-03,Hà Nội,gia_dinh
+C002731,2024-06-10,Hồ Chí Minh,van_phong
+C002732,2022-01-13,Hồ Chí Minh,gia_dinh
+C002733,2024-10-23,Đà Nẵng,gia_dinh_tre
+C002734,2024-09-04,Hồ Chí Minh,sinh_vien
+C002735,2025-06-01,Hồ Chí Minh,sinh_vien
+C002736,2024-08-31,Hồ Chí Minh,van_phong
+C002737,2022-06-24,Đà Nẵng,sinh_vien
+C002738,2025-11-09,Hồ Chí Minh,gia_dinh
+C002739,2026-06-14,Hồ Chí Minh,sinh_vien
+C002740,2022-08-29,Đà Nẵng,gia_dinh_tre
+C002741,2023-07-01,Hồ Chí Minh,gia_dinh
+C002742,2022-01-14,,gia_dinh_tre
+C002743,2025-05-03,Hồ Chí Minh,gia_dinh_tre
+C002744,2025-11-21,Hà Nội,gia_dinh_tre
+C002745,2025-12-25,Hồ Chí Minh,van_phong
+C002746,2025-08-22,Đà Nẵng,van_phong
+C002747,2025-09-19,Hà Nội,van_phong
+C002748,2023-12-26,Hồ Chí Minh,gia_dinh_tre
+C002749,2025-12-04,Đà Nẵng,sinh_vien
+C002750,2022-01-03,Hồ Chí Minh,van_phong
+C002751,2023-11-22,Hồ Chí Minh,gia_dinh
+C002752,2026-04-25,Hồ Chí Minh,van_phong
+C002753,2026-01-15,Hồ Chí Minh,gia_dinh
+C002754,2024-01-17,Hồ Chí Minh,gia_dinh
+C002755,2024-02-08,Hồ Chí Minh,sinh_vien
+C002756,2024-05-21,Hồ Chí Minh,gia_dinh
+C002757,2023-05-10,Hà Nội,gia_dinh
+C002758,2023-02-21,Hồ Chí Minh,sinh_vien
+C002759,2025-11-15,Đà Nẵng,van_phong
+C002760,2025-10-28,Hồ Chí Minh,gia_dinh_tre
+C002761,2023-09-20,Hồ Chí Minh,gia_dinh_tre
+C002762,2024-12-11,Hồ Chí Minh,gia_dinh_tre
+C002763,2025-10-31,Hồ Chí Minh,van_phong
+C002764,2025-11-19,Hồ Chí Minh,gia_dinh
+C002765,2024-10-17,Hà Nội,gia_dinh_tre
+C002766,2022-05-22,Đà Nẵng,sinh_vien
+C002767,2025-01-14,Đà Nẵng,gia_dinh
+C002768,2026-01-27,Hồ Chí Minh,gia_dinh_tre
+C002769,2022-02-15,Hà Nội,gia_dinh
+C002770,2024-04-23,Hồ Chí Minh,van_phong
+C002771,2024-10-05,Hồ Chí Minh,gia_dinh_tre
+C002772,2025-06-15,Hà Nội,gia_dinh
+C002773,2022-01-10,Hà Nội,sinh_vien
+C002774,2023-10-26,Hồ Chí Minh,gia_dinh
+C002775,2023-07-27,Hồ Chí Minh,gia_dinh
+C002776,2026-04-03,Hồ Chí Minh,gia_dinh
+C002777,2026-06-10,Hà Nội,gia_dinh_tre
+C002778,2023-10-11,Hồ Chí Minh,gia_dinh_tre
+C002779,2024-07-01,Đà Nẵng,gia_dinh
+C002780,2023-10-02,Hồ Chí Minh,gia_dinh_tre
+C002781,2023-09-08,Hồ Chí Minh,gia_dinh_tre
+C002782,2023-11-29,Hồ Chí Minh,sinh_vien
+C002783,2024-06-27,Hồ Chí Minh,sinh_vien
+C002784,2022-06-27,Hồ Chí Minh,van_phong
+C002785,2024-05-18,Hà Nội,sinh_vien
+C002786,2024-10-26,Hà Nội,gia_dinh_tre
+C002787,2024-05-02,Đà Nẵng,sinh_vien
+C002788,2022-11-03,Hà Nội,gia_dinh_tre
+C002789,2023-07-02,Hà Nội,sinh_vien
+C002790,2022-11-23,Hồ Chí Minh,sinh_vien
+C002791,2025-10-11,Hà Nội,van_phong
+C002792,2023-01-30,Hồ Chí Minh,sinh_vien
+C002793,2022-10-27,Hồ Chí Minh,van_phong
+C002794,2026-03-30,Hồ Chí Minh,gia_dinh
+C002795,2024-01-19,Hồ Chí Minh,gia_dinh
+C002796,2022-10-12,Hồ Chí Minh,van_phong
+C002797,2022-11-26,Đà Nẵng,gia_dinh_tre
+C002798,2022-02-19,Hồ Chí Minh,van_phong
+C002799,2024-02-12,Hồ Chí Minh,sinh_vien
+C002800,2023-01-13,Hồ Chí Minh,gia_dinh_tre
+C002801,2026-06-12,Hồ Chí Minh,van_phong
+C002802,2024-09-26,Hồ Chí Minh,sinh_vien
+C002803,2026-04-11,Hồ Chí Minh,sinh_vien
+C002804,2024-02-13,Hồ Chí Minh,sinh_vien
+C002805,2025-03-13,Hồ Chí Minh,gia_dinh
+C002806,2024-12-19,Hà Nội,sinh_vien
+C002807,2024-05-17,Hà Nội,van_phong
+C002808,2025-01-03,Hồ Chí Minh,gia_dinh_tre
+C002809,2022-01-03,Hồ Chí Minh,gia_dinh
+C002810,2026-05-18,Hồ Chí Minh,van_phong
+C002811,2024-01-18,Hà Nội,gia_dinh_tre
+C002812,2026-01-11,Hồ Chí Minh,van_phong
+C002813,2022-10-02,Hồ Chí Minh,van_phong
+C002814,2026-04-03,Hà Nội,gia_dinh_tre
+C002815,2026-06-04,Hồ Chí Minh,van_phong
+C002816,2022-08-03,Hồ Chí Minh,van_phong
+C002817,2026-02-17,Hồ Chí Minh,gia_dinh
+C002818,2022-11-25,Đà Nẵng,gia_dinh_tre
+C002819,2022-09-12,Hà Nội,gia_dinh_tre
+C002820,2025-11-11,Hà Nội,gia_dinh
+C002821,2022-05-06,Hồ Chí Minh,sinh_vien
+C002822,2024-02-06,Hồ Chí Minh,gia_dinh_tre
+C002823,2026-05-27,Đà Nẵng,van_phong
+C002824,2026-04-23,Đà Nẵng,gia_dinh_tre
+C002825,2025-09-09,Hồ Chí Minh,gia_dinh
+C002826,2025-05-12,,sinh_vien
+C002827,2025-04-10,Hồ Chí Minh,van_phong
+C002828,2022-08-05,Hồ Chí Minh,gia_dinh_tre
+C002829,2025-06-22,Hà Nội,gia_dinh
+C002830,2025-09-21,Hồ Chí Minh,gia_dinh_tre
+C002831,2025-08-14,Đà Nẵng,gia_dinh
+C002832,2024-04-11,Hồ Chí Minh,van_phong
+C002833,2022-07-01,Hồ Chí Minh,gia_dinh_tre
+C002834,2022-11-30,Đà Nẵng,gia_dinh
+C002835,2023-05-26,Đà Nẵng,gia_dinh
+C002836,2023-01-18,Hồ Chí Minh,sinh_vien
+C002837,2025-05-07,Hồ Chí Minh,sinh_vien
+C002838,2022-11-28,Hà Nội,gia_dinh_tre
+C002839,2025-04-03,Hồ Chí Minh,van_phong
+C002840,2025-06-19,Đà Nẵng,gia_dinh
+C002841,2024-06-18,Đà Nẵng,gia_dinh
+C002842,2023-10-04,Hồ Chí Minh,van_phong
+C002843,2025-06-04,Hồ Chí Minh,sinh_vien
+C002844,2023-09-26,Hồ Chí Minh,sinh_vien
+C002845,2026-04-29,Đà Nẵng,van_phong
+C002846,2023-03-27,Hồ Chí Minh,gia_dinh
+C002847,2022-07-15,Hồ Chí Minh,van_phong
+C002848,2025-05-12,Hồ Chí Minh,gia_dinh
+C002849,2023-04-03,Hồ Chí Minh,van_phong
+C002850,2024-04-09,Hồ Chí Minh,gia_dinh
+C002851,2022-09-14,Hồ Chí Minh,van_phong
+C002852,2026-04-02,Đà Nẵng,gia_dinh_tre
+C002853,2025-07-19,Đà Nẵng,gia_dinh_tre
+C002854,2022-01-09,Hà Nội,sinh_vien
+C002855,2024-01-31,Hồ Chí Minh,gia_dinh_tre
+C002856,2024-08-06,Hồ Chí Minh,gia_dinh
+C002857,2025-05-09,Hà Nội,gia_dinh_tre
+C002858,2024-12-18,Hồ Chí Minh,gia_dinh_tre
+C002859,2024-06-05,Đà Nẵng,gia_dinh_tre
+C002860,2023-01-28,Hà Nội,gia_dinh_tre
+C002861,2025-02-16,Hồ Chí Minh,sinh_vien
+C002862,2026-04-26,Đà Nẵng,gia_dinh
+C002863,2023-02-03,Đà Nẵng,sinh_vien
+C002864,2022-11-27,Hồ Chí Minh,van_phong
+C002865,2025-07-14,Hồ Chí Minh,gia_dinh
+C002866,2026-03-24,Hồ Chí Minh,van_phong
+C002867,2023-04-25,Hồ Chí Minh,gia_dinh
+C002868,2022-05-14,Hồ Chí Minh,van_phong
+C002869,2024-07-04,Hồ Chí Minh,gia_dinh
+C002870,2024-07-23,Đà Nẵng,gia_dinh
+C002871,2022-12-21,Hồ Chí Minh,
+C002872,2023-08-07,Hồ Chí Minh,sinh_vien
+C002873,2026-03-02,Hà Nội,sinh_vien
+C002874,2023-09-17,Hồ Chí Minh,gia_dinh
+C002875,2025-02-04,Hà Nội,van_phong
+C002876,2022-10-17,Hồ Chí Minh,gia_dinh
+C002877,2024-04-04,Hồ Chí Minh,gia_dinh
+C002878,2023-09-21,Hồ Chí Minh,gia_dinh_tre
+C002879,2024-10-15,Hà Nội,van_phong
+C002880,2023-09-24,Hồ Chí Minh,
+C002881,2025-03-16,Hà Nội,gia_dinh
+C002882,2022-11-23,Hồ Chí Minh,sinh_vien
+C002883,2025-12-09,Hồ Chí Minh,gia_dinh_tre
+C002884,2022-07-29,Hồ Chí Minh,gia_dinh_tre
+C002885,2025-08-12,Đà Nẵng,gia_dinh_tre
+C002886,2025-11-22,Đà Nẵng,sinh_vien
+C002887,2025-01-31,Hồ Chí Minh,gia_dinh
+C002888,2023-09-28,Hồ Chí Minh,gia_dinh
+C002889,2026-03-12,Hồ Chí Minh,sinh_vien
+C002890,2024-05-17,Hồ Chí Minh,sinh_vien
+C002891,2025-05-17,Hồ Chí Minh,gia_dinh
+C002892,2023-03-04,Đà Nẵng,van_phong
+C002893,2023-01-28,Đà Nẵng,van_phong
+C002894,2024-04-05,Hồ Chí Minh,van_phong
+C002895,2024-07-04,Hồ Chí Minh,gia_dinh_tre
+C002896,2025-02-06,Hà Nội,sinh_vien
+C002897,2022-12-14,Hà Nội,gia_dinh
+C002898,2022-02-19,Hồ Chí Minh,gia_dinh
+C002899,2024-07-04,Hồ Chí Minh,gia_dinh
+C002900,2025-02-02,Hồ Chí Minh,gia_dinh_tre
+C002901,2025-12-14,Hồ Chí Minh,gia_dinh_tre
+C002902,2025-10-28,Hồ Chí Minh,van_phong
+C002903,2024-11-16,Hồ Chí Minh,gia_dinh_tre
+C002904,2024-08-25,Hà Nội,gia_dinh
+C002905,2024-03-10,Hồ Chí Minh,gia_dinh
+C002906,2025-07-20,Hồ Chí Minh,gia_dinh_tre
+C002907,2024-10-13,Hồ Chí Minh,sinh_vien
+C002908,2023-10-11,Hà Nội,gia_dinh_tre
+C002909,2025-09-25,Hà Nội,gia_dinh
+C002910,2022-10-28,Hồ Chí Minh,gia_dinh
+C002911,2026-02-12,Hồ Chí Minh,gia_dinh_tre
+C002912,2026-04-17,Đà Nẵng,gia_dinh_tre
+C002913,2026-04-30,Hồ Chí Minh,
+C002914,2025-07-12,Hồ Chí Minh,sinh_vien
+C002915,2026-04-15,Hồ Chí Minh,gia_dinh_tre
+C002916,2026-06-08,Hồ Chí Minh,van_phong
+C002917,2022-06-15,Hồ Chí Minh,van_phong
+C002918,2022-11-12,Đà Nẵng,sinh_vien
+C002919,2022-01-01,Hà Nội,gia_dinh
+C002920,2024-10-16,Hồ Chí Minh,gia_dinh
+C002921,2025-07-08,Đà Nẵng,gia_dinh
+C002922,2022-03-04,Hồ Chí Minh,van_phong
+C002923,2023-04-28,Hồ Chí Minh,sinh_vien
+C002924,2025-09-06,Hồ Chí Minh,gia_dinh_tre
+C002925,2025-05-09,Hà Nội,gia_dinh
+C002926,2022-08-10,Hồ Chí Minh,sinh_vien
+C002927,2022-06-01,Hồ Chí Minh,sinh_vien
+C002928,2023-10-06,Hà Nội,sinh_vien
+C002929,2023-09-18,Hà Nội,van_phong
+C002930,2026-01-25,Hà Nội,gia_dinh
+C002931,2022-08-05,Hồ Chí Minh,van_phong
+C002932,2022-07-15,,van_phong
+C002933,2025-05-10,Hồ Chí Minh,gia_dinh_tre
+C002934,2024-09-21,Hồ Chí Minh,gia_dinh
+C002935,2024-10-11,Đà Nẵng,van_phong
+C002936,2023-10-09,Hồ Chí Minh,gia_dinh_tre
+C002937,2025-06-11,Hồ Chí Minh,van_phong
+C002938,2025-03-10,Hà Nội,van_phong
+C002939,2023-12-09,Hồ Chí Minh,sinh_vien
+C002940,2026-03-02,Hồ Chí Minh,gia_dinh_tre
+C002941,2026-04-28,Hà Nội,gia_dinh
+C002942,2024-12-16,Hà Nội,van_phong
+C002943,2026-03-08,Hà Nội,gia_dinh
+C002944,2025-03-11,Hồ Chí Minh,van_phong
+C002945,2023-12-23,Hồ Chí Minh,van_phong
+C002946,2026-05-27,Hà Nội,gia_dinh_tre
+C002947,2026-04-12,Hồ Chí Minh,gia_dinh
+C002948,2023-10-02,Hồ Chí Minh,gia_dinh
+C002949,2022-04-16,Hà Nội,gia_dinh
+C002950,2022-06-14,Hồ Chí Minh,sinh_vien
+C002951,2022-08-03,Hà Nội,sinh_vien
+C002952,2024-12-30,Hồ Chí Minh,van_phong
+C002953,2026-05-22,Hồ Chí Minh,van_phong
+C002954,2022-03-31,Hồ Chí Minh,gia_dinh
+C002955,2024-05-23,Hà Nội,sinh_vien
+C002956,2025-06-05,Hồ Chí Minh,
+C002957,2025-01-07,Hồ Chí Minh,van_phong
+C002958,2023-08-31,Hà Nội,sinh_vien
+C002959,2022-12-15,Hà Nội,gia_dinh
+C002960,2024-06-12,Đà Nẵng,sinh_vien
+C002961,2022-09-03,Hồ Chí Minh,gia_dinh_tre
+C002962,2022-09-29,Hồ Chí Minh,gia_dinh
+C002963,2023-02-07,Đà Nẵng,gia_dinh
+C002964,2025-02-13,Hà Nội,sinh_vien
+C002965,2025-12-29,Hồ Chí Minh,sinh_vien
+C002966,2026-04-03,Hồ Chí Minh,van_phong
+C002967,2026-01-05,Hà Nội,van_phong
+C002968,2025-04-10,Hồ Chí Minh,van_phong
+C002969,2024-11-05,Hà Nội,sinh_vien
+C002970,2024-08-18,Hồ Chí Minh,gia_dinh
+C002971,2024-06-16,Hồ Chí Minh,gia_dinh
+C002972,2024-12-15,Hà Nội,gia_dinh_tre
+C002973,2026-06-03,Hồ Chí Minh,van_phong
+C002974,2025-01-31,Hồ Chí Minh,van_phong
+C002975,2022-10-11,Hồ Chí Minh,gia_dinh
+C002976,2023-06-01,Hồ Chí Minh,gia_dinh_tre
+C002977,2023-09-10,Hà Nội,sinh_vien
+C002978,2025-07-25,Hà Nội,gia_dinh_tre
+C002979,2023-09-04,Hà Nội,van_phong
+C002980,2024-01-20,Hồ Chí Minh,sinh_vien
+C002981,2025-07-16,Hồ Chí Minh,gia_dinh
+C002982,2023-02-04,Hồ Chí Minh,gia_dinh_tre
+C002983,2026-03-07,Đà Nẵng,van_phong
+C002984,2022-03-27,Hà Nội,sinh_vien
+C002985,2022-11-16,Hà Nội,gia_dinh
+C002986,2024-11-21,Hồ Chí Minh,sinh_vien
+C002987,2022-12-02,Hồ Chí Minh,gia_dinh_tre
+C002988,2022-02-20,Hồ Chí Minh,gia_dinh
+C002989,2025-01-07,Hồ Chí Minh,van_phong
+C002990,2022-06-23,Hồ Chí Minh,sinh_vien
+C002991,2026-06-30,Đà Nẵng,gia_dinh_tre
+C002992,2023-05-16,Hồ Chí Minh,sinh_vien
+C002993,2026-05-18,Hồ Chí Minh,van_phong
+C002994,2022-03-17,Hồ Chí Minh,gia_dinh
+C002995,2022-11-12,Đà Nẵng,gia_dinh_tre
+C002996,2025-10-28,Hồ Chí Minh,sinh_vien
+C002997,2025-01-09,Hà Nội,gia_dinh_tre
+C002998,2023-11-28,Đà Nẵng,gia_dinh
+C002999,2024-10-06,Hồ Chí Minh,gia_dinh
+C003000,2024-01-02,Hà Nội,sinh_vien
+C003001,2024-12-30,Hồ Chí Minh,van_phong
+C003002,2024-08-26,Hồ Chí Minh,van_phong
+C003003,2024-05-03,Hà Nội,gia_dinh
+C003004,2023-10-28,Hà Nội,van_phong
+C003005,2023-10-14,Hồ Chí Minh,van_phong
+C003006,2024-12-30,Hồ Chí Minh,sinh_vien
+C003007,2022-02-15,Hồ Chí Minh,sinh_vien
+C003008,2024-12-06,Hồ Chí Minh,
+C003009,2026-06-03,Hồ Chí Minh,van_phong
+C003010,2025-12-16,Hồ Chí Minh,gia_dinh_tre
+C003011,2022-05-29,Hồ Chí Minh,gia_dinh
+C003012,2024-06-28,Hà Nội,gia_dinh
+C003013,2025-02-27,Hồ Chí Minh,gia_dinh
+C003014,2023-04-01,Hồ Chí Minh,gia_dinh
+C003015,2024-05-26,Hồ Chí Minh,van_phong
+C003016,2024-08-23,Hà Nội,gia_dinh
+C003017,2024-05-18,Hồ Chí Minh,van_phong
+C003018,2026-03-09,Hồ Chí Minh,gia_dinh
+C003019,2024-07-17,Hồ Chí Minh,gia_dinh_tre
+C003020,2024-10-20,Hà Nội,van_phong
+C003021,2024-09-27,Hồ Chí Minh,gia_dinh
+C003022,2024-02-13,Hà Nội,gia_dinh
+C003023,2022-09-01,Đà Nẵng,van_phong
+C003024,2023-04-19,Hà Nội,gia_dinh
+C003025,2023-01-17,Hà Nội,gia_dinh_tre
+C003026,2025-01-31,Hồ Chí Minh,gia_dinh
+C003027,2023-05-04,Hồ Chí Minh,sinh_vien
+C003028,2024-11-26,Đà Nẵng,van_phong
+C003029,2026-04-22,Hồ Chí Minh,van_phong
+C003030,2026-03-24,Hồ Chí Minh,van_phong
+C003031,2025-09-18,Hà Nội,gia_dinh_tre
+C003032,2023-02-01,Hồ Chí Minh,gia_dinh
+C003033,2022-10-23,Hồ Chí Minh,van_phong
+C003034,2022-04-17,Hồ Chí Minh,gia_dinh_tre
+C003035,2024-05-09,Hồ Chí Minh,gia_dinh
+C003036,2024-08-11,Hà Nội,gia_dinh
+C003037,2023-06-14,Hồ Chí Minh,gia_dinh
+C003038,2025-01-11,Hồ Chí Minh,sinh_vien
+C003039,2024-07-22,Hồ Chí Minh,gia_dinh_tre
+C003040,2022-10-15,Hà Nội,gia_dinh
+C003041,2023-12-07,Hà Nội,gia_dinh_tre
+C003042,2026-01-24,Hồ Chí Minh,
+C003043,2022-08-03,Hà Nội,gia_dinh_tre
+C003044,2025-07-28,Hồ Chí Minh,gia_dinh
+C003045,2024-01-02,Đà Nẵng,
+C003046,2026-01-22,Hồ Chí Minh,van_phong
+C003047,2022-12-10,Hà Nội,gia_dinh
+C003048,2022-07-13,Hồ Chí Minh,gia_dinh
+C003049,2022-06-07,Hồ Chí Minh,gia_dinh
+C003050,2023-04-10,Hồ Chí Minh,gia_dinh
+C003051,2022-04-14,Hà Nội,gia_dinh_tre
+C003052,2022-02-03,Hồ Chí Minh,gia_dinh
+C003053,2025-01-30,Đà Nẵng,gia_dinh
+C003054,2023-10-01,Hồ Chí Minh,gia_dinh
+C003055,2022-11-21,Hồ Chí Minh,van_phong
+C003056,2023-11-22,Hồ Chí Minh,sinh_vien
+C003057,2023-08-15,Hà Nội,van_phong
+C003058,2022-05-21,Hồ Chí Minh,gia_dinh_tre
+C003059,2023-04-19,Hà Nội,gia_dinh_tre
+C003060,2024-11-20,Đà Nẵng,sinh_vien
+C003061,2024-06-02,Đà Nẵng,gia_dinh
+C003062,2022-03-04,Hồ Chí Minh,gia_dinh_tre
+C003063,2026-05-03,Hà Nội,van_phong
+C003064,2025-01-15,Hà Nội,van_phong
+C003065,2022-10-31,Hồ Chí Minh,van_phong
+C003066,2024-12-20,Hà Nội,gia_dinh
+C003067,2023-01-31,Hồ Chí Minh,gia_dinh_tre
+C003068,2022-11-30,Hồ Chí Minh,sinh_vien
+C003069,2024-02-25,Hồ Chí Minh,gia_dinh
+C003070,2023-02-15,Hồ Chí Minh,van_phong
+C003071,2022-10-11,,van_phong
+C003072,2023-04-11,Hồ Chí Minh,van_phong
+C003073,2022-03-21,Hà Nội,gia_dinh
+C003074,2024-02-23,Hồ Chí Minh,gia_dinh
+C003075,2025-01-05,Hồ Chí Minh,van_phong
+C003076,2024-01-03,Hồ Chí Minh,sinh_vien
+C003077,2026-04-13,Hồ Chí Minh,sinh_vien
+C003078,2025-10-16,Hà Nội,gia_dinh_tre
+C003079,2022-03-18,Hồ Chí Minh,gia_dinh_tre
+C003080,2023-05-24,Hà Nội,
+C003081,2025-04-02,Hồ Chí Minh,van_phong
+C003082,2024-10-29,Hà Nội,sinh_vien
+C003083,2025-04-13,Hồ Chí Minh,gia_dinh_tre
+C003084,2023-04-07,Hồ Chí Minh,van_phong
+C003085,2025-08-23,Hà Nội,van_phong
+C003086,2026-05-31,Hồ Chí Minh,van_phong
+C003087,2022-09-02,Hà Nội,gia_dinh
+C003088,2022-05-02,Hà Nội,gia_dinh_tre
+C003089,2022-07-04,Hồ Chí Minh,van_phong
+C003090,2022-02-01,Hồ Chí Minh,gia_dinh
+C003091,2024-09-24,Hồ Chí Minh,gia_dinh
+C003092,2024-02-01,Đà Nẵng,sinh_vien
+C003093,2023-07-23,Hà Nội,gia_dinh
+C003094,2022-11-06,Hồ Chí Minh,sinh_vien
+C003095,2025-10-27,Hồ Chí Minh,gia_dinh_tre
+C003096,2024-04-09,Hồ Chí Minh,van_phong
+C003097,2026-06-08,Hà Nội,sinh_vien
+C003098,2024-09-18,,gia_dinh_tre
+C003099,2024-12-15,Hồ Chí Minh,gia_dinh_tre
+C003100,2024-03-01,Hà Nội,gia_dinh
+C003101,2025-07-20,Hồ Chí Minh,gia_dinh_tre
+C003102,2023-04-09,Hồ Chí Minh,van_phong
+C003103,2023-11-09,Đà Nẵng,sinh_vien
+C003104,2026-01-19,Hà Nội,gia_dinh
+C003105,2024-09-05,Hồ Chí Minh,gia_dinh
+C003106,2023-11-01,Hồ Chí Minh,gia_dinh
+C003107,2025-06-26,Hồ Chí Minh,van_phong
+C003108,2023-11-29,Hồ Chí Minh,gia_dinh_tre
+C003109,2024-09-20,Hà Nội,van_phong
+C003110,2022-03-19,Hồ Chí Minh,van_phong
+C003111,2023-06-18,Hà Nội,van_phong
+C003112,2022-04-18,Đà Nẵng,gia_dinh_tre
+C003113,2025-07-20,Hồ Chí Minh,van_phong
+C003114,2024-02-03,Hồ Chí Minh,gia_dinh_tre
+C003115,2022-01-15,Hồ Chí Minh,gia_dinh_tre
+C003116,2023-01-05,Đà Nẵng,sinh_vien
+C003117,2025-08-20,Hà Nội,van_phong
+C003118,2022-07-24,Hồ Chí Minh,gia_dinh_tre
+C003119,2025-02-10,Hà Nội,gia_dinh_tre
+C003120,2024-05-14,Hồ Chí Minh,gia_dinh_tre
+C003121,2025-06-30,Đà Nẵng,
+C003122,2023-03-17,Hồ Chí Minh,gia_dinh_tre
+C003123,2025-04-24,Hồ Chí Minh,gia_dinh_tre
+C003124,2024-05-08,Hà Nội,gia_dinh
+C003125,2022-08-15,Hồ Chí Minh,van_phong
+C003126,2023-06-12,Hồ Chí Minh,van_phong
+C003127,2022-12-20,Hồ Chí Minh,van_phong
+C003128,2023-09-15,Hồ Chí Minh,gia_dinh_tre
+C003129,2024-10-21,Hồ Chí Minh,sinh_vien
+C003130,2026-04-26,Đà Nẵng,sinh_vien
+C003131,2026-05-03,Hồ Chí Minh,sinh_vien
+C003132,2024-07-15,Hồ Chí Minh,sinh_vien
+C003133,2025-12-14,Hà Nội,sinh_vien
+C003134,2025-03-30,Hồ Chí Minh,gia_dinh
+C003135,2022-06-10,Hồ Chí Minh,gia_dinh_tre
+C003136,2024-05-20,Hà Nội,van_phong
+C003137,2025-02-25,Hà Nội,van_phong
+C003138,2025-03-20,Hà Nội,van_phong
+C003139,2023-03-20,Hà Nội,gia_dinh
+C003140,2026-02-03,Hồ Chí Minh,gia_dinh_tre
+C003141,2023-04-08,Đà Nẵng,gia_dinh
+C003142,2024-11-19,Hồ Chí Minh,sinh_vien
+C003143,2023-04-18,Hà Nội,van_phong
+C003144,2023-07-11,Hồ Chí Minh,gia_dinh
+C003145,2022-03-21,Đà Nẵng,gia_dinh
+C003146,2024-11-28,Hà Nội,gia_dinh
+C003147,2022-08-28,Hà Nội,sinh_vien
+C003148,2023-07-11,Hồ Chí Minh,van_phong
+C003149,2023-08-13,Hồ Chí Minh,van_phong
+C003150,2025-09-22,Hà Nội,gia_dinh
+C003151,2025-07-27,Hà Nội,van_phong
+C003152,2025-02-13,Hồ Chí Minh,gia_dinh_tre
+C003153,2022-09-26,Đà Nẵng,van_phong
+C003154,2022-12-01,Hà Nội,gia_dinh
+C003155,2022-11-08,Hồ Chí Minh,gia_dinh
+C003156,2024-12-12,Hà Nội,
+C003157,2024-12-27,Hồ Chí Minh,sinh_vien
+C003158,2023-11-25,Hồ Chí Minh,gia_dinh_tre
+C003159,2022-02-03,Hồ Chí Minh,sinh_vien
+C003160,2023-01-21,Hồ Chí Minh,gia_dinh
+C003161,2022-09-06,Hà Nội,gia_dinh
+C003162,2025-02-08,Hồ Chí Minh,gia_dinh_tre
+C003163,2025-01-22,Hà Nội,gia_dinh
+C003164,2025-12-04,Hà Nội,gia_dinh
+C003165,2025-04-17,Hà Nội,gia_dinh_tre
+C003166,2024-12-06,Hồ Chí Minh,gia_dinh
+C003167,2024-03-04,Hà Nội,sinh_vien
+C003168,2024-05-01,Hồ Chí Minh,gia_dinh_tre
+C003169,2024-05-23,Hồ Chí Minh,van_phong
+C003170,2026-06-16,Hồ Chí Minh,gia_dinh
+C003171,2023-01-11,Hồ Chí Minh,van_phong
+C003172,2023-12-25,,gia_dinh
+C003173,2026-05-30,Hồ Chí Minh,gia_dinh_tre
+C003174,2022-07-21,Hà Nội,gia_dinh_tre
+C003175,2023-03-21,Hồ Chí Minh,gia_dinh_tre
+C003176,2022-10-24,Hồ Chí Minh,gia_dinh_tre
+C003177,2025-08-24,Đà Nẵng,
+C003178,2023-05-08,Hà Nội,sinh_vien
+C003179,2022-12-04,Hồ Chí Minh,
+C003180,2024-07-11,Hồ Chí Minh,van_phong
+C003181,2024-12-25,Hồ Chí Minh,gia_dinh_tre
+C003182,2024-03-02,Hồ Chí Minh,gia_dinh
+C003183,2025-12-16,Hà Nội,
+C003184,2026-04-13,Hà Nội,gia_dinh_tre
+C003185,2026-02-25,Hồ Chí Minh,gia_dinh
+C003186,2024-08-19,Đà Nẵng,gia_dinh
+C003187,2022-11-13,Hồ Chí Minh,gia_dinh
+C003188,2024-07-30,Hồ Chí Minh,gia_dinh
+C003189,2023-09-18,Hồ Chí Minh,sinh_vien
+C003190,2022-03-16,Hà Nội,van_phong
+C003191,2024-07-27,Hồ Chí Minh,gia_dinh
+C003192,2022-02-28,Hồ Chí Minh,sinh_vien
+C003193,2023-01-21,Hồ Chí Minh,sinh_vien
+C003194,2022-01-15,Hồ Chí Minh,gia_dinh
+C003195,2025-06-08,Hà Nội,gia_dinh
+C003196,2026-06-29,Hồ Chí Minh,gia_dinh
+C003197,2022-07-18,Hồ Chí Minh,sinh_vien
+C003198,2025-10-09,Hà Nội,sinh_vien
+C003199,2022-02-04,,gia_dinh_tre
+C003200,2022-06-11,Đà Nẵng,gia_dinh
+C003201,2024-09-08,Hồ Chí Minh,van_phong
+C003202,2024-03-09,Hồ Chí Minh,gia_dinh
+C003203,2024-06-13,Hồ Chí Minh,gia_dinh_tre
+C003204,2023-04-16,Hồ Chí Minh,sinh_vien
+C003205,2023-06-15,Đà Nẵng,van_phong
+C003206,2024-03-02,Hồ Chí Minh,sinh_vien
+C003207,2024-05-01,Hồ Chí Minh,sinh_vien
+C003208,2025-12-17,Hồ Chí Minh,van_phong
+C003209,2022-12-14,Hồ Chí Minh,gia_dinh
+C003210,2023-11-25,Hà Nội,van_phong
+C003211,2024-07-23,Hồ Chí Minh,gia_dinh_tre
+C003212,2024-07-01,Hồ Chí Minh,van_phong
+C003213,2022-05-27,Hồ Chí Minh,gia_dinh_tre
+C003214,2025-10-29,Hồ Chí Minh,van_phong
+C003215,2023-11-06,Hồ Chí Minh,gia_dinh_tre
+C003216,2025-12-10,Hà Nội,
+C003217,2023-11-18,Hồ Chí Minh,gia_dinh_tre
+C003218,2026-02-26,Hà Nội,gia_dinh_tre
+C003219,2026-05-02,Đà Nẵng,van_phong
+C003220,2025-07-03,Đà Nẵng,van_phong
+C003221,2024-08-17,Đà Nẵng,gia_dinh
+C003222,2023-11-17,Hồ Chí Minh,gia_dinh_tre
+C003223,2025-01-31,Hồ Chí Minh,gia_dinh_tre
+C003224,2022-05-01,,gia_dinh_tre
+C003225,2023-02-23,Hà Nội,gia_dinh_tre
+C003226,2022-12-16,Đà Nẵng,sinh_vien
+C003227,2022-02-11,Hà Nội,gia_dinh_tre
+C003228,2025-10-22,Hồ Chí Minh,gia_dinh
+C003229,2022-01-29,Đà Nẵng,gia_dinh_tre
+C003230,2024-08-23,Hồ Chí Minh,gia_dinh_tre
+C003231,2024-02-24,Hồ Chí Minh,gia_dinh
+C003232,2022-01-14,Hồ Chí Minh,van_phong
+C003233,2024-07-08,Hồ Chí Minh,gia_dinh_tre
+C003234,2024-03-28,Hồ Chí Minh,gia_dinh_tre
+C003235,2024-04-04,Hồ Chí Minh,gia_dinh
+C003236,2026-02-17,Hồ Chí Minh,gia_dinh_tre
+C003237,2025-04-27,Hà Nội,gia_dinh_tre
+C003238,2024-05-21,Hà Nội,sinh_vien
+C003239,2022-10-22,Hà Nội,van_phong
+C003240,2025-04-21,Hồ Chí Minh,van_phong
+C003241,2024-05-13,Hà Nội,gia_dinh
+C003242,2023-07-02,Đà Nẵng,gia_dinh
+C003243,2024-11-26,Hồ Chí Minh,gia_dinh
+C003244,2024-10-04,Hồ Chí Minh,
+C003245,2024-11-03,,van_phong
+C003246,2023-09-27,Hồ Chí Minh,gia_dinh_tre
+C003247,2023-08-18,Hà Nội,gia_dinh
+C003248,2025-03-28,Hà Nội,gia_dinh
+C003249,2026-02-26,Hồ Chí Minh,sinh_vien
+C003250,2025-09-14,Hà Nội,van_phong
+C003251,2023-09-06,Hà Nội,gia_dinh
+C003252,2025-01-11,Đà Nẵng,gia_dinh_tre
+C003253,2026-04-29,Hồ Chí Minh,van_phong
+C003254,2026-05-23,Đà Nẵng,gia_dinh_tre
+C003255,2026-05-03,Hồ Chí Minh,gia_dinh
+C003256,2026-05-12,Hồ Chí Minh,gia_dinh_tre
+C003257,2026-05-30,Hồ Chí Minh,van_phong
+C003258,2024-11-11,Hồ Chí Minh,gia_dinh_tre
+C003259,2025-03-01,Hà Nội,gia_dinh
+C003260,2023-04-10,Hồ Chí Minh,sinh_vien
+C003261,2026-01-19,Hồ Chí Minh,gia_dinh_tre
+C003262,2025-08-18,Hồ Chí Minh,gia_dinh
+C003263,2024-08-12,,gia_dinh
+C003264,2024-07-18,Hồ Chí Minh,gia_dinh_tre
+C003265,2025-07-14,Hà Nội,van_phong
+C003266,2024-03-09,Hồ Chí Minh,gia_dinh_tre
+C003267,2023-01-30,Hồ Chí Minh,gia_dinh
+C003268,2025-02-17,Hồ Chí Minh,van_phong
+C003269,2022-09-03,Hồ Chí Minh,van_phong
+C003270,2023-07-22,Hồ Chí Minh,van_phong
+C003271,2022-02-07,Hồ Chí Minh,gia_dinh
+C003272,2022-09-02,Đà Nẵng,gia_dinh_tre
+C003273,2022-01-21,Hà Nội,van_phong
+C003274,2025-02-07,Hồ Chí Minh,gia_dinh
+C003275,2026-06-18,Hồ Chí Minh,sinh_vien
+C003276,2023-01-29,Hà Nội,sinh_vien
+C003277,2025-12-04,Hồ Chí Minh,sinh_vien
+C003278,2024-09-13,Hồ Chí Minh,gia_dinh
+C003279,2022-01-08,Hà Nội,gia_dinh
+C003280,2026-01-07,Hà Nội,van_phong
+C003281,2022-11-24,Hồ Chí Minh,gia_dinh
+C003282,2022-10-17,Hồ Chí Minh,gia_dinh_tre
+C003283,2023-05-26,Hồ Chí Minh,sinh_vien
+C003284,2024-06-30,Hà Nội,sinh_vien
+C003285,2022-12-27,Hồ Chí Minh,gia_dinh
+C003286,2026-06-11,Hồ Chí Minh,gia_dinh_tre
+C003287,2023-12-17,Hồ Chí Minh,gia_dinh
+C003288,2022-08-07,Hồ Chí Minh,sinh_vien
+C003289,2023-02-10,Đà Nẵng,sinh_vien
+C003290,2024-01-23,Hà Nội,gia_dinh_tre
+C003291,2024-07-11,Hà Nội,gia_dinh_tre
+C003292,2024-04-11,Hồ Chí Minh,sinh_vien
+C003293,2024-03-04,Hồ Chí Minh,gia_dinh
+C003294,2025-05-28,Hồ Chí Minh,gia_dinh
+C003295,2023-08-18,Hồ Chí Minh,sinh_vien
+C003296,2022-04-17,Đà Nẵng,gia_dinh_tre
+C003297,2023-08-04,Hồ Chí Minh,van_phong
+C003298,2023-09-01,Hồ Chí Minh,gia_dinh_tre
+C003299,2025-08-02,Hồ Chí Minh,gia_dinh
+C003300,2022-01-08,Hà Nội,sinh_vien
+C003301,2024-03-16,Hồ Chí Minh,gia_dinh
+C003302,2022-07-08,Hồ Chí Minh,sinh_vien
+C003303,2022-03-22,Hồ Chí Minh,van_phong
+C003304,2022-04-18,Hà Nội,gia_dinh
+C003305,2025-09-06,Hồ Chí Minh,gia_dinh_tre
+C003306,2026-05-22,Đà Nẵng,gia_dinh
+C003307,2023-11-17,Hà Nội,gia_dinh
+C003308,2022-12-12,Hồ Chí Minh,gia_dinh_tre
+C003309,2022-11-24,Hà Nội,gia_dinh
+C003310,2023-07-09,Hồ Chí Minh,gia_dinh
+C003311,2022-10-29,Đà Nẵng,van_phong
+C003312,2022-07-19,Hồ Chí Minh,van_phong
+C003313,2024-06-11,Hồ Chí Minh,van_phong
+C003314,2025-12-13,Hồ Chí Minh,gia_dinh_tre
+C003315,2024-11-28,Hồ Chí Minh,gia_dinh_tre
+C003316,2022-11-03,Đà Nẵng,van_phong
+C003317,2024-10-24,Hồ Chí Minh,gia_dinh
+C003318,2025-01-05,Hà Nội,gia_dinh_tre
+C003319,2023-04-13,Hồ Chí Minh,sinh_vien
+C003320,2022-06-28,Đà Nẵng,van_phong
+C003321,2023-10-07,Hồ Chí Minh,gia_dinh
+C003322,2022-10-03,Hồ Chí Minh,gia_dinh_tre
+C003323,2025-03-21,Hồ Chí Minh,van_phong
+C003324,2025-04-02,Hà Nội,van_phong
+C003325,2025-08-06,Hồ Chí Minh,van_phong
+C003326,2025-11-02,Hồ Chí Minh,van_phong
+C003327,2023-09-13,Hồ Chí Minh,sinh_vien
+C003328,2023-09-30,Hà Nội,gia_dinh
+C003329,2025-08-26,Hồ Chí Minh,gia_dinh_tre
+C003330,2024-07-18,Hồ Chí Minh,van_phong
+C003331,2025-11-13,Hồ Chí Minh,van_phong
+C003332,2022-07-02,Hà Nội,van_phong
+C003333,2025-08-22,,
+C003334,2022-03-13,Hồ Chí Minh,gia_dinh_tre
+C003335,2025-05-27,Hồ Chí Minh,sinh_vien
+C003336,2023-12-20,Hồ Chí Minh,van_phong
+C003337,2025-04-11,Hồ Chí Minh,sinh_vien
+C003338,2025-07-19,Hồ Chí Minh,van_phong
+C003339,2023-12-27,Hà Nội,van_phong
+C003340,2026-01-31,Hồ Chí Minh,van_phong
+C003341,2022-09-26,Đà Nẵng,sinh_vien
+C003342,2024-11-09,Hồ Chí Minh,van_phong
+C003343,2023-08-01,Hà Nội,van_phong
+C003344,2024-09-21,Hồ Chí Minh,gia_dinh_tre
+C003345,2024-03-25,Hồ Chí Minh,gia_dinh
+C003346,2026-03-07,Hồ Chí Minh,van_phong
+C003347,2022-05-27,Hồ Chí Minh,gia_dinh
+C003348,2025-12-23,Hồ Chí Minh,gia_dinh_tre
+C003349,2025-04-03,Hà Nội,gia_dinh
+C003350,2024-06-08,Đà Nẵng,gia_dinh_tre
+C003351,2022-11-06,Hồ Chí Minh,gia_dinh_tre
+C003352,2023-06-02,Hồ Chí Minh,gia_dinh
+C003353,2022-01-14,Hồ Chí Minh,sinh_vien
+C003354,2022-05-12,Hồ Chí Minh,
+C003355,2024-01-25,Hồ Chí Minh,gia_dinh_tre
+C003356,2023-03-15,Hà Nội,gia_dinh_tre
+C003357,2024-01-13,Đà Nẵng,van_phong
+C003358,2024-01-10,Đà Nẵng,gia_dinh
+C003359,2024-03-05,Hồ Chí Minh,sinh_vien
+C003360,2022-09-20,Hà Nội,van_phong
+C003361,2023-10-05,Hà Nội,van_phong
+C003362,2025-06-02,Hồ Chí Minh,gia_dinh
+C003363,2022-09-15,Hồ Chí Minh,van_phong
+C003364,2025-06-11,Hà Nội,gia_dinh
+C003365,2025-09-21,,sinh_vien
+C003366,2023-02-13,Hồ Chí Minh,van_phong
+C003367,2024-09-01,Hồ Chí Minh,gia_dinh
+C003368,2024-11-13,Hồ Chí Minh,gia_dinh
+C003369,2022-09-28,Hồ Chí Minh,gia_dinh_tre
+C003370,2025-01-23,Đà Nẵng,van_phong
+C003371,2022-05-22,Hà Nội,gia_dinh_tre
+C003372,2024-06-20,Hà Nội,van_phong
+C003373,2024-08-31,Hồ Chí Minh,gia_dinh
+C003374,2025-01-09,Hà Nội,van_phong
+C003375,2022-10-01,Hồ Chí Minh,
+C003376,2022-10-03,Hồ Chí Minh,van_phong
+C003377,2023-04-10,Hồ Chí Minh,van_phong
+C003378,2025-05-16,Hồ Chí Minh,gia_dinh_tre
+C003379,2025-08-12,Hồ Chí Minh,gia_dinh_tre
+C003380,2024-11-28,Hồ Chí Minh,van_phong
+C003381,2022-10-15,Hồ Chí Minh,gia_dinh
+C003382,2025-02-21,Hồ Chí Minh,gia_dinh
+C003383,2024-05-25,Đà Nẵng,gia_dinh_tre
+C003384,2025-07-30,Hồ Chí Minh,gia_dinh
+C003385,2024-05-27,Hà Nội,gia_dinh_tre
+C003386,2022-06-29,Hồ Chí Minh,sinh_vien
+C003387,2025-01-25,Hồ Chí Minh,gia_dinh_tre
+C003388,2025-04-29,Đà Nẵng,van_phong
+C003389,2025-01-02,Hồ Chí Minh,gia_dinh_tre
+C003390,2023-03-23,Hồ Chí Minh,van_phong
+C003391,2024-02-24,Hà Nội,gia_dinh
+C003392,2026-03-01,Hồ Chí Minh,sinh_vien
+C003393,2023-07-15,Hà Nội,sinh_vien
+C003394,2023-04-29,Hồ Chí Minh,gia_dinh
+C003395,2024-04-28,Hồ Chí Minh,sinh_vien
+C003396,2023-12-23,Hồ Chí Minh,sinh_vien
+C003397,2022-04-26,Hồ Chí Minh,sinh_vien
+C003398,2023-06-19,Hà Nội,sinh_vien
+C003399,2025-01-26,Hà Nội,gia_dinh_tre
+C003400,2025-09-13,Hồ Chí Minh,van_phong
+C003401,2023-02-11,Hồ Chí Minh,gia_dinh_tre
+C003402,2025-08-29,Hà Nội,gia_dinh_tre
+C003403,2023-11-25,Hồ Chí Minh,sinh_vien
+C003404,2025-03-17,Hồ Chí Minh,gia_dinh
+C003405,2025-09-27,Hồ Chí Minh,van_phong
+C003406,2023-05-10,Hồ Chí Minh,sinh_vien
+C003407,2024-08-05,Hà Nội,sinh_vien
+C003408,2022-01-23,Đà Nẵng,sinh_vien
+C003409,2025-02-02,Hồ Chí Minh,gia_dinh_tre
+C003410,2026-05-22,Hồ Chí Minh,gia_dinh_tre
+C003411,2023-07-12,Hồ Chí Minh,gia_dinh
+C003412,2026-06-05,Hồ Chí Minh,gia_dinh_tre
+C003413,2024-07-29,Hồ Chí Minh,gia_dinh_tre
+C003414,2025-05-30,Hà Nội,gia_dinh
+C003415,2024-05-04,Hồ Chí Minh,van_phong
+C003416,2024-11-04,Hồ Chí Minh,van_phong
+C003417,2024-06-09,Hồ Chí Minh,gia_dinh
+C003418,2022-03-19,Hồ Chí Minh,van_phong
+C003419,2025-09-07,Hồ Chí Minh,gia_dinh_tre
+C003420,2024-03-17,Hà Nội,gia_dinh_tre
+C003421,2025-06-18,Hồ Chí Minh,van_phong
+C003422,2024-11-07,Hà Nội,van_phong
+C003423,2024-02-07,Hồ Chí Minh,van_phong
+C003424,2023-03-30,Hồ Chí Minh,gia_dinh_tre
+C003425,2026-01-06,Hồ Chí Minh,sinh_vien
+C003426,2024-07-16,Hồ Chí Minh,van_phong
+C003427,2022-10-04,Hồ Chí Minh,van_phong
+C003428,2025-12-18,Hồ Chí Minh,van_phong
+C003429,2026-02-08,Hà Nội,sinh_vien
+C003430,2024-11-16,Hà Nội,van_phong
+C003431,2023-05-29,Hồ Chí Minh,van_phong
+C003432,2023-04-09,Hồ Chí Minh,sinh_vien
+C003433,2024-03-17,Hồ Chí Minh,van_phong
+C003434,2024-04-03,Hồ Chí Minh,gia_dinh
+C003435,2022-12-29,Hồ Chí Minh,van_phong
+C003436,2025-11-07,Hà Nội,gia_dinh
+C003437,2024-01-21,Hồ Chí Minh,gia_dinh_tre
+C003438,2023-06-09,Hồ Chí Minh,van_phong
+C003439,2025-11-06,Hồ Chí Minh,sinh_vien
+C003440,2025-04-22,Hồ Chí Minh,
+C003441,2025-05-02,Hà Nội,gia_dinh
+C003442,2026-01-25,Hồ Chí Minh,gia_dinh
+C003443,2022-02-25,Hồ Chí Minh,gia_dinh_tre
+C003444,2025-06-07,Hà Nội,sinh_vien
+C003445,2023-05-04,Hồ Chí Minh,sinh_vien
+C003446,2024-11-17,Hà Nội,
+C003447,2026-05-26,Hồ Chí Minh,sinh_vien
+C003448,2023-12-23,Hồ Chí Minh,van_phong
+C003449,2025-04-22,Hà Nội,van_phong
+C003450,2025-12-19,Hồ Chí Minh,gia_dinh_tre
+C003451,2025-10-30,Hồ Chí Minh,gia_dinh
+C003452,2022-02-10,Hồ Chí Minh,van_phong
+C003453,2026-02-16,Hồ Chí Minh,van_phong
+C003454,2024-09-30,Hà Nội,gia_dinh
+C003455,2022-09-17,Hà Nội,sinh_vien
+C003456,2023-03-17,Đà Nẵng,gia_dinh_tre
+C003457,2024-07-14,Hà Nội,gia_dinh
+C003458,2024-05-05,Hồ Chí Minh,van_phong
+C003459,2022-03-25,,van_phong
+C003460,2022-02-15,Hồ Chí Minh,van_phong
+C003461,2023-03-16,Hồ Chí Minh,gia_dinh
+C003462,2026-03-23,Hồ Chí Minh,gia_dinh_tre
+C003463,2024-09-12,Đà Nẵng,van_phong
+C003464,2026-01-01,Hồ Chí Minh,van_phong
+C003465,2022-05-16,Hồ Chí Minh,gia_dinh_tre
+C003466,2025-04-21,Hồ Chí Minh,van_phong
+C003467,2025-04-10,Hà Nội,
+C003468,2024-06-27,Hà Nội,van_phong
+C003469,2024-05-10,Hà Nội,sinh_vien
+C003470,2024-02-27,Hồ Chí Minh,gia_dinh_tre
+C003471,2023-08-13,Hà Nội,gia_dinh_tre
+C003472,2024-08-13,Hồ Chí Minh,van_phong
+C003473,2023-11-21,Hà Nội,van_phong
+C003474,2023-06-23,Hồ Chí Minh,van_phong
+C003475,2025-02-17,Hồ Chí Minh,sinh_vien
+C003476,2025-07-28,Hồ Chí Minh,sinh_vien
+C003477,2025-08-24,Hà Nội,sinh_vien
+C003478,2023-12-09,Hồ Chí Minh,gia_dinh
+C003479,2025-07-24,Hà Nội,gia_dinh
+C003480,2026-04-03,Hồ Chí Minh,gia_dinh
+C003481,2022-10-22,Hồ Chí Minh,gia_dinh_tre
+C003482,2022-02-22,Hồ Chí Minh,van_phong
+C003483,2024-03-16,Hồ Chí Minh,gia_dinh
+C003484,2025-12-26,Hồ Chí Minh,sinh_vien
+C003485,2022-02-21,Hồ Chí Minh,van_phong
+C003486,2023-12-29,Hà Nội,van_phong
+C003487,2022-03-13,Hồ Chí Minh,gia_dinh
+C003488,2022-01-28,Đà Nẵng,gia_dinh_tre
+C003489,2023-04-14,Hồ Chí Minh,gia_dinh_tre
+C003490,2024-02-03,Hà Nội,gia_dinh
+C003491,2024-06-04,Hồ Chí Minh,gia_dinh_tre
+C003492,2024-06-30,Hồ Chí Minh,van_phong
+C003493,2023-07-01,Hồ Chí Minh,sinh_vien
+C003494,2025-11-25,Hồ Chí Minh,sinh_vien
+C003495,2022-07-20,Hà Nội,van_phong
+C003496,2026-06-23,Hồ Chí Minh,gia_dinh_tre
+C003497,2024-03-30,,sinh_vien
+C003498,2026-01-29,Hà Nội,
+C003499,2026-06-07,Hồ Chí Minh,gia_dinh_tre
+C003500,2023-07-14,Hà Nội,van_phong
+C003501,2023-01-14,Hồ Chí Minh,gia_dinh
+C003502,2025-04-15,Hà Nội,
+C003503,2024-12-11,Hồ Chí Minh,sinh_vien
+C003504,2022-03-20,Hồ Chí Minh,gia_dinh_tre
+C003505,2025-11-09,Hồ Chí Minh,sinh_vien
+C003506,2024-04-13,Đà Nẵng,van_phong
+C003507,2026-05-19,Hồ Chí Minh,sinh_vien
+C003508,2024-10-28,Hồ Chí Minh,gia_dinh
+C003509,2025-05-22,Hà Nội,sinh_vien
+C003510,2022-01-25,Đà Nẵng,gia_dinh_tre
+C003511,2023-03-26,Hà Nội,gia_dinh
+C003512,2024-02-07,Đà Nẵng,gia_dinh_tre
+C003513,2024-01-25,Hồ Chí Minh,sinh_vien
+C003514,2026-01-20,Hồ Chí Minh,sinh_vien
+C003515,2026-01-24,Hà Nội,
+C003516,2022-07-17,Hà Nội,sinh_vien
+C003517,2025-01-22,Hồ Chí Minh,gia_dinh_tre
+C003518,2023-03-13,Hồ Chí Minh,gia_dinh
+C003519,2026-03-31,Hà Nội,
+C003520,2023-11-21,Hồ Chí Minh,gia_dinh_tre
+C003521,2025-11-02,Hồ Chí Minh,gia_dinh_tre
+C003522,2023-08-10,Hồ Chí Minh,gia_dinh
+C003523,2022-04-14,Hồ Chí Minh,gia_dinh
+C003524,2023-09-19,Hà Nội,gia_dinh_tre
+C003525,2024-11-28,Hồ Chí Minh,gia_dinh_tre
+C003526,2023-04-03,Hà Nội,gia_dinh_tre
+C003527,2022-12-30,Hồ Chí Minh,sinh_vien
+C003528,2022-05-15,Hồ Chí Minh,van_phong
+C003529,2023-01-09,Hà Nội,sinh_vien
+C003530,2025-06-09,Hồ Chí Minh,gia_dinh
+C003531,2022-02-08,Hồ Chí Minh,gia_dinh
+C003532,2024-03-29,Hồ Chí Minh,van_phong
+C003533,2022-02-16,Hồ Chí Minh,gia_dinh
+C003534,2022-02-05,Hồ Chí Minh,gia_dinh
+C003535,2022-04-05,Hà Nội,gia_dinh_tre
+C003536,2024-09-11,Hà Nội,gia_dinh_tre
+C003537,2025-10-16,Hà Nội,gia_dinh
+C003538,2026-03-29,Hồ Chí Minh,gia_dinh
+C003539,2025-03-15,Hồ Chí Minh,van_phong
+C003540,2023-01-03,Hồ Chí Minh,gia_dinh_tre
+C003541,2022-03-06,Hồ Chí Minh,gia_dinh_tre
+C003542,2025-06-05,Hồ Chí Minh,sinh_vien
+C003543,2024-01-24,Hồ Chí Minh,gia_dinh_tre
+C003544,2026-03-24,Đà Nẵng,gia_dinh
+C003545,2024-03-26,Hồ Chí Minh,sinh_vien
+C003546,2026-04-28,Hồ Chí Minh,gia_dinh_tre
+C003547,2024-01-26,Hà Nội,gia_dinh_tre
+C003548,2022-06-30,Hồ Chí Minh,gia_dinh
+C003549,2026-03-05,Hà Nội,gia_dinh
+C003550,2023-08-20,Hà Nội,
+C003551,2025-03-24,Đà Nẵng,sinh_vien
+C003552,2024-02-26,Hồ Chí Minh,
+C003553,2026-04-08,Hà Nội,van_phong
+C003554,2023-09-19,Hồ Chí Minh,gia_dinh
+C003555,2025-12-29,Hà Nội,gia_dinh_tre
+C003556,2025-01-27,Hồ Chí Minh,van_phong
+C003557,2023-09-08,Hồ Chí Minh,gia_dinh
+C003558,2025-10-27,Hồ Chí Minh,gia_dinh
+C003559,2026-05-06,Hồ Chí Minh,gia_dinh_tre
+C003560,2025-10-17,Hà Nội,gia_dinh
+C003561,2022-04-22,Hà Nội,gia_dinh
+C003562,2023-03-29,Hà Nội,sinh_vien
+C003563,2024-01-26,Hồ Chí Minh,gia_dinh_tre
+C003564,2025-04-07,Hà Nội,gia_dinh
+C003565,2023-08-07,Hồ Chí Minh,gia_dinh
+C003566,2022-05-19,Hà Nội,van_phong
+C003567,2022-08-19,Đà Nẵng,van_phong
+C003568,2025-06-16,Hồ Chí Minh,van_phong
+C003569,2024-09-10,Hà Nội,van_phong
+C003570,2022-09-10,Hồ Chí Minh,sinh_vien
+C003571,2025-12-30,Hồ Chí Minh,gia_dinh
+C003572,2023-07-15,Hồ Chí Minh,gia_dinh
+C003573,2025-12-16,Hồ Chí Minh,sinh_vien
+C003574,2025-08-19,Hà Nội,sinh_vien
+C003575,2022-03-13,Hồ Chí Minh,sinh_vien
+C003576,2025-07-10,Hồ Chí Minh,gia_dinh
+C003577,2022-08-10,Hồ Chí Minh,gia_dinh_tre
+C003578,2025-01-05,Hà Nội,gia_dinh
+C003579,2022-03-03,Đà Nẵng,van_phong
+C003580,2026-02-03,Hà Nội,gia_dinh
+C003581,2025-03-26,Hà Nội,gia_dinh
+C003582,2024-03-16,Hồ Chí Minh,sinh_vien
+C003583,2022-05-05,Hồ Chí Minh,gia_dinh
+C003584,2024-01-11,Hồ Chí Minh,sinh_vien
+C003585,2022-06-10,Hồ Chí Minh,gia_dinh
+C003586,2023-06-25,Hà Nội,gia_dinh
+C003587,2023-09-18,Hồ Chí Minh,gia_dinh
+C003588,2026-06-03,Hà Nội,van_phong
+C003589,2026-04-08,Hồ Chí Minh,gia_dinh_tre
+C003590,2022-04-16,Hồ Chí Minh,gia_dinh_tre
+C003591,2025-02-28,Hồ Chí Minh,sinh_vien
+C003592,2025-10-12,Hà Nội,gia_dinh_tre
+C003593,2024-02-15,Hà Nội,van_phong
+C003594,2022-01-02,Hà Nội,van_phong
+C003595,2022-08-21,Hồ Chí Minh,gia_dinh
+C003596,2023-01-04,Đà Nẵng,van_phong
+C003597,2025-06-28,Hồ Chí Minh,gia_dinh_tre
+C003598,2024-08-03,Hồ Chí Minh,van_phong
+C003599,2025-02-05,Đà Nẵng,gia_dinh
+C003600,2025-07-23,Hồ Chí Minh,van_phong
+C003601,2022-06-29,Hà Nội,gia_dinh_tre
+C003602,2022-10-20,Hồ Chí Minh,van_phong
+C003603,2023-08-07,Hồ Chí Minh,gia_dinh_tre
+C003604,2024-03-05,Đà Nẵng,gia_dinh
+C003605,2022-06-24,Hồ Chí Minh,gia_dinh_tre
+C003606,2022-05-03,Hà Nội,gia_dinh_tre
+C003607,2022-08-15,Hồ Chí Minh,sinh_vien
+C003608,2023-03-20,Hà Nội,gia_dinh
+C003609,2023-03-04,Hồ Chí Minh,sinh_vien
+C003610,2025-01-11,Hồ Chí Minh,sinh_vien
+C003611,2024-02-04,Hồ Chí Minh,van_phong
+C003612,2023-09-24,Hồ Chí Minh,gia_dinh_tre
+C003613,2022-03-06,Đà Nẵng,gia_dinh
+C003614,2025-07-28,Hồ Chí Minh,van_phong
+C003615,2025-11-15,Hồ Chí Minh,gia_dinh
+C003616,2023-03-04,Hồ Chí Minh,gia_dinh_tre
+C003617,2023-09-10,Hồ Chí Minh,van_phong
+C003618,2024-07-13,Hà Nội,sinh_vien
+C003619,2024-03-22,Đà Nẵng,van_phong
+C003620,2022-04-17,Hồ Chí Minh,gia_dinh_tre
+C003621,2026-04-21,Hà Nội,van_phong
+C003622,2023-10-21,Hồ Chí Minh,gia_dinh_tre
+C003623,2025-07-09,Hồ Chí Minh,gia_dinh_tre
+C003624,2025-03-28,Hà Nội,sinh_vien
+C003625,2022-09-22,Hồ Chí Minh,gia_dinh_tre
+C003626,2026-01-31,Hà Nội,gia_dinh
+C003627,2025-05-10,Hà Nội,gia_dinh_tre
+C003628,2022-06-04,Hồ Chí Minh,sinh_vien
+C003629,2024-11-02,Đà Nẵng,van_phong
+C003630,2025-08-13,Hà Nội,van_phong
+C003631,2024-06-14,,van_phong
+C003632,2026-03-02,Hà Nội,gia_dinh_tre
+C003633,2026-06-09,Hồ Chí Minh,gia_dinh
+C003634,2024-09-19,Đà Nẵng,gia_dinh
+C003635,2022-09-02,Hà Nội,gia_dinh_tre
+C003636,2025-08-16,Hồ Chí Minh,gia_dinh
+C003637,2025-10-17,Hồ Chí Minh,sinh_vien
+C003638,2025-10-09,Hà Nội,gia_dinh_tre
+C003639,2026-03-25,Hồ Chí Minh,gia_dinh
+C003640,2023-01-21,Hồ Chí Minh,gia_dinh_tre
+C003641,2024-01-29,Hồ Chí Minh,gia_dinh_tre
+C003642,2025-08-28,Hồ Chí Minh,sinh_vien
+C003643,2023-02-18,Hồ Chí Minh,gia_dinh
+C003644,2025-07-25,Hồ Chí Minh,gia_dinh
+C003645,2023-12-16,Hồ Chí Minh,van_phong
+C003646,2024-01-29,Hà Nội,gia_dinh_tre
+C003647,2024-01-17,Hồ Chí Minh,gia_dinh
+C003648,2023-08-16,Hồ Chí Minh,
+C003649,2025-10-11,Hồ Chí Minh,van_phong
+C003650,2026-03-29,Hồ Chí Minh,sinh_vien
+C003651,2024-04-18,Hồ Chí Minh,van_phong
+C003652,2022-01-16,Hồ Chí Minh,gia_dinh
+C003653,2024-09-19,Hồ Chí Minh,sinh_vien
+C003654,2024-12-04,Hà Nội,gia_dinh_tre
+C003655,2025-09-06,Hà Nội,gia_dinh_tre
+C003656,2023-10-13,Hà Nội,gia_dinh_tre
+C003657,2025-09-11,Hà Nội,gia_dinh
+C003658,2022-05-28,Hà Nội,gia_dinh
+C003659,2022-12-21,Hồ Chí Minh,van_phong
+C003660,2025-06-13,Hà Nội,sinh_vien
+C003661,2023-12-04,Hồ Chí Minh,gia_dinh
+C003662,2023-09-05,,gia_dinh
+C003663,2022-04-15,Hà Nội,gia_dinh_tre
+C003664,2026-02-06,Hồ Chí Minh,
+C003665,2023-01-31,Hồ Chí Minh,van_phong
+C003666,2026-01-09,Hồ Chí Minh,gia_dinh
+C003667,2023-08-29,Hà Nội,sinh_vien
+C003668,2025-05-28,Hà Nội,gia_dinh_tre
+C003669,2024-04-30,Hà Nội,gia_dinh_tre
+C003670,2023-03-18,Hồ Chí Minh,gia_dinh
+C003671,2024-05-22,Hà Nội,gia_dinh_tre
+C003672,2023-10-29,Hồ Chí Minh,gia_dinh_tre
+C003673,2024-11-17,Hà Nội,van_phong
+C003674,2024-03-04,Hồ Chí Minh,gia_dinh_tre
+C003675,2023-04-20,Hồ Chí Minh,van_phong
+C003676,2023-09-20,Hồ Chí Minh,gia_dinh
+C003677,2025-08-21,Hà Nội,gia_dinh_tre
+C003678,2025-11-29,Đà Nẵng,gia_dinh
+C003679,2026-03-17,Hồ Chí Minh,sinh_vien
+C003680,2023-05-17,Hồ Chí Minh,gia_dinh
+C003681,2022-12-14,Đà Nẵng,van_phong
+C003682,2025-06-17,Hồ Chí Minh,gia_dinh_tre
+C003683,2024-10-14,Hà Nội,van_phong
+C003684,2023-07-24,Hồ Chí Minh,gia_dinh_tre
+C003685,2023-11-26,Hồ Chí Minh,van_phong
+C003686,2025-09-22,Hà Nội,van_phong
+C003687,2022-01-26,Hà Nội,sinh_vien
+C003688,2025-12-03,Hồ Chí Minh,gia_dinh
+C003689,2025-01-05,Hồ Chí Minh,gia_dinh_tre
+C003690,2022-08-05,Hà Nội,gia_dinh_tre
+C003691,2025-09-13,Hồ Chí Minh,sinh_vien
+C003692,2024-04-16,Hà Nội,gia_dinh
+C003693,2024-02-13,Hồ Chí Minh,van_phong
+C003694,2024-11-12,Hồ Chí Minh,gia_dinh_tre
+C003695,2023-11-01,Đà Nẵng,gia_dinh
+C003696,2023-12-19,Hà Nội,gia_dinh_tre
+C003697,2022-11-06,Hồ Chí Minh,sinh_vien
+C003698,2023-08-22,Hà Nội,van_phong
+C003699,2022-09-24,Hồ Chí Minh,sinh_vien
+C003700,2025-12-09,Hồ Chí Minh,gia_dinh
+C003701,2023-10-08,Đà Nẵng,van_phong
+C003702,2025-07-14,Hà Nội,van_phong
+C003703,2025-09-18,Hà Nội,gia_dinh
+C003704,2024-10-19,Hồ Chí Minh,sinh_vien
+C003705,2023-03-26,Hồ Chí Minh,sinh_vien
+C003706,2023-07-19,Hồ Chí Minh,sinh_vien
+C003707,2026-06-23,Hồ Chí Minh,van_phong
+C003708,2025-06-24,Hà Nội,gia_dinh
+C003709,2024-11-25,Hồ Chí Minh,gia_dinh
+C003710,2025-11-25,Hà Nội,sinh_vien
+C003711,2022-01-28,Hồ Chí Minh,gia_dinh_tre
+C003712,2022-08-08,Hồ Chí Minh,van_phong
+C003713,2023-02-10,Hồ Chí Minh,
+C003714,2026-06-26,Hồ Chí Minh,
+C003715,2022-09-28,Hồ Chí Minh,sinh_vien
+C003716,2024-03-02,Đà Nẵng,gia_dinh
+C003717,2026-03-15,Hồ Chí Minh,gia_dinh
+C003718,2024-08-20,Đà Nẵng,gia_dinh_tre
+C003719,2025-08-02,Hồ Chí Minh,gia_dinh
+C003720,2026-01-17,Đà Nẵng,gia_dinh
+C003721,2024-04-13,Hồ Chí Minh,gia_dinh
+C003722,2022-11-13,Đà Nẵng,sinh_vien
+C003723,2026-06-02,Hồ Chí Minh,sinh_vien
+C003724,2025-08-13,Hà Nội,gia_dinh_tre
+C003725,2022-12-04,Đà Nẵng,gia_dinh
+C003726,2025-08-23,Hồ Chí Minh,sinh_vien
+C003727,2025-12-22,Hồ Chí Minh,gia_dinh_tre
+C003728,2022-12-17,Hồ Chí Minh,gia_dinh_tre
+C003729,2023-05-26,Đà Nẵng,gia_dinh_tre
+C003730,2023-06-09,Hồ Chí Minh,van_phong
+C003731,2023-05-07,Hồ Chí Minh,gia_dinh_tre
+C003732,2026-06-06,Hồ Chí Minh,sinh_vien
+C003733,2022-01-09,Hồ Chí Minh,gia_dinh
+C003734,2026-03-01,,gia_dinh
+C003735,2026-05-03,Hồ Chí Minh,gia_dinh_tre
+C003736,2023-07-15,Hà Nội,gia_dinh
+C003737,2023-03-16,Đà Nẵng,
+C003738,2026-04-25,Hồ Chí Minh,van_phong
+C003739,2024-03-02,Hà Nội,van_phong
+C003740,2025-02-05,Hồ Chí Minh,van_phong
+C003741,2025-06-22,Hà Nội,sinh_vien
+C003742,2025-07-02,Hồ Chí Minh,sinh_vien
+C003743,2022-02-02,Hà Nội,van_phong
+C003744,2024-11-12,Hồ Chí Minh,gia_dinh_tre
+C003745,2024-04-24,Hồ Chí Minh,gia_dinh_tre
+C003746,2023-07-20,Hồ Chí Minh,gia_dinh_tre
+C003747,2022-02-18,Hồ Chí Minh,van_phong
+C003748,2023-04-07,Hà Nội,gia_dinh
+C003749,2023-08-13,Hồ Chí Minh,gia_dinh
+C003750,2022-12-02,Hà Nội,sinh_vien
+C003751,2025-10-13,Hồ Chí Minh,sinh_vien
+C003752,2025-02-19,Hà Nội,sinh_vien
+C003753,2026-01-07,Hồ Chí Minh,gia_dinh
+C003754,2022-12-25,Hồ Chí Minh,van_phong
+C003755,2026-06-14,Hồ Chí Minh,gia_dinh
+C003756,2022-12-12,Hà Nội,gia_dinh_tre
+C003757,2022-07-12,Hồ Chí Minh,gia_dinh_tre
+C003758,2025-12-10,,
+C003759,2025-11-01,Hà Nội,gia_dinh
+C003760,2026-01-26,Hồ Chí Minh,sinh_vien
+C003761,2024-01-26,Hà Nội,gia_dinh_tre
+C003762,2025-03-15,Hồ Chí Minh,van_phong
+C003763,2023-04-23,Hồ Chí Minh,gia_dinh
+C003764,2024-04-07,Hà Nội,gia_dinh
+C003765,2024-06-08,Hà Nội,gia_dinh
+C003766,2023-10-15,Hà Nội,gia_dinh
+C003767,2023-02-12,Hồ Chí Minh,van_phong
+C003768,2022-10-13,Hồ Chí Minh,gia_dinh
+C003769,2024-04-30,Hồ Chí Minh,gia_dinh_tre
+C003770,2022-04-21,Hà Nội,gia_dinh_tre
+C003771,2023-09-12,Hồ Chí Minh,gia_dinh
+C003772,2024-03-03,Hà Nội,sinh_vien
+C003773,2022-02-19,Hồ Chí Minh,gia_dinh
+C003774,2024-11-03,Hồ Chí Minh,van_phong
+C003775,2025-03-03,Hồ Chí Minh,van_phong
+C003776,2023-08-11,Hồ Chí Minh,sinh_vien
+C003777,2023-08-19,Hồ Chí Minh,sinh_vien
+C003778,2025-09-28,Hà Nội,van_phong
+C003779,2023-11-01,Hà Nội,van_phong
+C003780,2025-08-02,Hồ Chí Minh,sinh_vien
+C003781,2022-11-10,Hồ Chí Minh,gia_dinh
+C003782,2023-08-29,Hồ Chí Minh,gia_dinh
+C003783,2022-10-24,Hà Nội,gia_dinh_tre
+C003784,2026-06-18,Hồ Chí Minh,sinh_vien
+C003785,2023-07-23,Đà Nẵng,sinh_vien
+C003786,2025-04-02,Hồ Chí Minh,gia_dinh_tre
+C003787,2024-04-11,Hồ Chí Minh,van_phong
+C003788,2026-03-01,Đà Nẵng,gia_dinh
+C003789,2023-09-02,Hồ Chí Minh,
+C003790,2022-01-16,Hồ Chí Minh,sinh_vien
+C003791,2025-09-29,Hồ Chí Minh,gia_dinh_tre
+C003792,2025-01-06,Hồ Chí Minh,gia_dinh_tre
+C003793,2025-10-01,Hồ Chí Minh,van_phong
+C003794,2022-03-13,Hà Nội,van_phong
+C003795,2022-09-27,Hà Nội,gia_dinh_tre
+C003796,2022-10-14,Hồ Chí Minh,van_phong
+C003797,2022-03-07,Đà Nẵng,gia_dinh
+C003798,2024-05-29,Hồ Chí Minh,gia_dinh_tre
+C003799,2022-03-09,Hồ Chí Minh,gia_dinh_tre
+C003800,2025-05-01,Hồ Chí Minh,van_phong
+C003801,2024-12-14,Hồ Chí Minh,gia_dinh
+C003802,2024-09-06,Hồ Chí Minh,sinh_vien
+C003803,2025-11-03,Đà Nẵng,sinh_vien
+C003804,2024-08-31,Hồ Chí Minh,sinh_vien
+C003805,2025-04-06,Hồ Chí Minh,gia_dinh
+C003806,2025-12-03,Hồ Chí Minh,sinh_vien
+C003807,2023-05-23,Hà Nội,gia_dinh
+C003808,2026-04-10,Hà Nội,gia_dinh
+C003809,2024-04-16,Hồ Chí Minh,gia_dinh_tre
+C003810,2025-01-30,Hồ Chí Minh,gia_dinh_tre
+C003811,2024-06-04,Hồ Chí Minh,van_phong
+C003812,2024-03-04,Hồ Chí Minh,gia_dinh
+C003813,2023-02-26,Hồ Chí Minh,gia_dinh_tre
+C003814,2024-02-14,Hồ Chí Minh,
+C003815,2023-04-23,Hồ Chí Minh,gia_dinh
+C003816,2024-07-14,Hồ Chí Minh,van_phong
+C003817,2022-04-30,Hồ Chí Minh,gia_dinh
+C003818,2025-08-07,Đà Nẵng,sinh_vien
+C003819,2023-05-03,Đà Nẵng,sinh_vien
+C003820,2025-03-30,Hồ Chí Minh,gia_dinh
+C003821,2022-03-19,,gia_dinh
+C003822,2024-11-27,Hồ Chí Minh,gia_dinh
+C003823,2025-11-18,Hồ Chí Minh,sinh_vien
+C003824,2023-03-17,Hà Nội,gia_dinh
+C003825,2026-04-13,Hồ Chí Minh,gia_dinh_tre
+C003826,2023-04-07,Hà Nội,
+C003827,2023-09-04,Đà Nẵng,gia_dinh
+C003828,2025-08-10,Hồ Chí Minh,gia_dinh
+C003829,2025-11-24,Hồ Chí Minh,sinh_vien
+C003830,2024-07-05,Hồ Chí Minh,gia_dinh_tre
+C003831,2025-01-20,Hồ Chí Minh,gia_dinh
+C003832,2023-09-01,Hồ Chí Minh,sinh_vien
+C003833,2022-01-06,Hồ Chí Minh,sinh_vien
+C003834,2023-11-12,Hà Nội,gia_dinh
+C003835,2024-06-13,Hồ Chí Minh,gia_dinh
+C003836,2022-09-28,Hồ Chí Minh,gia_dinh
+C003837,2024-03-21,Hà Nội,
+C003838,2023-07-13,Hà Nội,gia_dinh_tre
+C003839,2022-04-09,Hồ Chí Minh,sinh_vien
+C003840,2023-06-10,Hà Nội,van_phong
+C003841,2022-07-13,Hồ Chí Minh,gia_dinh
+C003842,2025-03-26,Hồ Chí Minh,gia_dinh_tre
+C003843,2025-02-12,Hồ Chí Minh,gia_dinh
+C003844,2023-01-31,Hồ Chí Minh,gia_dinh
+C003845,2024-02-09,Hà Nội,gia_dinh_tre
+C003846,2024-10-20,Hà Nội,van_phong
+C003847,2026-03-26,Hà Nội,sinh_vien
+C003848,2024-05-29,Hồ Chí Minh,van_phong
+C003849,2025-05-22,Hồ Chí Minh,van_phong
+C003850,2024-01-15,Hồ Chí Minh,gia_dinh_tre
+C003851,2023-11-14,Hồ Chí Minh,gia_dinh
+C003852,2026-04-06,Hà Nội,gia_dinh_tre
+C003853,2022-01-15,Hà Nội,van_phong
+C003854,2025-12-13,Hồ Chí Minh,sinh_vien
+C003855,2023-01-03,Hồ Chí Minh,van_phong
+C003856,2023-09-30,Hồ Chí Minh,gia_dinh_tre
+C003857,2024-05-02,Hồ Chí Minh,gia_dinh
+C003858,2025-05-21,Hồ Chí Minh,
+C003859,2023-12-01,Hồ Chí Minh,gia_dinh
+C003860,2022-01-05,Hồ Chí Minh,sinh_vien
+C003861,2022-08-19,Hồ Chí Minh,sinh_vien
+C003862,2025-05-09,Hồ Chí Minh,van_phong
+C003863,2025-11-26,Hồ Chí Minh,gia_dinh
+C003864,2025-03-18,Hà Nội,gia_dinh
+C003865,2026-05-27,Hồ Chí Minh,gia_dinh_tre
+C003866,2026-02-24,Đà Nẵng,gia_dinh
+C003867,2024-10-08,Hồ Chí Minh,gia_dinh
+C003868,2025-06-03,Hồ Chí Minh,van_phong
+C003869,2023-08-09,Hồ Chí Minh,van_phong
+C003870,2022-06-18,Hồ Chí Minh,gia_dinh_tre
+C003871,2024-01-31,,gia_dinh
+C003872,2024-03-02,Hồ Chí Minh,gia_dinh_tre
+C003873,2024-09-26,Đà Nẵng,gia_dinh_tre
+C003874,2022-06-01,Hà Nội,sinh_vien
+C003875,2024-10-12,Hồ Chí Minh,gia_dinh_tre
+C003876,2022-08-12,Hồ Chí Minh,gia_dinh
+C003877,2023-05-19,Hà Nội,gia_dinh_tre
+C003878,2026-04-23,Hồ Chí Minh,sinh_vien
+C003879,2022-02-13,Hà Nội,van_phong
+C003880,2023-11-28,Hồ Chí Minh,gia_dinh_tre
+C003881,2023-05-19,Hồ Chí Minh,gia_dinh
+C003882,2025-06-18,Hồ Chí Minh,van_phong
+C003883,2024-07-18,Hồ Chí Minh,sinh_vien
+C003884,2024-04-22,Hà Nội,gia_dinh_tre
+C003885,2022-12-17,Hồ Chí Minh,sinh_vien
+C003886,2022-01-23,Hà Nội,sinh_vien
+C003887,2023-08-21,Hồ Chí Minh,sinh_vien
+C003888,2024-12-02,Hồ Chí Minh,van_phong
+C003889,2023-04-11,Hồ Chí Minh,van_phong
+C003890,2022-02-09,Hồ Chí Minh,gia_dinh
+C003891,2022-10-30,Hồ Chí Minh,van_phong
+C003892,2022-06-24,Hồ Chí Minh,gia_dinh
+C003893,2024-09-25,Hà Nội,van_phong
+C003894,2026-04-05,Hồ Chí Minh,gia_dinh
+C003895,2026-01-24,Hồ Chí Minh,van_phong
+C003896,2023-09-13,Hà Nội,sinh_vien
+C003897,2025-05-01,Hà Nội,gia_dinh_tre
+C003898,2022-09-01,Hồ Chí Minh,sinh_vien
+C003899,2024-04-15,Hồ Chí Minh,gia_dinh
+C003900,2022-10-07,Hà Nội,sinh_vien
+C003901,2024-11-25,Hồ Chí Minh,gia_dinh
+C003902,2023-07-11,Hồ Chí Minh,gia_dinh
+C003903,2024-06-16,Hồ Chí Minh,sinh_vien
+C003904,2026-04-13,Hà Nội,gia_dinh
+C003905,2025-03-23,Hồ Chí Minh,sinh_vien
+C003906,2024-11-12,Đà Nẵng,gia_dinh
+C003907,2023-12-20,Hồ Chí Minh,gia_dinh
+C003908,2024-07-20,Hà Nội,gia_dinh
+C003909,2022-04-01,Hồ Chí Minh,van_phong
+C003910,2023-01-25,Hồ Chí Minh,gia_dinh
+C003911,2025-10-14,Hà Nội,gia_dinh_tre
+C003912,2023-07-04,Hồ Chí Minh,gia_dinh
+C003913,2024-07-19,Hồ Chí Minh,gia_dinh_tre
+C003914,2025-06-05,Hồ Chí Minh,sinh_vien
+C003915,2025-05-10,Hồ Chí Minh,sinh_vien
+C003916,2025-10-05,Hồ Chí Minh,gia_dinh
+C003917,2024-11-27,Hà Nội,van_phong
+C003918,2024-01-03,Hồ Chí Minh,gia_dinh
+C003919,2023-05-15,Hồ Chí Minh,van_phong
+C003920,2024-12-02,Hồ Chí Minh,sinh_vien
+C003921,2024-05-20,Hà Nội,sinh_vien
+C003922,2023-06-01,Hà Nội,gia_dinh
+C003923,2022-03-09,Hồ Chí Minh,van_phong
+C003924,2022-05-03,Hồ Chí Minh,gia_dinh
+C003925,2022-12-02,Đà Nẵng,sinh_vien
+C003926,2025-03-22,Hồ Chí Minh,gia_dinh_tre
+C003927,2024-08-31,Hà Nội,van_phong
+C003928,2024-02-18,Hà Nội,van_phong
+C003929,2025-03-31,Hà Nội,van_phong
+C003930,2025-05-22,Hồ Chí Minh,gia_dinh_tre
+C003931,2025-10-31,Hà Nội,sinh_vien
+C003932,2026-01-06,Hà Nội,gia_dinh_tre
+C003933,2023-02-27,Hồ Chí Minh,van_phong
+C003934,2026-04-11,Hồ Chí Minh,gia_dinh_tre
+C003935,2024-07-27,Hồ Chí Minh,gia_dinh
+C003936,2024-03-14,Hồ Chí Minh,gia_dinh
+C003937,2023-09-26,Hồ Chí Minh,gia_dinh
+C003938,2025-06-07,Hồ Chí Minh,gia_dinh_tre
+C003939,2024-12-18,Hồ Chí Minh,gia_dinh_tre
+C003940,2022-04-06,Hồ Chí Minh,gia_dinh
+C003941,2025-07-09,Hồ Chí Minh,van_phong
+C003942,2022-12-20,Hà Nội,sinh_vien
+C003943,2025-08-28,Đà Nẵng,gia_dinh_tre
+C003944,2025-03-05,Hồ Chí Minh,gia_dinh
+C003945,2024-08-24,Hồ Chí Minh,gia_dinh_tre
+C003946,2024-07-11,Hồ Chí Minh,gia_dinh_tre
+C003947,2023-04-18,Hà Nội,van_phong
+C003948,2023-03-06,Hà Nội,van_phong
+C003949,2024-09-01,Đà Nẵng,gia_dinh_tre
+C003950,2023-06-21,Hồ Chí Minh,gia_dinh_tre
+C003951,2025-03-15,Đà Nẵng,gia_dinh_tre
+C003952,2026-03-28,Hồ Chí Minh,sinh_vien
+C003953,2022-03-28,Hà Nội,sinh_vien
+C003954,2022-04-19,Hồ Chí Minh,gia_dinh_tre
+C003955,2025-12-17,Hà Nội,gia_dinh_tre
+C003956,2025-09-30,Hồ Chí Minh,sinh_vien
+C003957,2025-07-13,Hà Nội,sinh_vien
+C003958,2026-05-29,Hà Nội,gia_dinh
+C003959,2024-09-20,Hồ Chí Minh,gia_dinh_tre
+C003960,2026-02-26,Hồ Chí Minh,gia_dinh_tre
+C003961,2025-09-18,Hà Nội,van_phong
+C003962,2024-04-01,Hồ Chí Minh,gia_dinh
+C003963,2025-12-07,Hồ Chí Minh,
+C003964,2026-06-26,Hồ Chí Minh,van_phong
+C003965,2024-07-25,Hồ Chí Minh,gia_dinh_tre
+C003966,2024-10-01,Hồ Chí Minh,van_phong
+C003967,2023-10-11,Hồ Chí Minh,gia_dinh
+C003968,2022-07-10,Hồ Chí Minh,gia_dinh_tre
+C003969,2024-07-21,Hồ Chí Minh,van_phong
+C003970,2022-05-22,Hà Nội,gia_dinh
+C003971,2025-01-01,Đà Nẵng,sinh_vien
+C003972,2024-04-19,Hà Nội,gia_dinh
+C003973,2025-04-05,Hồ Chí Minh,gia_dinh
+C003974,2022-06-17,Đà Nẵng,van_phong
+C003975,2023-07-20,Hồ Chí Minh,gia_dinh
+C003976,2025-07-06,Hồ Chí Minh,sinh_vien
+C003977,2026-01-02,Đà Nẵng,gia_dinh
+C003978,2025-02-08,Hà Nội,gia_dinh
+C003979,2024-01-14,Hà Nội,gia_dinh_tre
+C003980,2023-11-04,Hà Nội,gia_dinh
+C003981,2024-05-13,Hồ Chí Minh,sinh_vien
+C003982,2024-04-18,Hồ Chí Minh,sinh_vien
+C003983,2023-06-15,Hà Nội,gia_dinh_tre
+C003984,2025-08-06,Hồ Chí Minh,gia_dinh_tre
+C003985,2024-08-31,Hồ Chí Minh,sinh_vien
+C003986,2023-07-16,Hà Nội,sinh_vien
+C003987,2026-03-14,Hà Nội,gia_dinh_tre
+C003988,2022-06-24,Hồ Chí Minh,gia_dinh
+C003989,2022-10-29,Hà Nội,gia_dinh
+C003990,2022-07-04,Hà Nội,
+C003991,2025-09-24,Hà Nội,gia_dinh_tre
+C003992,2023-05-25,Hồ Chí Minh,gia_dinh_tre
+C003993,2024-03-29,Hồ Chí Minh,van_phong
+C003994,2025-08-26,Hồ Chí Minh,gia_dinh_tre
+C003995,2026-03-11,Hồ Chí Minh,gia_dinh
+C003996,2025-10-01,Hồ Chí Minh,gia_dinh
+C003997,2025-01-09,Hồ Chí Minh,gia_dinh
+C003998,2025-10-29,Hồ Chí Minh,gia_dinh
+C003999,2022-06-05,Đà Nẵng,gia_dinh
+C004000,2024-02-26,Hồ Chí Minh,gia_dinh_tre
+C000000,2024-01-15,Hồ Chí Minh,van_phong
